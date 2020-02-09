@@ -1,31 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fotobook art_id="9206" externalProjectId="" identifier="c01c4b0e-8622-4de1-9655-22002d0d1cb5" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB28" startdatecalendarium="" useSpineLogo="1" version="4.0">
-    <project createdWithHPSVersion="6.4.7" createdWithHPSVersionBuild="20191106" projectID="d4874f82-7f5e-458b-915f-25b69bf05b1e" projectIDCreatedEpoch="1580670546"/>
-    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-02-02 20:09"/>
+<fotobook art_id="9759" externalProjectId="" identifier="ae2b9591-5e66-468c-a690-bb6f9224c8d8" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
+    <project createdWithHPSVersion="6.4.7" createdWithHPSVersionBuild="20191106" projectID="27d8994f-170d-4b1c-b15c-fd22114a5c55" projectIDCreatedEpoch="1581246294"/>
+    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-02-09 13:35"/>
     <articleConfig normalpages="26" pagenaming="1" productvariant="pages:26" totalpages="31"/>
-    <pagenumbering bgcolor="#00000000" fontbold="0" fontfamily="Calibri" fontitalics="0" fontsize="24" format="0" margin="110" position="0" textcolor="#ff000000" textstring="%" verticalMargin="50">
+    <pagenumbering bgcolor="#00000000" fontbold="0" fontfamily="Calibri" fontitalics="0" fontsize="24" format="0" margin="111" position="0" textcolor="#ff000000" textstring="%" verticalMargin="50">
         <outline enabled="0" width="1"/>
     </pagenumbering>
     <extra>
-        <lastTextFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+        <lastTextFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
     </extra>
     <page designStyleID="-1" pagenr="0" rotation="0" type="fullcover">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="82069"/>
+        <bundlesize height="2100" width="5575"/>
+        <designElementIDs background="201" layout="82068"/>
         <background alignment="4" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="82069" layout="1" templatename="fullcoverpage_portrait,normal"/>
+        <background designElementId="82068" layout="1" templatename="fullcoverpage_landscape,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="2800" left="-50" rotation="0" top="-50" width="2100" zposition="100"/>
+            <position height="2300" left="-100" rotation="0" top="-100" width="2842" zposition="100"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="2800" left="2050" rotation="0" top="-50" width="2100" zposition="101"/>
+            <position height="2300" left="2833" rotation="0" top="-100" width="2842" zposition="101"/>
             <decoration/>
             <image/>
+        </area>
+        <area areatype="spinelogoarea" isResizable="0">
+            <position height="45.5" left="2726.94" rotation="270" top="1967.19" width="120.1199999999999" zposition="6999"/>
+            <decoration/>
+            <clipart designElementId="0"/>
+        </area>
+        <area areatype="spinetextarea" isResizable="0">
+            <position height="91" left="2012.5" rotation="270" top="779.5" width="1550" zposition="7000"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="spine"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Calibri'; font-size:12pt; font-weight:400; font-style:normal;">
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]><outline enabled="0" width="0"/>
+                <textFormat Alignment="ALIGNLEADING,ALIGNVCENTER" IndentMargin="0" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,12,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
         </area>
         <area areatype="textarea" isResizable="1">
-            <position height="540" left="2246.172248803828" rotation="0" top="196.3636363636364" width="1657.655502392344" zposition="7000"/>
+            <position height="550" left="3033.14598540146" rotation="0" top="200" width="2341.70802919708" zposition="7000"/>
             <decoration/>
             <text applySpotColor="0" areaTextType="title"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><style type="text/css">
@@ -37,443 +53,389 @@ p, li { white-space: pre-wrap; }
         </area>
     </page>
     <page designStyleID="-1" pagenr="0" rotation="0" type="spine">
-        <bundlesize height="2700" width="4100"/>
+        <bundlesize height="2100" width="5575"/>
         <designElementIDs background="201"/>
         <background alignment="4" designElementId="201" rotation="0" type="1"/>
     </page>
     <page designStyleID="-1" pagenr="0" rotation="0" type="fullcover">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="82075"/>
+        <bundlesize height="2100" width="5575"/>
+        <designElementIDs background="201" layout="82074"/>
         <background alignment="4" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="82075" layout="1" templatename="fullcoverpage_with_text_portrait,normal"/>
+        <background designElementId="82074" layout="1" templatename="fullcoverpage_with_text_landscape,normal"/>
     </page>
     <page designStyleID="-1" pagenr="0" rotation="0" type="emptypage">
-        <bundlesize height="2700" width="4100"/>
+        <bundlesize height="2050" width="5400"/>
         <designElementIDs background="201"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="110" width="1830" zposition="100"/>
+        <area areatype="textarea" isResizable="1">
+            <position height="1018" left="2811" rotation="0" top="100" width="2538" zposition="7000"/>
             <decoration/>
-            <image/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arezzo'; color:#000000;">Album tematycznie obejmuje osoby i wydarzenia związane z rodziną Junger, zamieszkującą Kołomyję w latach międzywojennych.</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Arezzo'; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arezzo'; color:#000000;">Materiały zawarte w niniejszym albumie pochodzą głównie ze zbiorów Edwarda Jungera i są obecnie przechowywane u jego syna Jerzego Jungeraa</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Arezzo'; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Pomysł na stworzenie niniejszego albumu powstał dzięki bliskim kontaktom z moją Rodziną, której głównym ogniwem był Edward Junger.</p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Wybór zdjęć i dobór komentarzy:</p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">- Jerzy Junger, syn Edwarda Jungera</p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">- Sławomir Siudek [SS], wnuk Edwarda Jungera</p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">- Janka Gapińska, młodsza córka Rudolfa Jungera</p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
         </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="1390" width="1830" zposition="101"/>
+        <area areatype="textarea" isResizable="1">
+            <position height="167" left="2874" rotation="0" top="1117" width="2475" zposition="7001"/>
             <decoration/>
-            <image/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table border="0" style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arezzo'; font-size:24pt; color:#000000;">„Człowiek żyje tak długo, aż nie zginie po nim pamięć.”</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNHCENTER" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Arezzo,24,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="99.4101553443079" left="2874" rotation="0" top="1899.589844655692" width="1324.031996290286" zposition="7002"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Edycję albumu zakończono styczeń 2020r.</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
         </area>
     </page>
     <page designStyleID="-1" pagenr="1" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="3" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
     </page>
     <page designStyleID="-1" pagenr="2" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="110" width="1830" zposition="100"/>
+            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="1390" width="1830" zposition="101"/>
+            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="110" width="1830" zposition="102"/>
-            <decoration/>
-            <image/>
-        </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="1390" width="1830" zposition="103"/>
+            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
             <decoration/>
             <image/>
         </area>
     </page>
     <page designStyleID="-1" pagenr="3" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="3" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
     </page>
     <page designStyleID="-1" pagenr="4" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="110" width="1830" zposition="100"/>
+            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="1390" width="1830" zposition="101"/>
+            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="110" width="1830" zposition="102"/>
-            <decoration/>
-            <image/>
-        </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="1390" width="1830" zposition="103"/>
+            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
             <decoration/>
             <image/>
         </area>
     </page>
     <page designStyleID="-1" pagenr="5" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="3" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
     </page>
     <page designStyleID="-1" pagenr="6" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="110" width="1830" zposition="100"/>
+            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="1390" width="1830" zposition="101"/>
+            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="110" width="1830" zposition="102"/>
-            <decoration/>
-            <image/>
-        </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="1390" width="1830" zposition="103"/>
+            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
             <decoration/>
             <image/>
         </area>
     </page>
     <page designStyleID="-1" pagenr="7" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="3" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
     </page>
     <page designStyleID="-1" pagenr="8" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="110" width="1830" zposition="100"/>
+            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="1390" width="1830" zposition="101"/>
+            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="110" width="1830" zposition="102"/>
-            <decoration/>
-            <image/>
-        </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="1390" width="1830" zposition="103"/>
+            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
             <decoration/>
             <image/>
         </area>
     </page>
     <page designStyleID="-1" pagenr="9" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="3" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
     </page>
     <page designStyleID="-1" pagenr="10" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="110" width="1830" zposition="100"/>
+            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="1390" width="1830" zposition="101"/>
+            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="110" width="1830" zposition="102"/>
-            <decoration/>
-            <image/>
-        </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="1390" width="1830" zposition="103"/>
+            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
             <decoration/>
             <image/>
         </area>
     </page>
     <page designStyleID="-1" pagenr="11" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="3" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
     </page>
     <page designStyleID="-1" pagenr="12" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="110" width="1830" zposition="100"/>
+            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="1390" width="1830" zposition="101"/>
+            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="110" width="1830" zposition="102"/>
-            <decoration/>
-            <image/>
-        </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="1390" width="1830" zposition="103"/>
+            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
             <decoration/>
             <image/>
         </area>
     </page>
     <page designStyleID="-1" pagenr="13" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="3" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
     </page>
     <page designStyleID="-1" pagenr="14" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="110" width="1830" zposition="100"/>
+            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="1390" width="1830" zposition="101"/>
+            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="110" width="1830" zposition="102"/>
-            <decoration/>
-            <image/>
-        </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="1390" width="1830" zposition="103"/>
+            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
             <decoration/>
             <image/>
         </area>
     </page>
     <page designStyleID="-1" pagenr="15" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="3" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
     </page>
     <page designStyleID="-1" pagenr="16" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="110" width="1830" zposition="100"/>
+            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="1390" width="1830" zposition="101"/>
+            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="110" width="1830" zposition="102"/>
-            <decoration/>
-            <image/>
-        </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="1390" width="1830" zposition="103"/>
+            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
             <decoration/>
             <image/>
         </area>
     </page>
     <page designStyleID="-1" pagenr="17" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="3" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
     </page>
     <page designStyleID="-1" pagenr="18" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="110" width="1830" zposition="100"/>
+            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="1390" width="1830" zposition="101"/>
+            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="110" width="1830" zposition="102"/>
-            <decoration/>
-            <image/>
-        </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="1390" width="1830" zposition="103"/>
+            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
             <decoration/>
             <image/>
         </area>
     </page>
     <page designStyleID="-1" pagenr="19" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="3" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
     </page>
     <page designStyleID="-1" pagenr="20" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="110" width="1830" zposition="100"/>
+            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="1390" width="1830" zposition="101"/>
+            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="110" width="1830" zposition="102"/>
-            <decoration/>
-            <image/>
-        </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="1390" width="1830" zposition="103"/>
+            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
             <decoration/>
             <image/>
         </area>
     </page>
     <page designStyleID="-1" pagenr="21" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="3" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
     </page>
     <page designStyleID="-1" pagenr="22" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="110" width="1830" zposition="100"/>
+            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="1390" width="1830" zposition="101"/>
+            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="110" width="1830" zposition="102"/>
-            <decoration/>
-            <image/>
-        </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="1390" width="1830" zposition="103"/>
+            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
             <decoration/>
             <image/>
         </area>
     </page>
     <page designStyleID="-1" pagenr="23" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="3" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
     </page>
     <page designStyleID="-1" pagenr="24" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="110" width="1830" zposition="100"/>
+            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="1390" width="1830" zposition="101"/>
+            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="110" width="1830" zposition="102"/>
-            <decoration/>
-            <image/>
-        </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="2160" rotation="0" top="1390" width="1830" zposition="103"/>
+            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
             <decoration/>
             <image/>
         </area>
     </page>
     <page designStyleID="-1" pagenr="25" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="3" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
     </page>
     <page designStyleID="-1" pagenr="26" rotation="0" type="normalpage">
-        <bundlesize height="2700" width="4100"/>
-        <designElementIDs background="201" layout="125061"/>
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125061" layout="1" templatename="schema_portrait_002,normal"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="110" width="1830" zposition="100"/>
-            <decoration/>
-            <image/>
-        </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1200" left="110" rotation="0" top="1390" width="1830" zposition="101"/>
+            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
             <decoration/>
             <image/>
         </area>
     </page>
     <page designStyleID="-1" pagenr="0" rotation="0" type="emptypage">
-        <bundlesize height="2700" width="4100"/>
+        <bundlesize height="2050" width="5400"/>
         <designElementIDs background="201"/>
         <background alignment="3" designElementId="201" rotation="0" type="1"/>
     </page>
     <userfeedback></userfeedback>
     <fotoRelationships/>
-    <statistics assistantUsed="0" countPauses="0" elapsedTimeGross="2020-02-02T20:07:31" elapsedTimeNet="95" fotosAdded="0" fotosRemoved="0" pauseTime="0" sessionsUsed="1"/>
+    <statistics assistantUsed="0" countPauses="1" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="2117" fotosAdded="0" fotosRemoved="0" pauseTime="964" sessionsUsed="2"/>
 </fotobook>
