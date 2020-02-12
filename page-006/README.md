@@ -1,1 +1,0 @@
-Pierwsza od prawej Anna Junger, w środku – Dziadek Wokraczka.

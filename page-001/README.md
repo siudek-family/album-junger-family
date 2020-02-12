@@ -10,7 +10,6 @@ Wybór zdjęć i dobór komentarzy:
 - Sławomir Siudek [SS], wnuk Edwarda Jungera
 - Janka Gapińska, młodsza córka Rudolfa Jungera
 
-
 "Człowiek żyje tak długo, aż nie zginie po nim pamięć."
 
 Edycję albumu zakończono styczeń 2020r.
