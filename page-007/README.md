@@ -1,0 +1,1 @@
+![Swiadectwo](photo.png)
