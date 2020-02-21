@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fotobook art_id="9759" externalProjectId="" identifier="a793ef94-eda9-4a1f-bec4-504e7be7e566" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
+<fotobook art_id="9759" externalProjectId="" identifier="c6aeb0ec-be9a-45a3-991e-aab70e9e92d1" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
     <project createdWithHPSVersion="6.4.7" createdWithHPSVersionBuild="20191106" projectID="27d8994f-170d-4b1c-b15c-fd22114a5c55" projectIDCreatedEpoch="1581246294"/>
-    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-02-20 19:44"/>
+    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-02-21 20:38"/>
     <articleConfig normalpages="26" pagenaming="1" productvariant="pages:26" totalpages="31"/>
     <pagenumbering bgcolor="#00000000" fontbold="0" fontfamily="Calibri" fontitalics="0" fontsize="24" format="0" margin="111" position="0" textcolor="#ff000000" textstring="%" verticalMargin="50">
         <outline enabled="0" width="1"/>
@@ -48,7 +48,7 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 </style></head><body style=" font-family:'Calibri'; font-size:12pt; font-weight:400; font-style:normal;">
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]><outline enabled="0" width="0"/>
-                <textFormat Alignment="ALIGNLEFT,ALIGNVCENTER" IndentMargin="0" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,12,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+                <textFormat Alignment="ALIGNVCENTER,ALIGNLEFT" IndentMargin="0" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,12,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
             </text>
         </area>
     </page>
@@ -104,7 +104,7 @@ p, li { white-space: pre-wrap; }
             <position height="2110" left="-30" rotation="0" top="-30" width="2730" zposition="1"/>
             <decoration/>
             <imagebackground backgroundPosition="LEFT_OR_TOP" filename="safecontainer:/mapa-kolomea.png" useABK="1">
-                <cutout left="-1.89687e-14" scale="0.998902" top="-429.868"/>
+                <cutout left="-2.04661e-13" scale="0.998902" top="-429.868"/>
             </imagebackground>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -132,7 +132,7 @@ p, li { white-space: pre-wrap; }
                 <border applySpotColor="0" color="#ffbbbbbb" enabled="1" position="outside" width="5"/>
             </decoration>
             <image filename="safecontainer:/6bs7u41c_1_anna-junger-cut.jpeg" useABK="0">
-                <cutout left="0" scale="2.02573" top="-0.00534773"/>
+                <cutout left="0" scale="2.02573" top="-0.00641728"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -146,7 +146,7 @@ p, li { white-space: pre-wrap; }
             <position height="1157.431022490146" left="2893.577556225365" rotation="0" top="775.3303964757711" width="1211.099003014144" zposition="104"/>
             <decoration/>
             <image filename="safecontainer:/photo-down.jpg" useABK="0">
-                <cutout left="0.098325" scale="0.476248" top="-190.677"/>
+                <cutout left="0.0981555" scale="0.476248" top="-190.677"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -186,7 +186,7 @@ p, li { white-space: pre-wrap; }
             <position height="1315.811268545255" left="790.9253027732934" rotation="0" top="540.1887314547862" width="1763.074697226726" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/photo-bottom.png" useABK="1">
-                <cutout left="-208.178" scale="1.89053" top="-0.00477711"/>
+                <cutout left="-208.18" scale="1.89053" top="-0.00597139"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -219,14 +219,14 @@ p, li { white-space: pre-wrap; }
             <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
             <decoration/>
             <image filename="safecontainer:/cjio1xsb_1_image-009-01-optimize.jpeg" useABK="0">
-                <cutout left="-50" scale="0.860771" top="0"/>
+                <cutout left="-50.0003" scale="0.860771" top="3.55071e-14"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1776.999999999958" left="1187.823484848482" rotation="0" top="129" width="1412.176515151481" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/image-008.png" useABK="1">
-                <cutout left="0" scale="0.961318" top="-4.19917e-11"/>
+                <cutout left="0" scale="0.961318" top="-4.19555e-11"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -270,19 +270,32 @@ p, li { white-space: pre-wrap; }
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
         <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
+            <position height="1948" left="-30" rotation="0" top="51" width="1326.444996584807" zposition="100"/>
             <decoration/>
-            <image/>
+            <image filename="safecontainer:/image-010-01.jpg" useABK="1">
+                <cutout left="0" scale="1.04318" top="-7.10516"/>
+            </image>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
+            <position height="1939.000000000023" left="4129.751677852624" rotation="0" top="51" width="1210.248322147665" zposition="101"/>
             <decoration/>
-            <image/>
+            <image filename="safecontainer:/image-011-01.jpg" useABK="1">
+                <cutout left="0" scale="1.25285" top="-0.202072"/>
+            </image>
         </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
+        <area areatype="textarea" isResizable="1">
+            <position height="1948" left="1296.444996584807" rotation="0" top="51" width="1292.555003415193" zposition="7000"/>
             <decoration/>
-            <image/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">W 1960r. córka Stefani – Halinka – wychodzi za mąż za Ryszarda Ciećkowskiego z Piły i mieszkają początkowo wciąż pod adresem Pilska 13.</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Gdy umiera Anna Junger w marcu 1965 r., Stefania przeprowadza się do córki Halinki która wcześniej z mężem wyprowadziła się na ul Grunwaldzką.</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Halinka i Ryszard Ciećkowscy pracowali w Trzcianeckiej Fabryce Mebli. W związku ze zmianą siedziby zakładu – przeniesienie do Obornik Wielkopolskich - rodzina Ciećkowskich wraz ze Stefanią Hamaluk przenoszą się razem do Obornik Wielkopolskich.</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">2 września 1978r. Stefania umiera w Obornikach i tam zostaje pochowana. Córka jej Halina wraz z mężem Ryszardem wracają później do Trzcianki (ponieważ siedziba firmy zostaje ponownie przeniesiona do Trzcianki), czego efektem jest że grób Stefanii w Obornikach jest jedymy grobem rodzinnym w tej miejscowości mimo że nie ma tam obecnie żadnego członka rodziny.</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Tuż przed wyjazdem rodziny Jungerów z Kołomyi na ziemie odzyskane został zastrzelony Roman Hamaluk, mąż Stefani. W roku 1956 jego Edward Junger odnalazł grób Romana na cmentarzu w Kołomyi.</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="214" left="2856.480408068631" rotation="0" top="51" width="834.6858335265479" zposition="7001"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Stefania Hamaluk (z domu Junger)</span></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">oraz jej mąż Roman Hamaluk</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
         </area>
     </page>
     <page designStyleID="-1" pagenr="11" rotation="0" type="normalpage">
@@ -501,11 +514,15 @@ p, li { white-space: pre-wrap; }
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-005/photo-down.jpg">
             <foto id="safecontainer:/photo-down.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-005/photo-right.jpg">
-            <foto id="safecontainer:/photo-right.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-004/anna-junger.jpg">
+            <foto id="safecontainer:/anna-junger.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY">
+                <foto id="cewe:effect=cut,timestamp=0/safecontainer:/anna-junger.jpg" nature="RELATIONSHIP_MODIFIED_COPY">
+                    <foto id="safecontainer:/6bs7u41c_1_anna-junger-cut.jpeg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+                </foto>
+            </foto>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-006/photo-bottom.png">
-            <foto id="safecontainer:/photo-bottom.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-002/mapa-kolomea.png">
+            <foto id="safecontainer:/mapa-kolomea.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-007/photo-007.png">
             <foto id="safecontainer:/photo-007.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY">
@@ -519,8 +536,11 @@ p, li { white-space: pre-wrap; }
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-008/image-008.png">
             <foto id="safecontainer:/image-008.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-002/mapa-kolomea.png">
-            <foto id="safecontainer:/mapa-kolomea.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-005/photo-right.jpg">
+            <foto id="safecontainer:/photo-right.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-011/image-011-01.jpg">
+            <foto id="safecontainer:/image-011-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-009/image-009-01.jpg">
             <foto id="safecontainer:/image-009-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY">
@@ -529,13 +549,12 @@ p, li { white-space: pre-wrap; }
                 </foto>
             </foto>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-004/anna-junger.jpg">
-            <foto id="safecontainer:/anna-junger.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY">
-                <foto id="cewe:effect=cut,timestamp=0/safecontainer:/anna-junger.jpg" nature="RELATIONSHIP_MODIFIED_COPY">
-                    <foto id="safecontainer:/6bs7u41c_1_anna-junger-cut.jpeg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-                </foto>
-            </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-006/photo-bottom.png">
+            <foto id="safecontainer:/photo-bottom.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-010/image-010-01.jpg">
+            <foto id="safecontainer:/image-010-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
     </fotoRelationships>
-    <statistics assistantUsed="0" countPauses="3" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="8024" fotosAdded="18" fotosRemoved="8" pauseTime="3119" sessionsUsed="8"/>
+    <statistics assistantUsed="0" countPauses="3" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="9441" fotosAdded="21" fotosRemoved="9" pauseTime="3119" sessionsUsed="9"/>
 </fotobook>
