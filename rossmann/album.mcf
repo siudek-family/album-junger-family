@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fotobook art_id="9759" externalProjectId="" identifier="e565833c-66d2-48fe-9570-29dbb40b211f" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
+<fotobook art_id="9759" externalProjectId="" identifier="8834479d-dbb9-461e-a301-f7325bee7e7b" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
     <project createdWithHPSVersion="6.4.7" createdWithHPSVersionBuild="20191106" projectID="27d8994f-170d-4b1c-b15c-fd22114a5c55" projectIDCreatedEpoch="1581246294"/>
-    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-03-02 19:19"/>
+    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-03-02 19:49"/>
     <articleConfig normalpages="26" pagenaming="1" productvariant="pages:26" totalpages="31"/>
     <pagenumbering bgcolor="#00000000" fontbold="0" fontfamily="Calibri" fontitalics="0" fontsize="24" format="0" margin="111" position="0" textcolor="#ff000000" textstring="%" verticalMargin="50">
         <outline enabled="0" width="1"/>
     </pagenumbering>
     <extra>
-        <lastTextFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+        <lastTextFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
     </extra>
     <page designStyleID="-1" pagenr="0" rotation="0" type="fullcover">
         <bundlesize height="2100" width="5575"/>
@@ -506,6 +506,20 @@ p, li { white-space: pre-wrap; }
                 <cutout left="0" scale="0.571393" top="3.76687e-14"/>
             </image>
         </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1040.552377831964" left="2842.978437282633" rotation="0" top="129" width="811.6621025280855" zposition="104"/>
+            <decoration/>
+            <image filename="safecontainer:/image-019-01.jpg" useABK="1">
+                <cutout left="-0.0913738" scale="1.33747" top="0"/>
+            </image>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1146.902173913154" left="3553.999999999827" rotation="0" top="843.0978260867934" width="1796.000000000173" zposition="105"/>
+            <decoration/>
+            <image filename="safecontainer:/image-019-02.jpg" useABK="0">
+                <cutout left="0" scale="1.6553" top="-0.110203"/>
+            </image>
+        </area>
         <area areatype="textarea" isResizable="1">
             <position height="1811" left="1235.498624484182" rotation="0" top="129" width="1344.45013507993" zposition="7000"/>
             <decoration/>
@@ -528,10 +542,17 @@ p, li { white-space: pre-wrap; }
             </text>
         </area>
         <area areatype="textarea" isResizable="1">
-            <position height="960.8161372594483" left="2886.158126594019" rotation="0" top="345.0034778576397" width="1598.887085555298" zposition="7003"/>
+            <position height="328.9325295617898" left="3729.102498452543" rotation="0" top="129" width="1124.924860694049" zposition="7003"/>
             <decoration/>
-            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:400; color:#000000;">Karta z życzeniami dla Joanny Jungerówny od jej ucznia Koscia i &quot;Ceść&quot; od Zbyszka (zapewne ojca tegoż ucznia), datowana 12/V/1931r. ![image-019-01](image-019-01.png) Karta wysłana z Kołomyi powala przypuścić że Hasia wczesniej uczyła przez jakiś czas w Kołomyi zanim przeniosła się do Dziewiętni. Jej uczniowie i ich rodzice pamiętali o niej. ![image-019-02](image-019-02.png)</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:400; color:#000000;">Karta z życzeniami dla Joanny Jungerówny od jej ucznia Koscia i &quot;Ceść&quot; od Zbyszka (zapewne ojca tegoż ucznia), datowana 12/V/1931r.</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
                 <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="554" left="2842.978437282633" rotation="0" top="1403.264411219398" width="711.0215627171938" zposition="7004"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Karta wysłana z Kołomyi powala przypuścić, że Hasia wcześniej uczyła przez jakiś czas w Kołomyi zanim przeniosła się do Dziewiętni.</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Jej uczniowie i ich rodzice pamiętali o niej. </span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
             </text>
         </area>
     </page>
@@ -546,8 +567,57 @@ p, li { white-space: pre-wrap; }
         <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
         <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1189.999999999989" left="-30" rotation="0" top="128" width="1625.999999999997" zposition="100"/>
+            <decoration/>
+            <image filename="safecontainer:/image-020-01.jpg" useABK="0">
+                <cutout left="0" scale="1.76356" top="-10.0828"/>
+            </image>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1245.709810387469" left="1378" rotation="0" top="834.2901896125309" width="1322" zposition="101"/>
+            <decoration/>
+            <image filename="safecontainer:/image-020-02.jpg" useABK="0">
+                <cutout left="0" scale="1.90216" top="-0.101929"/>
+            </image>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1347.556860275513" left="2700" rotation="0" top="159.5177370739625" width="1550.336554445249" zposition="102"/>
+            <decoration/>
+            <image filename="safecontainer:/Foto44.A.png.jpg" useABK="0">
+                <cutout left="-107.557" scale="2.12214" top="0"/>
+            </image>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1430.228706747321" left="4081.618673236837" rotation="0" top="559.7712932526887" width="1268.381326763163" zposition="103"/>
+            <decoration/>
+            <image filename="safecontainer:/Foto45.A.png.jpg" useABK="0">
+                <cutout left="-323.812" scale="2.35961" top="0"/>
+            </image>
+        </area>
         <area areatype="textarea" isResizable="1">
-            <position height="78" left="62" rotation="0" top="50" width="2529" zposition="7000"/>
+            <position height="127.0959888708556" left="1620.14537444934" rotation="0" top="159.5177370739625" width="969.85462555066" zposition="7001"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Hasia z uczniami w Dziewiętni.</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="300.4869000695574" left="51" rotation="0" top="1684.21052631579" width="1303.045907720844" zposition="7002"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Hasia mieszkała w Dziewiętni co najmniej do 20 IV 1933, gdyż jedno ze zdjęć (nie umieszczone w albumie ze względu na niską jakość) jest podpisane ‘Dziewiętnia’ i tak datowane.</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="78" left="60.99999999999955" rotation="0" top="50" width="2529" zposition="7004"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table border="0" style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Joanna &quot;Hasia&quot; Junger</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="78" left="2821" rotation="0" top="50" width="2529" zposition="7005"/>
             <decoration/>
             <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table border="0" style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Joanna &quot;Hasia&quot; Junger</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1"/>
                 <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
@@ -566,19 +636,18 @@ p, li { white-space: pre-wrap; }
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
         <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
+            <position height="1633.456542353913" left="291" rotation="0" top="275.0000000000194" width="2045.764333615176" zposition="100"/>
             <decoration/>
-            <image/>
+            <image filename="safecontainer:/Foto48.A.png.jpg" useABK="0">
+                <cutout left="-50.8676" scale="2.60936" top="0"/>
+            </image>
         </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
+        <area areatype="textarea" isResizable="1">
+            <position height="78" left="50" rotation="0" top="50" width="2529" zposition="7000"/>
             <decoration/>
-            <image/>
-        </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
-            <decoration/>
-            <image/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table border="0" style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Joanna &quot;Hasia&quot; Junger</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
         </area>
     </page>
     <page designStyleID="-1" pagenr="23" rotation="0" type="normalpage">
@@ -632,14 +701,14 @@ p, li { white-space: pre-wrap; }
     </page>
     <userfeedback></userfeedback>
     <fotoRelationships>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-008/image-008.png">
-            <foto id="safecontainer:/image-008.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-011/image-011-01.jpg">
             <foto id="safecontainer:/image-011-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-017/image-017-02.png">
             <foto id="safecontainer:/image-017-02.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-008/image-008.png">
+            <foto id="safecontainer:/image-008.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-013/image-013-01.png">
             <foto id="safecontainer:/image-013-01.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
@@ -674,6 +743,9 @@ p, li { white-space: pre-wrap; }
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-014/image-014-01.jpg">
             <foto id="safecontainer:/image-014-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-015/image-015-01.png">
+            <foto id="safecontainer:/image-015-01.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-004/anna-junger.jpg">
             <foto id="safecontainer:/anna-junger.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY">
                 <foto id="cewe:effect=cut,timestamp=0/safecontainer:/anna-junger.jpg" nature="RELATIONSHIP_MODIFIED_COPY">
@@ -681,14 +753,17 @@ p, li { white-space: pre-wrap; }
                 </foto>
             </foto>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-015/image-015-01.png">
-            <foto id="safecontainer:/image-015-01.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-015/image-015-02.png">
             <foto id="safecontainer:/image-015-02.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-002/mapa-kolomea.png">
             <foto id="safecontainer:/mapa-kolomea.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-022/Foto48.A.png.jpg">
+            <foto id="safecontainer:/Foto48.A.png.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-014/image-014-02.png">
+            <foto id="safecontainer:/image-014-02.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-009/image-009-01.jpg">
             <foto id="safecontainer:/image-009-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY">
@@ -697,15 +772,30 @@ p, li { white-space: pre-wrap; }
                 </foto>
             </foto>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-014/image-014-02.png">
-            <foto id="safecontainer:/image-014-02.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-020/image-020-02.jpg">
+            <foto id="safecontainer:/image-020-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-021/Foto45.A.png.jpg">
+            <foto id="safecontainer:/Foto45.A.png.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-021/Foto44.A.png.jpg">
+            <foto id="safecontainer:/Foto44.A.png.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-019/image-019-01.jpg">
+            <foto id="safecontainer:/image-019-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-017/image-017-01.jpg">
             <foto id="safecontainer:/image-017-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-019/image-019-02.jpg">
+            <foto id="safecontainer:/image-019-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-020/image-020-01.jpg">
+            <foto id="safecontainer:/image-020-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-016/image-016-01.jpg">
             <foto id="safecontainer:/image-016-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
     </fotoRelationships>
-    <statistics assistantUsed="0" countPauses="5" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="16468" fotosAdded="31" fotosRemoved="9" pauseTime="5433" sessionsUsed="15"/>
+    <statistics assistantUsed="0" countPauses="5" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="18270" fotosAdded="44" fotosRemoved="15" pauseTime="5433" sessionsUsed="15"/>
 </fotobook>
