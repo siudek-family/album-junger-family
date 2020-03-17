@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fotobook art_id="9759" externalProjectId="" identifier="fdc14fe3-35de-4759-b089-001c2dc63a2b" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
+<fotobook art_id="9759" externalProjectId="" identifier="d2f3ac76-0a6c-46b4-be52-ff1685d6412a" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
     <project createdWithHPSVersion="6.4.7" createdWithHPSVersionBuild="20191106" projectID="27d8994f-170d-4b1c-b15c-fd22114a5c55" projectIDCreatedEpoch="1581246294"/>
-    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-03-17 19:10"/>
+    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-03-17 20:05"/>
     <articleConfig normalpages="34" pagenaming="1" productvariant="pages:34" totalpages="39"/>
     <pagenumbering bgcolor="#00000000" fontbold="0" fontfamily="Calibri" fontitalics="0" fontsize="24" format="0" margin="111" position="0" textcolor="#ff000000" textstring="%" verticalMargin="50">
         <outline enabled="0" width="1"/>
     </pagenumbering>
     <extra>
-        <lastTextFormat Alignment="ALIGNHCENTER" IndentMargin="5" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,12,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+        <lastTextFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="0" backgroundColor="#00000000" font="Courier New,12,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
     </extra>
     <page designStyleID="-1" pagenr="0" rotation="0" type="fullcover">
         <bundlesize height="2100" width="5575"/>
@@ -965,14 +965,28 @@ p, li { white-space: pre-wrap; }
     </page>
     <page designStyleID="-1" pagenr="32" rotation="0" type="normalpage">
         <bundlesize height="2050" width="5400"/>
-        <designElementIDs background="201" layout="125026"/>
+        <designElementIDs background="201"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
-        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+        <background designElementId="0" layout="1" templatename="2020-03-17T19:48:34,normal,ALB99,ALB63,ALB76,ALB74,ALB83,ALB88,ALB41,ALB35"/>
         <area areatype="imagearea" isResizable="1">
             <position height="1729.40210526318" left="51" rotation="0" top="129" width="2538.000000000033" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/1qn5w3xv_1_image-01.jpg" useABK="0">
                 <cutout left="0" scale="1.33861" top="-0.0394537"/>
+            </image>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1479.000000000025" left="3255.877854921002" rotation="0" top="511" width="2174.122145078998" zposition="101"/>
+            <decoration/>
+            <image filename="safecontainer:/4dtaxft5_1_image-01.jpg" useABK="0">
+                <cutout left="0" scale="1.10306" top="-29.8811"/>
+            </image>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="238.2756552496834" left="4750.72636014186" rotation="0" top="213.6651162216363" width="679.2736398581401" zposition="102"/>
+            <decoration/>
+            <image filename="safecontainer:/6pz1khn3_1_image-02.jpg" useABK="0">
+                <cutout left="-0.0327312" scale="1.6899" top="0"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -987,6 +1001,20 @@ p, li { white-space: pre-wrap; }
             <decoration/>
             <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:12pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Zdjęcie zapewne z Kołomyi. Z tyłu na tyle charakterystyczny budynek że być może możliwy do zidentyfikowania. Edward z lewej strony.</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
                 <textFormat Alignment="ALIGNHCENTER" IndentMargin="5" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,12,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="505" left="2818.974495710641" rotation="0" top="51" width="1931.751864431219" zposition="7002"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Courier New'; font-size:8pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:12pt;">Tajemnicze zdjęcie. 1) Rejestracja wskazuje na samochód Dystryktu Lubelskiego Generalnego Gubernatora, który nie obejmował Kołomyi 2) Zdjęcie datowane po drugiej stronie na 15.V.42, kiedy w tym czasie Edward był ścigany jako uciekinier po ucieczce z Wernigerode. Wniosek: Zakładam, że data i opis nie odpowiadają treści zdjęcia.</span></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:12pt;">To zdjęcie, jak i następne 4 pochodzą zapewne z tego samego okresu / miejsca - prawdopodobnie Kołomyja 1941r, po wkroczeniu Niemców, zaś przed aresztowaniem i wywózką Edwarda do Wernigerode</span></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:12pt;">Na zdjęciu poniżej – Edward Junger z lewej strony.</span></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:12pt;">PS: Edward na mechanice samochodowej się nie znał, więc zdjęcie zapewnie pozowane :)</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Courier New,8,-1,5,50,0,0,0,0,0" foregroundColor="#00000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="78" left="2818.974495710641" rotation="0" top="51" width="2530.025504289359" zposition="7003"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p align="right" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Edward Junger</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNRIGHT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
             </text>
         </area>
     </page>
@@ -1071,6 +1099,9 @@ p, li { white-space: pre-wrap; }
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-030/image-02.jpg">
             <foto id="safecontainer:/jm8oay4q_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-033/image-02.jpg">
+            <foto id="safecontainer:/6pz1khn3_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-029/image-02.jpg">
             <foto id="safecontainer:/image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
@@ -1132,6 +1163,9 @@ p, li { white-space: pre-wrap; }
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-029/image-01.jpg">
             <foto id="safecontainer:/p697ijoa_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-033/image-01.jpg">
+            <foto id="safecontainer:/4dtaxft5_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-032/image-01.jpg">
             <foto id="safecontainer:/1qn5w3xv_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
@@ -1141,12 +1175,12 @@ p, li { white-space: pre-wrap; }
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-030/image-01.jpg">
             <foto id="safecontainer:/o2xhggiy_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-011/image-011-01.jpg">
-            <foto id="safecontainer:/image-011-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-020/image-020-01.jpg">
             <foto id="safecontainer:/image-020-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-011/image-011-01.jpg">
+            <foto id="safecontainer:/image-011-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
     </fotoRelationships>
-    <statistics assistantUsed="0" countPauses="8" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="27472" fotosAdded="67" fotosRemoved="22" pauseTime="7845" sessionsUsed="20"/>
+    <statistics assistantUsed="0" countPauses="9" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="30734" fotosAdded="69" fotosRemoved="22" pauseTime="9993" sessionsUsed="20"/>
 </fotobook>
