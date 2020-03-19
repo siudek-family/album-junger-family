@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fotobook art_id="9759" externalProjectId="" identifier="c0517449-2daf-4e81-8ef7-7c7e57d1c2fe" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
+<fotobook art_id="9759" externalProjectId="" identifier="fd530d5d-65d0-46ad-a1af-781db75ca4b2" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
     <project createdWithHPSVersion="6.4.7" createdWithHPSVersionBuild="20191106" projectID="27d8994f-170d-4b1c-b15c-fd22114a5c55" projectIDCreatedEpoch="1581246294"/>
-    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-03-19 18:39"/>
+    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-03-19 18:44"/>
     <articleConfig normalpages="38" pagenaming="1" productvariant="pages:38" totalpages="43"/>
     <pagenumbering bgcolor="#00000000" fontbold="0" fontfamily="Calibri" fontitalics="0" fontsize="24" format="0" margin="111" position="0" textcolor="#ff000000" textstring="%" verticalMargin="50">
         <outline enabled="0" width="1"/>
@@ -1070,14 +1070,11 @@ p, li { white-space: pre-wrap; }
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
         <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
+            <position height="1809.965437302084" left="2861.825942752732" rotation="0" top="189.0345626979167" width="2487.174057247268" zposition="101"/>
             <decoration/>
-            <image/>
-        </area>
-        <area areatype="imagearea" isResizable="1">
-            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
-            <decoration/>
-            <image/>
+            <image filename="safecontainer:/5ntebfy3_1_image-01.jpg" useABK="0">
+                <cutout left="-18.5486" scale="1.31634" top="0"/>
+            </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1800.965437302107" left="51" rotation="0" top="189.0345626979167" width="2526.429863204266" zposition="103"/>
@@ -1090,6 +1087,13 @@ p, li { white-space: pre-wrap; }
             <position height="78" left="51" rotation="0" top="51" width="2526.429863204266" zposition="7000"/>
             <decoration/>
             <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Edward Junger trzeci od lewej strony.</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="146" left="2861.825942752732" rotation="0" top="51" width="2487.174057247268" zposition="7001"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Edward Junger - na zdjęciu kadra (kierownicza? nauczycielska?) związana z poprzednimi 4ma zdjęciami</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
                 <textFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
             </text>
         </area>
@@ -1158,6 +1162,9 @@ p, li { white-space: pre-wrap; }
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-033/image-01.jpg">
             <foto id="safecontainer:/4dtaxft5_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-037/image-01.jpg">
+            <foto id="safecontainer:/5ntebfy3_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-035/image-01.jpg">
             <foto id="safecontainer:/6xzfgvx7_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
@@ -1267,5 +1274,5 @@ p, li { white-space: pre-wrap; }
             <foto id="safecontainer:/image-010-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
     </fotoRelationships>
-    <statistics assistantUsed="0" countPauses="9" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="31769" fotosAdded="72" fotosRemoved="22" pauseTime="9993" sessionsUsed="22"/>
+    <statistics assistantUsed="0" countPauses="9" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="32034" fotosAdded="73" fotosRemoved="22" pauseTime="9993" sessionsUsed="22"/>
 </fotobook>
