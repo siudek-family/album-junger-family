@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fotobook art_id="9759" externalProjectId="" identifier="fd530d5d-65d0-46ad-a1af-781db75ca4b2" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
+<fotobook art_id="9759" externalProjectId="" identifier="51d90e97-681e-4a73-a455-c0b08055b938" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
     <project createdWithHPSVersion="6.4.7" createdWithHPSVersionBuild="20191106" projectID="27d8994f-170d-4b1c-b15c-fd22114a5c55" projectIDCreatedEpoch="1581246294"/>
-    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-03-19 18:44"/>
-    <articleConfig normalpages="38" pagenaming="1" productvariant="pages:38" totalpages="43"/>
+    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-03-19 18:53"/>
+    <articleConfig normalpages="42" pagenaming="1" productvariant="pages:42" totalpages="47"/>
     <pagenumbering bgcolor="#00000000" fontbold="0" fontfamily="Calibri" fontitalics="0" fontsize="24" format="0" margin="111" position="0" textcolor="#ff000000" textstring="%" verticalMargin="50">
         <outline enabled="0" width="1"/>
     </pagenumbering>
     <extra>
-        <lastTextFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+        <lastTextFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,14,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
     </extra>
     <page designStyleID="-1" pagenr="0" rotation="0" type="fullcover">
-        <bundlesize height="2100" width="5575"/>
+        <bundlesize height="2100" width="5587"/>
         <designElementIDs background="201" layout="82068"/>
         <background alignment="4" designElementId="201" rotation="0" type="1"/>
         <background designElementId="82068" layout="1" templatename="fullcoverpage_landscape,normal"/>
@@ -20,17 +20,17 @@
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="2300" left="2833" rotation="0" top="-100" width="2842" zposition="101"/>
+            <position height="2300" left="2845" rotation="0" top="-100" width="2842" zposition="101"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="spinelogoarea" isResizable="0">
-            <position height="45.5" left="2726.94" rotation="270" top="1967.19" width="120.1199999999999" zposition="6999"/>
+            <position height="51.5" left="2725.02" rotation="270" top="1956.27" width="135.96" zposition="6999"/>
             <decoration/>
             <clipart designElementId="0"/>
         </area>
         <area areatype="spinetextarea" isResizable="0">
-            <position height="91" left="2012.5" rotation="270" top="779.5" width="1550" zposition="7000"/>
+            <position height="103" left="2018.5" rotation="270" top="773.5" width="1550" zposition="7000"/>
             <decoration/>
             <text applySpotColor="0" areaTextType="spine"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><style type="text/css">
@@ -41,7 +41,7 @@ p, li { white-space: pre-wrap; }
             </text>
         </area>
         <area areatype="textarea" isResizable="1">
-            <position height="550" left="3033.14598540146" rotation="0" top="200" width="2341.70802919708" zposition="7000"/>
+            <position height="550" left="3045.14598540146" rotation="0" top="200" width="2341.70802919708" zposition="7000"/>
             <decoration/>
             <text applySpotColor="0" areaTextType="title"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><style type="text/css">
@@ -53,12 +53,12 @@ p, li { white-space: pre-wrap; }
         </area>
     </page>
     <page designStyleID="-1" pagenr="0" rotation="0" type="spine">
-        <bundlesize height="2100" width="5575"/>
+        <bundlesize height="2100" width="5587"/>
         <designElementIDs background="201"/>
         <background alignment="4" designElementId="201" rotation="0" type="1"/>
     </page>
     <page designStyleID="-1" pagenr="0" rotation="0" type="fullcover">
-        <bundlesize height="2100" width="5575"/>
+        <bundlesize height="2100" width="5587"/>
         <designElementIDs background="201" layout="82074"/>
         <background alignment="4" designElementId="201" rotation="0" type="1"/>
         <background designElementId="82074" layout="1" templatename="fullcoverpage_with_text_landscape,normal"/>
@@ -1110,6 +1110,94 @@ p, li { white-space: pre-wrap; }
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
         <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
+            <position height="1830.695885659719" left="-30" rotation="0" top="159.3041143402532" width="1250.482361813948" zposition="100"/>
+            <decoration/>
+            <image filename="safecontainer:/5zsyt2ip_1_image-01.jpg" useABK="0">
+                <cutout left="-0.100358" scale="0.974811" top="0"/>
+            </image>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="977" left="1283" rotation="0" top="1012.999999999973" width="1417" zposition="101"/>
+            <decoration/>
+            <image filename="safecontainer:/h7q4fmn0_1_image-02.jpg" useABK="0">
+                <cutout left="0" scale="0.770527" top="-0.01441"/>
+            </image>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1719.521347886948" left="2834.222119174588" rotation="0" top="270.4786521130528" width="2514.777880825412" zposition="102"/>
+            <decoration/>
+            <image filename="safecontainer:/27gvaici_1_image-01.jpg" useABK="0">
+                <cutout left="-0.0110452" scale="1.53529" top="0"/>
+            </image>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="303.4444702063528" left="1309.966943311745" rotation="0" top="159.3041143402532" width="1279.515418502202" zposition="7000"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Na zdjęciu widoczny pomnik Adama Mickiewicza w Kołomyi, istniejący do dzisiaj. Pomnik został właśnie zdobyty przez Edwarda Jungera, wraz z jego pomocnikami.</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="78" left="51" rotation="0" top="51" width="2538.482361813948" zposition="7001"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600; color:#000000;">Edward Junger</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="78" left="2834.222119174588" rotation="0" top="51" width="2514.777880825412" zposition="7002"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Edward Junger</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="219.4786521130528" left="3182.935311847901" rotation="0" top="51" width="2155.34430790633" zposition="7003"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:14pt; font-weight:400; color:#000000;">(pierwszy z prawej strony) </span><span style=" font-size:14pt; font-weight:400; color:#000000;">przywiózł </span><span style=" font-size:14pt; font-weight:400; color:#000000;">z Kołomyi </span><span style=" font-size:14pt; font-weight:400; color:#000000;">swoje narty do Trzcianki mając nadzieję że będzie mógł z nich w przyszłości korzystać. Niestety w rejonie Trzcianki nie miał z nich pożytku ze względu na uwarunkowania terenowe – dużo wody, mało pagórków.</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+    </page>
+    <page designStyleID="-1" pagenr="39" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="-1" pagenr="40" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
+            <decoration/>
+            <image/>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1830" left="2810" rotation="0" top="110" width="1200" zposition="101"/>
+            <decoration/>
+            <image/>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
+            <decoration/>
+            <image/>
+        </area>
+    </page>
+    <page designStyleID="-1" pagenr="41" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="-1" pagenr="42" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+        <area areatype="imagearea" isResizable="1">
             <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
             <decoration/>
             <image/>
@@ -1139,6 +1227,9 @@ p, li { white-space: pre-wrap; }
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-025/image-025-01.jpg">
             <foto id="safecontainer:/image-025-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-038/image-01.jpg">
+            <foto id="safecontainer:/5zsyt2ip_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-030/image-01.jpg">
             <foto id="safecontainer:/o2xhggiy_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
@@ -1147,6 +1238,9 @@ p, li { white-space: pre-wrap; }
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-032/image-01.jpg">
             <foto id="safecontainer:/1qn5w3xv_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-039/image-01.jpg">
+            <foto id="safecontainer:/27gvaici_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-036/image-01.jpg">
             <foto id="safecontainer:/e6mmec14_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
@@ -1206,6 +1300,9 @@ p, li { white-space: pre-wrap; }
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-031/image-02.jpg">
             <foto id="safecontainer:/lg2xkt8o_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-038/image-02.jpg">
+            <foto id="safecontainer:/h7q4fmn0_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-030/image-02.jpg">
             <foto id="safecontainer:/jm8oay4q_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
@@ -1274,5 +1371,5 @@ p, li { white-space: pre-wrap; }
             <foto id="safecontainer:/image-010-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
     </fotoRelationships>
-    <statistics assistantUsed="0" countPauses="9" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="32034" fotosAdded="73" fotosRemoved="22" pauseTime="9993" sessionsUsed="22"/>
+    <statistics assistantUsed="0" countPauses="9" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="32592" fotosAdded="76" fotosRemoved="22" pauseTime="9993" sessionsUsed="22"/>
 </fotobook>
