@@ -12,4 +12,5 @@ Gdzie znajduje się jej grób, o ile jeszcze istnieje? Nie wiemy …
 
 Na jej pogrzeb w latach 193X z rodziny pojechała wyłącznie siostra Stefania, przywożąc ze sobą heh rzeczy osobiste, włączając zdjęcia w albumie.
 
-Na zdjęciu: Joanna Junger 4 II 1930 ![image-018-01](image-018-01.jpg)
+![image-01.jpg](image-01.jpg)
+![image-02.jpg](image-02.jpg)
