@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fotobook art_id="9759" externalProjectId="" identifier="bf50f461-c8bf-4c13-8f28-1d39a0801510" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
+<fotobook art_id="9759" externalProjectId="" identifier="81c1af20-687d-46fb-83f2-35b414de26c3" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
     <project createdWithHPSVersion="6.4.7" createdWithHPSVersionBuild="20191106" projectID="27d8994f-170d-4b1c-b15c-fd22114a5c55" projectIDCreatedEpoch="1581246294"/>
-    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-03-22 15:22"/>
-    <articleConfig normalpages="46" pagenaming="1" productvariant="pages:46" totalpages="51"/>
+    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-03-22 15:42"/>
+    <articleConfig normalpages="50" pagenaming="1" productvariant="pages:50" totalpages="55"/>
     <pagenumbering bgcolor="#00000000" fontbold="0" fontfamily="Calibri" fontitalics="0" fontsize="24" format="0" margin="111" position="0" textcolor="#ff000000" textstring="%" verticalMargin="50">
         <outline enabled="0" width="1"/>
     </pagenumbering>
     <extra>
-        <lastTextFormat Alignment="ALIGNRIGHT" IndentMargin="5" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,14,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+        <lastTextFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
     </extra>
     <page designStyleID="-1" pagenr="0" rotation="0" type="fullcover">
         <bundlesize height="2100" width="5587"/>
@@ -1314,6 +1314,58 @@ p, li { white-space: pre-wrap; }
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
         <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
+            <position height="1699.648122392211" left="51" rotation="0" top="290.3518776078124" width="2538" zposition="100"/>
+            <decoration/>
+            <image filename="safecontainer:/du4nwa6i_1_image-01.jpg" useABK="0">
+                <cutout left="-0.558447" scale="1.38071" top="0"/>
+            </image>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1661.744154057772" left="2811" rotation="0" top="328.2558459422517" width="2538" zposition="101"/>
+            <decoration/>
+            <image filename="safecontainer:/4qq42u81_1_image-01.jpg" useABK="0">
+                <cutout left="0" scale="1.35722" top="-0.424714"/>
+            </image>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="138" left="51" rotation="0" top="51" width="2538" zposition="7000"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:14pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:16pt; font-weight:600;">Edward Junger</span></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Czwarty od lewej. Kozy nie liczymy.</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNRIGHT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,14,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="138" left="2811" rotation="0" top="51" width="2538" zposition="7001"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:14pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:16pt; font-weight:600;">Edward Junger</span></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">po żołniersku. A albumie jest kilka zdjęć tego miejsca, więc musiał tam stacjonować / przebywać nieco dłużej.</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,14,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+    </page>
+    <page designStyleID="-1" pagenr="45" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="-1" pagenr="46" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+    </page>
+    <page designStyleID="-1" pagenr="47" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="-1" pagenr="48" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+        <area areatype="imagearea" isResizable="1">
             <position height="1830" left="110" rotation="0" top="110" width="2480" zposition="100"/>
             <decoration/>
             <image/>
@@ -1329,13 +1381,13 @@ p, li { white-space: pre-wrap; }
             <image/>
         </area>
     </page>
-    <page designStyleID="-1" pagenr="45" rotation="0" type="normalpage">
+    <page designStyleID="-1" pagenr="49" rotation="0" type="normalpage">
         <bundlesize height="2050" width="5400"/>
         <designElementIDs background="201" layout="125026"/>
         <background alignment="3" designElementId="201" rotation="0" type="1"/>
         <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
     </page>
-    <page designStyleID="-1" pagenr="46" rotation="0" type="normalpage">
+    <page designStyleID="-1" pagenr="50" rotation="0" type="normalpage">
         <bundlesize height="2050" width="5400"/>
         <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
@@ -1499,8 +1551,14 @@ p, li { white-space: pre-wrap; }
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-042/image-01.jpg">
             <foto id="safecontainer:/87ho4bgp_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-044/image-01.jpg">
+            <foto id="safecontainer:/du4nwa6i_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-037/image-01.jpg">
             <foto id="safecontainer:/5ntebfy3_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-045/image-01.jpg">
+            <foto id="safecontainer:/4qq42u81_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-032/image-01.jpg">
             <foto id="safecontainer:/1qn5w3xv_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
@@ -1538,5 +1596,5 @@ p, li { white-space: pre-wrap; }
             <foto id="safecontainer:/image-016-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
     </fotoRelationships>
-    <statistics assistantUsed="0" countPauses="12" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="39212" fotosAdded="85" fotosRemoved="23" pauseTime="14469" sessionsUsed="24"/>
+    <statistics assistantUsed="0" countPauses="13" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="40380" fotosAdded="87" fotosRemoved="23" pauseTime="15124" sessionsUsed="24"/>
 </fotobook>
