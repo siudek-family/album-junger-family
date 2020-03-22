@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fotobook art_id="9759" externalProjectId="" identifier="bd2d9910-b449-4d30-9133-6942ed5bd4c9" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
+<fotobook art_id="9759" externalProjectId="" identifier="1afb64ff-a55b-4a0c-acea-316005ab7adb" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
     <project createdWithHPSVersion="6.4.7" createdWithHPSVersionBuild="20191106" projectID="27d8994f-170d-4b1c-b15c-fd22114a5c55" projectIDCreatedEpoch="1581246294"/>
-    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-03-22 18:04"/>
-    <articleConfig normalpages="50" pagenaming="1" productvariant="pages:50" totalpages="55"/>
+    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-03-22 18:58"/>
+    <articleConfig normalpages="58" pagenaming="1" productvariant="pages:58" totalpages="63"/>
     <pagenumbering bgcolor="#00000000" fontbold="0" fontfamily="Calibri" fontitalics="0" fontsize="24" format="0" margin="111" position="0" textcolor="#ff000000" textstring="%" verticalMargin="50">
         <outline enabled="0" width="1"/>
     </pagenumbering>
     <extra>
-        <lastTextFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+        <lastTextFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,14,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
     </extra>
     <page designStyleID="-1" pagenr="0" rotation="0" type="fullcover">
-        <bundlesize height="2100" width="5587"/>
+        <bundlesize height="2100" width="5600"/>
         <designElementIDs background="201" layout="82068"/>
         <background alignment="4" designElementId="201" rotation="0" type="1"/>
         <background designElementId="82068" layout="1" templatename="fullcoverpage_landscape,normal"/>
@@ -20,17 +20,17 @@
             <image/>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="2300" left="2845" rotation="0" top="-100" width="2842" zposition="101"/>
+            <position height="2300" left="2858" rotation="0" top="-100" width="2842" zposition="101"/>
             <decoration/>
             <image/>
         </area>
         <area areatype="spinelogoarea" isResizable="0">
-            <position height="51.5" left="2725.02" rotation="270" top="1956.27" width="135.96" zposition="6999"/>
+            <position height="58" left="2723.44" rotation="270" top="1944.44" width="153.1199999999999" zposition="6999"/>
             <decoration/>
             <clipart designElementId="0"/>
         </area>
         <area areatype="textarea" isResizable="1">
-            <position height="550" left="3045.14598540146" rotation="0" top="200" width="2341.70802919708" zposition="7000"/>
+            <position height="550" left="3058.14598540146" rotation="0" top="200" width="2341.70802919708" zposition="7000"/>
             <decoration/>
             <text applySpotColor="0" areaTextType="title"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><style type="text/css">
@@ -41,7 +41,7 @@ p, li { white-space: pre-wrap; }
             </text>
         </area>
         <area areatype="spinetextarea" isResizable="0">
-            <position height="103" left="2018.5" rotation="270" top="773.5" width="1550" zposition="7000"/>
+            <position height="116" left="2025" rotation="270" top="767" width="1550" zposition="7000"/>
             <decoration/>
             <text applySpotColor="0" areaTextType="spine"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><style type="text/css">
@@ -53,12 +53,12 @@ p, li { white-space: pre-wrap; }
         </area>
     </page>
     <page designStyleID="-1" pagenr="0" rotation="0" type="spine">
-        <bundlesize height="2100" width="5587"/>
+        <bundlesize height="2100" width="5600"/>
         <designElementIDs background="201"/>
         <background alignment="4" designElementId="201" rotation="0" type="1"/>
     </page>
     <page designStyleID="-1" pagenr="0" rotation="0" type="fullcover">
-        <bundlesize height="2100" width="5587"/>
+        <bundlesize height="2100" width="5600"/>
         <designElementIDs background="201" layout="82074"/>
         <background alignment="4" designElementId="201" rotation="0" type="1"/>
         <background designElementId="82074" layout="1" templatename="fullcoverpage_with_text_landscape,normal"/>
@@ -104,7 +104,7 @@ p, li { white-space: pre-wrap; }
             <position height="2110" left="-30" rotation="0" top="-30" width="2730" zposition="1"/>
             <decoration/>
             <imagebackground backgroundPosition="LEFT_OR_TOP" filename="safecontainer:/mapa-kolomea.png" useABK="1">
-                <cutout left="7.48928e-15" scale="0.998902" top="-429.868"/>
+                <cutout left="-1.78203e-13" scale="0.998902" top="-429.868"/>
             </imagebackground>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -132,7 +132,7 @@ p, li { white-space: pre-wrap; }
                 <border applySpotColor="0" color="#ffbbbbbb" enabled="1" position="outside" width="5"/>
             </decoration>
             <image filename="safecontainer:/6bs7u41c_1_anna-junger-cut.jpeg" useABK="0">
-                <cutout left="0" scale="2.02573" top="-0.0235307"/>
+                <cutout left="0" scale="2.02573" top="-0.0246003"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -146,7 +146,7 @@ p, li { white-space: pre-wrap; }
             <position height="1157.431022490146" left="2893.577556225365" rotation="0" top="775.3303964757711" width="1211.099003014144" zposition="104"/>
             <decoration/>
             <image filename="safecontainer:/photo-down.jpg" useABK="0">
-                <cutout left="0.0954435" scale="0.476248" top="-190.677"/>
+                <cutout left="0.095274" scale="0.476248" top="-190.677"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -159,7 +159,7 @@ p, li { white-space: pre-wrap; }
         <area areatype="textarea" isResizable="1">
             <position height="649.2000927428705" left="2893.577556225365" rotation="0" top="126.1303037329005" width="1211.099003014144" zposition="7001"/>
             <decoration/>
-            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;"># </span><span style=" font-weight:600; color:#000000;">Dziadek Wokraczka</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-weight:600; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Dziadek Wokraczka wychowuje swoją wnuczkę Annę po śmierci jej matki oraz porzuceniu rodziny przez ojca.</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Z prawej - Dziadek Wokraczka.</span></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Poniżej - pierwsza od prawej Anna Junger, w środku – Dziadek Wokraczka.</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600; color:#000000;">Dziadek Wokraczka</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-weight:600; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Dziadek Wokraczka wychowuje swoją wnuczkę Annę po śmierci jej matki oraz porzuceniu rodziny przez ojca.</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Z prawej - Dziadek Wokraczka.</span></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Poniżej - pierwsza od prawej Anna Junger, w środku – Dziadek Wokraczka.</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
                 <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
             </text>
         </area>
@@ -186,13 +186,13 @@ p, li { white-space: pre-wrap; }
             <position height="1315.811268545255" left="790.9253027732934" rotation="0" top="540.1887314547862" width="1763.074697226726" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/photo-bottom.png" useABK="1">
-                <cutout left="-208.212" scale="1.89053" top="-0.0250802"/>
+                <cutout left="-208.214" scale="1.89053" top="-0.0262745"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
             <position height="282" left="51" rotation="0" top="51.00000000000023" width="2503.00000000002" zposition="7000"/>
             <decoration/>
-            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">ANNA I FRANCISZEK JUNGEROWIE</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Anna Bowszek wcześnie wydana została za mąż (w wieku 17 lat) za Franciszka Jungera – ślusarza. Franciszek Junger pracował w parowozowni w Kołomyi</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600; color:#000000;">Anna i Franciszek Jungerowie</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Anna Bowszek wcześnie wydana została za mąż (w wieku 17 lat) za Franciszka Jungera – ślusarza. Franciszek Junger pracował w parowozowni w Kołomyi</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
                 <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
             </text>
         </area>
@@ -219,14 +219,14 @@ p, li { white-space: pre-wrap; }
             <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
             <decoration/>
             <image filename="safecontainer:/cjio1xsb_1_image-009-01-optimize.jpeg" useABK="0">
-                <cutout left="-50.0051" scale="0.860771" top="-7.85006e-14"/>
+                <cutout left="-50.0054" scale="0.860771" top="-4.29935e-14"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1776.999999999958" left="1187.823484848482" rotation="0" top="129" width="1412.176515151481" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/image-008.png" useABK="1">
-                <cutout left="0" scale="0.961318" top="-4.20585e-11"/>
+                <cutout left="0" scale="0.961318" top="-4.20223e-11"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -280,7 +280,7 @@ p, li { white-space: pre-wrap; }
             <position height="1939.000000000023" left="4129.751677852624" rotation="0" top="51" width="1210.248322147665" zposition="101"/>
             <decoration/>
             <image filename="safecontainer:/image-011-01.jpg" useABK="1">
-                <cutout left="0" scale="1.25285" top="0"/>
+                <cutout left="0" scale="1.25285" top="2.29647e-11"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -313,7 +313,7 @@ p, li { white-space: pre-wrap; }
             <position height="1860.488059355437" left="51" rotation="0" top="129" width="1159.687597319408" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/image-012-01.png" useABK="1">
-                <cutout left="-0.183682" scale="2.45771" top="0"/>
+                <cutout left="-0.184177" scale="2.45771" top="0"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -367,7 +367,7 @@ p, li { white-space: pre-wrap; }
             <position height="1860.999999999985" left="51" rotation="0" top="129" width="1188.410326086946" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/image-014-01.jpg" useABK="0">
-                <cutout left="-0.189292" scale="1.17934" top="-1.50006e-11"/>
+                <cutout left="-0.189765" scale="1.17934" top="-1.50164e-11"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -378,17 +378,17 @@ p, li { white-space: pre-wrap; }
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1511" left="2934" rotation="0" top="148.3885926269418" width="916" zposition="102"/>
+            <position height="1666.808022258289" left="2934" rotation="0" top="148.3885926269418" width="1164.550892650128" zposition="102"/>
             <decoration/>
             <image filename="safecontainer:/image-015-01.png" useABK="1">
-                <cutout left="-3.71647e-14" scale="1.46842" top="0"/>
+                <cutout left="0" scale="1.86627" top="-167.595"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
-            <position height="1456" left="4098.550892650128" rotation="0" top="534.0000000000421" width="1241.449107349948" zposition="103"/>
+            <position height="1559.611407373101" left="4098.550892650128" rotation="0" top="430.3885926269419" width="1241.449107349948" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/image-015-02.png" useABK="1">
-                <cutout left="0" scale="1.86965" top="-253.345"/>
+                <cutout left="-3.70971" scale="2.0027" top="-256.536"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -406,10 +406,10 @@ p, li { white-space: pre-wrap; }
             </text>
         </area>
         <area areatype="textarea" isResizable="1">
-            <position height="449.0000000000421" left="4098.550892650128" rotation="0" top="85" width="1241.449107349948" zposition="7002"/>
+            <position height="282" left="4098.550892650128" rotation="0" top="148.3885926269418" width="1241.449107349948" zposition="7002"/>
             <decoration/>
-            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Druga córka Rudolfa i Honoraty, Janina. Wiele lat później Jako Janina Gapińska, małżonka Czesława Gapińskiego, zamieszkała w Koszalinie. Zdjęcie datowane 7 września 1937r.</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
-                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Druga córka Rudolfa i Honoraty, Janina. Wiele lat później Jako Janina Gapińska, małżonka Czesława Gapińskiego, zamieszkała w Koszalinie. Zdjęcie datowane 7 września 1937r.</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNHCENTER" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
             </text>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -420,10 +420,10 @@ p, li { white-space: pre-wrap; }
             </text>
         </area>
         <area areatype="textarea" isResizable="1">
-            <position height="236.6696035242292" left="2934" rotation="0" top="1659.388592626942" width="916" zposition="7004"/>
+            <position height="214" left="2934" rotation="0" top="1815.196614885231" width="1164.550892650128" zposition="7004"/>
             <decoration/>
-            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Żona Rudolfa – Honorata (z domu Biesiadecka) – z ich starszą córką Lidką</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
-                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Żona Rudolfa – Honorata (z domu Biesiadecka) – z ich starszą córką Lidką</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNHCENTER" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
             </text>
         </area>
     </page>
@@ -456,7 +456,7 @@ p, li { white-space: pre-wrap; }
             <position height="1453.338679712515" left="72" rotation="0" top="486.6613202874855" width="2545.885983263616" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/image-016-01.jpg" useABK="1">
-                <cutout left="-0.0021012" scale="0.813382" top="-115.034"/>
+                <cutout left="-0.00226283" scale="0.813382" top="-115.034"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -503,28 +503,28 @@ p, li { white-space: pre-wrap; }
             <position height="1811" left="51" rotation="0" top="178.9999999999472" width="1184.498624484182" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/7nr1fxc0_1_image-01.jpg" useABK="0">
-                <cutout left="-69.3377" scale="0.630571" top="-1.50421e-14"/>
+                <cutout left="-69.3377" scale="0.630571" top="-2.25632e-14"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1040.552377831964" left="2842.978437282633" rotation="0" top="129" width="811.6621025280855" zposition="104"/>
             <decoration/>
             <image filename="safecontainer:/image-019-01.jpg" useABK="1">
-                <cutout left="-0.0941738" scale="1.33747" top="-0.00358919"/>
+                <cutout left="-0.0944538" scale="1.33747" top="-0.00394811"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1146.902173913154" left="3553.999999999827" rotation="0" top="843.0978260867934" width="1796.000000000173" zposition="105"/>
             <decoration/>
             <image filename="safecontainer:/image-019-02.jpg" useABK="0">
-                <cutout left="0" scale="1.6553" top="-0.0978261"/>
+                <cutout left="1.73031e-10" scale="1.6553" top="-0.0978261"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="820.4476221679834" left="1304.083177633392" rotation="0" top="1169.552377831964" width="1275.86558193072" zposition="106"/>
             <decoration/>
             <image filename="safecontainer:/b63tnj4z_1_image-02.jpg" useABK="0">
-                <cutout left="-0.337495" scale="0.865451" top="0"/>
+                <cutout left="-0.337553" scale="0.865451" top="0"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -707,14 +707,14 @@ p, li { white-space: pre-wrap; }
             <position height="1848.127285967799" left="1267.682403433476" rotation="0" top="112.8727140322339" width="1323.317596566448" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/azznm25f_1_image-024-01.jpg" useABK="0">
-                <cutout left="-0.119206" scale="0.807042" top="0"/>
+                <cutout left="-0.119602" scale="0.807042" top="0"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1871" left="4013.571428571429" rotation="0" top="128" width="1336.428571428571" zposition="101"/>
             <decoration/>
             <image filename="safecontainer:/image-025-01.jpg" useABK="0">
-                <cutout left="-0.234257" scale="0.814186" top="-4.78886e-14"/>
+                <cutout left="-0.234461" scale="0.814186" top="2.96872e-15"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -768,7 +768,7 @@ p, li { white-space: pre-wrap; }
             <position height="1823.999999999984" left="4063.99785867239" rotation="0" top="129" width="1285.002141327612" zposition="101"/>
             <decoration/>
             <image filename="safecontainer:/image-027-01.jpg" useABK="0">
-                <cutout left="0.00175467" scale="0.791257" top="-0.324262"/>
+                <cutout left="0.00136801" scale="0.791257" top="-0.324811"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -815,7 +815,7 @@ p, li { white-space: pre-wrap; }
             <position height="1835.479362780571" left="-30" rotation="0" top="244.5206372194289" width="2730" zposition="102"/>
             <decoration/>
             <image filename="safecontainer:/image-01.jpg" useABK="0">
-                <cutout left="2.25265e-15" scale="0.676412" top="-72.1925"/>
+                <cutout left="1.32502e-13" scale="0.676412" top="-72.1929"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -843,7 +843,7 @@ p, li { white-space: pre-wrap; }
             <position height="764.2987012986609" left="4295.357142857149" rotation="0" top="1225.701298701293" width="1044.642857142802" zposition="106"/>
             <decoration/>
             <image filename="safecontainer:/image-04.jpg" useABK="1">
-                <cutout left="-0.00776007" scale="1.59244" top="-0.0370605"/>
+                <cutout left="-0.00886866" scale="1.59244" top="-0.0370605"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -911,14 +911,14 @@ p, li { white-space: pre-wrap; }
             <position height="1811" left="51.00000000000023" rotation="0" top="129" width="1257.31847133758" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/o2xhggiy_1_image-01.jpg" useABK="0">
-                <cutout left="0" scale="0.899369" top="-1.74509e-14"/>
+                <cutout left="0" scale="0.899369" top="4.77374e-14"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1146.884197594903" left="1731.784057891622" rotation="0" top="793.1158024050976" width="857.2159421083779" zposition="104"/>
             <decoration/>
             <image filename="safecontainer:/jm8oay4q_1_image-02.jpg" useABK="0">
-                <cutout left="-0.0516321" scale="1.03416" top="-0.00227279"/>
+                <cutout left="-0.0516321" scale="1.03416" top="-0.00265159"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -979,7 +979,7 @@ p, li { white-space: pre-wrap; }
             <position height="1729.40210526318" left="51" rotation="0" top="129" width="2538.000000000033" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/1qn5w3xv_1_image-01.jpg" useABK="0">
-                <cutout left="3.31966e-11" scale="1.33861" top="-0.0394537"/>
+                <cutout left="0" scale="1.33861" top="-0.0394537"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -1040,7 +1040,7 @@ p, li { white-space: pre-wrap; }
             <position height="1805.000000000036" left="51" rotation="0" top="185" width="2529.542253521177" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/a7l8tmft_1_image-01.jpg" useABK="0">
-                <cutout left="-0.299577" scale="1.30892" top="0"/>
+                <cutout left="-0.299577" scale="1.30892" top="3.5925e-11"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -1120,14 +1120,14 @@ p, li { white-space: pre-wrap; }
             <position height="1830.695885659719" left="-30" rotation="0" top="159.3041143402532" width="1250.482361813948" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/5zsyt2ip_1_image-01.jpg" useABK="0">
-                <cutout left="-0.101207" scale="0.974811" top="-0.00124149"/>
+                <cutout left="-0.10149" scale="0.974811" top="-0.00165532"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="977" left="1283" rotation="0" top="1012.999999999973" width="1417" zposition="101"/>
             <decoration/>
             <image filename="safecontainer:/h7q4fmn0_1_image-02.jpg" useABK="0">
-                <cutout left="-9.29154e-14" scale="0.770527" top="-2.49606e-14"/>
+                <cutout left="1.03487e-13" scale="0.770527" top="-1.65531e-14"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -1188,14 +1188,14 @@ p, li { white-space: pre-wrap; }
             <position height="1951" left="2719.035532994924" rotation="0" top="128.9999999999999" width="1495.325295914597" zposition="101"/>
             <decoration/>
             <image filename="safecontainer:/71yjyf90_1_image-01.jpg" useABK="0">
-                <cutout left="-0.00545709" scale="1.29548" top="-4.34064e-14"/>
+                <cutout left="-0.00818565" scale="1.29548" top="8.53035e-15"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1787.171020185257" left="4214.360828909521" rotation="0" top="292.8289798147425" width="1215.639171090479" zposition="102"/>
             <decoration/>
             <image filename="safecontainer:/puc75uv9_1_image-02.jpg" useABK="0">
-                <cutout left="-0.00113109" scale="1.05159" top="-0.00166287"/>
+                <cutout left="-0.00169664" scale="1.05159" top="-0.00249431"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -1256,7 +1256,7 @@ p, li { white-space: pre-wrap; }
             <position height="1538.343037525799" left="1643.023435574696" rotation="0" top="451.6569624742228" width="932.9765644253694" zposition="104"/>
             <decoration/>
             <image filename="safecontainer:/48k09oc9_1_image-02.jpg" useABK="0">
-                <cutout left="-0.000282213" scale="2.356" top="-0.0629466"/>
+                <cutout left="-0.000564426" scale="2.356" top="-0.0629466"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -1357,21 +1357,21 @@ p, li { white-space: pre-wrap; }
             <position height="1793.000000000011" left="-30" rotation="0" top="197.0000000000001" width="2619" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/j00ysu0z_1_image-01.jpg" useABK="0">
-                <cutout left="0" scale="1.3254" top="-1.17384"/>
+                <cutout left="2.16038e-13" scale="1.3254" top="-1.17713"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1098.999999999989" left="2810.999999999999" rotation="0" top="618.0000000000115" width="854.507382550335" zposition="101"/>
             <decoration/>
             <image filename="safecontainer:/wt2n2f8h_1_image-01.jpg" useABK="0">
-                <cutout left="0" scale="0.736644" top="0"/>
+                <cutout left="-0.000171275" scale="0.736644" top="-0.000220281"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1833.861386138613" left="3999" rotation="0" top="156.1386138613979" width="1350" zposition="102"/>
             <decoration/>
             <image filename="safecontainer:/22nltmq3_1_image-02.jpg" useABK="0">
-                <cutout left="-0.0886062" scale="1.29327" top="0"/>
+                <cutout left="-9.42302e-14" scale="1.29327" top="-0.00226307"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -1384,7 +1384,7 @@ p, li { white-space: pre-wrap; }
         <area areatype="textarea" isResizable="1">
             <position height="146" left="51" rotation="0" top="51" width="2538" zposition="7002"/>
             <decoration/>
-            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Edward Junger</span></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2'; font-size:14pt; font-weight:400;">Zapewne park w Kołomyi. Z lewej strony Edward Junger</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Edward Junger</span></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:14pt; font-weight:400;">Zapewne park w Kołomyi. Z lewej strony Edward Junger</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
                 <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
             </text>
         </area>
@@ -1425,42 +1425,42 @@ p, li { white-space: pre-wrap; }
             <position height="1861.000000000005" left="1287.372887332458" rotation="0" top="129" width="1233.797923875436" zposition="101"/>
             <decoration/>
             <image filename="safecontainer:/image-5.jpg" useABK="0">
-                <cutout left="0" scale="1.03593" top="-0.287099"/>
+                <cutout left="-0.00264695" scale="1.03593" top="-0.291093"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="999.9872170326535" left="691.2402745141844" rotation="0" top="990.0127829673515" width="596.1326128182732" zposition="102"/>
             <decoration/>
             <image filename="safecontainer:/image-11.jpg" useABK="0">
-                <cutout left="-40.8069" scale="0.853424" top="-0.112676"/>
+                <cutout left="-40.8069" scale="0.853424" top="-0.012783"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="861.0127829673517" left="51.00000000000011" rotation="0" top="129" width="640.2402745141846" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/image-1.jpg" useABK="0">
-                <cutout left="-0.105381" scale="0.684974" top="0"/>
+                <cutout left="-0.105381" scale="0.684974" top="0.012783"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="861.0127829673515" left="691.2402745141849" rotation="0" top="128.9999999999999" width="596.1326128182727" zposition="104"/>
             <decoration/>
             <image filename="safecontainer:/image-2.jpg" useABK="0">
-                <cutout left="0" scale="0.469026" top="-0.0598859"/>
+                <cutout left="0" scale="0.469026" top="0.012783"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1861.000000000005" left="2700" rotation="0" top="129" width="1315.603288062905" zposition="105"/>
             <decoration/>
             <image filename="safecontainer:/mgn7o5vl_1_image-1.jpg" useABK="0">
-                <cutout left="0" scale="1.14202" top="-0.243646"/>
+                <cutout left="0" scale="1.14202" top="4.901e-12"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1861.000000000005" left="4015.603288062906" rotation="0" top="129" width="1333.396711937094" zposition="106"/>
             <decoration/>
             <image filename="safecontainer:/k7auc46x_1_image-2.jpg" useABK="0">
-                <cutout left="-17.7075" scale="1.16531" top="0"/>
+                <cutout left="-17.7075" scale="1.16531" top="5.00222e-12"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -1485,6 +1485,180 @@ p, li { white-space: pre-wrap; }
         <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
     </page>
     <page designStyleID="-1" pagenr="50" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1337.407847800238" left="-30" rotation="0" top="652.592152199768" width="2730" zposition="103"/>
+            <decoration/>
+            <image filename="safecontainer:/c5g6xgke_1_image-1.jpg" useABK="0">
+                <cutout left="-0.270682" scale="1.63898" top="0"/>
+            </image>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="354.9956182494752" left="3390.562134690076" rotation="0" top="129" width="1155.369174732188" zposition="104"/>
+            <decoration/>
+            <image filename="safecontainer:/s8paa9bd_1_image-1.jpg" useABK="1">
+                <cutout left="0" scale="0.457753" top="-0.00438175"/>
+            </image>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1506.004381750533" left="2858.284635003351" rotation="0" top="483.9956182494752" width="1687.646674418914" zposition="105"/>
+            <decoration/>
+            <image filename="safecontainer:/981r3ph2_1_image-2.jpg" useABK="1">
+                <cutout left="0" scale="1.29421" top="0.00438175"/>
+            </image>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="601.592152199768" left="51" rotation="0" top="51" width="2538" zposition="7000"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Edward Junger</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:400; color:#000000;">Edward nosił przy sobie kilka dowodów tożsamości – powyżej jeden z nich, oprócz którego w zachowanych dokumentach jest jeszcze jeden, nie wypełniony. W czasie wojny kontrolujący Niemiec wyrwał Edwardowi fałszywy dokument do kontroli zanim zdołał on się przyjrzeć, który ze swoich dokumentów przedstawił. Ponieważ na każdym z nich miał nieco inne zdjęcie więc, patrząc na dokument po zdjęciu poznał jakie nazwisko ma w dokument wpisane tak, aby się przedstawić do kontroli.</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="78" left="2861.984929283581" rotation="0" top="51" width="2487.015070716419" zposition="7001"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Edward Junger</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="1068.397866913981" left="4545.931309422263" rotation="0" top="483.9956182494752" width="803.0686905777367" zposition="7002"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:400;">Edward Junger ginie w wypadku samochodowym 6 sierpnia 1992, kiedy kierowane przez niego auto uderza w drzewo. Pochowany w Trzciance, spoczywa obecnie w jednej kwaterze wraz ze swoją żoną Haliną.</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+    </page>
+    <page designStyleID="-1" pagenr="51" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="-1" pagenr="52" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1680.582888940368" left="51" rotation="0" top="278.4171110595656" width="1048.530224194494" zposition="100"/>
+            <decoration/>
+            <image filename="safecontainer:/6pexhqhe_1_image-1.jpg" useABK="0">
+                <cutout left="-6.41572e-14" scale="0.570163" top="-0.129192"/>
+            </image>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="853" left="1099.530224194494" rotation="0" top="1105.999999999934" width="1623" zposition="101"/>
+            <decoration/>
+            <image filename="safecontainer:/p8lnc7j7_1_image-2.jpg" useABK="0">
+                <cutout left="-0.234395" scale="0.532459" top="0"/>
+            </image>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="1907.999999999934" left="2722.530224194495" rotation="0" top="51" width="1431.702503681836" zposition="102"/>
+            <decoration/>
+            <image filename="safecontainer:/w5194o8h_1_image-1.jpg" useABK="0">
+                <cutout left="0" scale="0.322238" top="-0.307217"/>
+            </image>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="78" left="51" rotation="0" top="51" width="2538" zposition="7000"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Dalsza rodzina Junger</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="474.0913517273359" left="1239" rotation="0" top="278.4171110595656" width="1350" zposition="7001"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:400;">Na dalszych stronach zamieszczam list, jaki przesłał krewny Edwarda – Zbyszek – do jego żony Haliny już po śmierci Edwarda. List obszernie opisuje dalszą rodzinę i, pomimo braku szczegółów, może pozwolić zainteresowanym na dalsze badania powiązań rodzinnych.</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="1870" left="4154.23272787633" rotation="0" top="129" width="1194.76727212367" zposition="7002"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:14pt;">Droga Halinko! Dziękuję serdecznie za przysłane zdjęcia. Również za tak obszerny list, który musiał Ci zabrać wiele czasu. Jednak nie poszło to na marne bo teraz wiem coś niecoś o Waszej bliższej i dalszej Rodzinie. Wiem że masz 2 córki syna, że są już dorośli i na swoim gospodarstwie. Takie jest życie i z tym musimy się pogodzić. Zapytujesz o moją rodzinę. Nie wiem co Edek i jego siostra Ci opowiedzieli o nas. Stefa, Edzia siostra zapewne już dawno nie żyje. Domyślam się z tego faktu, że jak piszesz jej córka Halinka ma 3 córki zamężne. Ojca młodego Mariana Jungera znałem i przypominam go sobie. Bardzo często przyjeżdżał do nas w Kołomyi. Jego los tragiczny do dzisiaj tkwi mi w pamięci. Bardzo chętnie spotkałbym się z jego synami: Marianem i Ryszardem.Gdyby kiedyś byli w Krakowie mogli by do nas zaglądnąć i chociaż na chwilę. Oczywiście z każdym z Rodziny chętnie bym się spotkał, porozmawiał i powspominał jak to było jeszcze nie tak dawno a jednocześnie jednak tyle już lat minęło! Nasza rodzina duża i liczna chociaż nazwisko Junger rzadko spotykane. Opiszę o każdym chociaż kilka słów dla orientacji. Otóż było nas z świętej pamięci Matką i Ojcem 16 osób, 7 córek i siedmiu synów. Mieczysław, Julian, Władysław i Janusz już nie żyją. Kazimierz, Joanna i Stefania już nie żyją. Mieczysław zmarł mając kilka miesięcy. Julian zostawił syna Janusza – pracuje na zachodzie.</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+    </page>
+    <page designStyleID="-1" pagenr="53" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="-1" pagenr="54" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+        <area areatype="imagearea" isResizable="1">
+            <position height="2110" left="-30" rotation="0" top="-30" width="1560.906432748538" zposition="100"/>
+            <decoration/>
+            <image filename="safecontainer:/dh4pdnj2_1_image-1.jpg" useABK="0">
+                <cutout left="0" scale="0.351318" top="-0.183991"/>
+            </image>
+        </area>
+        <area areatype="imagearea" isResizable="1">
+            <position height="2114.28263103792" left="2700" rotation="0" top="-34.28263103792005" width="1445.676036542442" zposition="101"/>
+            <decoration/>
+            <image filename="safecontainer:/23j0cahw_1_image-1.jpg" useABK="0">
+                <cutout left="-0.203679" scale="0.325475" top="0"/>
+            </image>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="1948" left="1530.906432748538" rotation="0" top="51" width="1059.09356725145" zposition="7000"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:14pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Władysław: żona żyje + dwóch synów i córka. Wacław w USA, Adam i Marysia w Krakowie – pracują. Janusz bezdzietny – żona nie żyje. Kazimiera: mąż nie żyje. Dwie córki i syn. Danka mieszka w Pieszycach (wdowa), Alina w Krakowie, Zdzisław mieszka w Dąb. Górnicznej. Joanna: mąż tej nie żyje (bezdzietni). Stefania niezamężna. Pozostałe siostry: Stanisława (wdowa) + 2 córki zamężne. Zamieszkały w Krakowie. Jadwiga (wdowa - USA) córka i syn. Ania i Andrzej. Mieszkają w USA. Eugenia (wdowa) bezdzietna. Czesława (wdowa) córka, syn. Małgorzata i Marek pracują w Krakowie. Pozostali bracia: Tadeusz, żona, córka, 2 synów, Joasia Julian, Bronek. Mieszkają w USA. Kazimierz, żona, córka dwóch synów, Marysia, Stefan, Edek. Mieszkają w Anglii. I na koniec ja – Zbigniew: żona Józefa zmarła, córka i syn. Anna, Leszek. Mieszkają w Krakowie, pracują. Ożeniłme się ponownie z wdową, bezdzietną, ma na imię Izabela. Mieszkam w Nowej Hucie. Tak to wygląda w bardzo wielkim skrócie. Dziękuję za nadesłane zdjęcia. Teraz orientuję się trochę o Rodzinie stryjka ś.p. Franka. Prawie że nie pamiętam jego twarzy. Natomiast stryjenkę dość dobrze pamiętam i na zdjęciu poznałbym jak również jej córkę Stefę. Na zdjęciu 1-2, Edka z miejsca odnalazłem jak i niektórych chłopaków poznałem, ze zdjęcia gimnazjalnego.</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,14,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="1948" left="4145.676036542442" rotation="0" top="51" width="1203.323963457558" zposition="7001"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:14pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Na zdjęciu 3 stoi Edek i mój brat Janusz. Siedzi kolega. Na zdjęciu 4 (chłopaki w mundurach PRD) Edek stoi, trzciński siedzi a tego trzeciego nie przypominam sobie. Razem szliśmy na ochotnika do woja i na front. To nie to co dzisiejsza młodzież ma w głowie. T. Trzcińskiego bardzo dobrze znałem. Z Edkiem łączyły go bardzo zażyłe stosunki nie do przelania na papier. Może Edek coś Ci mówił? Na zdjęciach 5-6-7-8 znam tylko Ciebie, pozostałe osoby znam teraz z Twojego opisu. Może kiedyś będzie sposobność poznać kogoś osobiście. Jedno zdjęcie bez numeru – stoi trzech facetów, nie znam żadnego (nie przypominam ich sobie) Drugie zdjęcie to mój brat Janusz (ten który stoi z Edkiem na 3 zdjęciu. Zdjęcia Edka, brata Janusza i 1, 3, 4 oraz 6 też zatrzymuję jeżeli można. Zdjęcie Nr 1 gimnazjalne chcę pokazać starszemu bratu. Może kogoś pozna i później o ile zechcesz to przy okazji ….. Posyłam niektóre zdjęcia do obejrzenia, oczywiście bardzo wyrywkowo. Mamy kilka albumów, do wglądu raczej na miejscu. Zdjęcie – 1 rodzina ale częściowa. Stoją od góry z lewej Stanisława, Zygmunt – mąż Kazimiery, Jadwiga, Czesława, Janusz, Kazimierz – siedzą: Stefa, Kazimiera, Teofila i Józef (sp. Rodzice) Joasia i jej mąż. Siedzą u Józefa na kolanach Alina – na podłodze Zdzisław, Danuta (dzieci Kazimiery) i na końcu ja. (z tego zdjęcia 8 osób już nie żyje) Zdjęcie – 2 – od lewej siostra – Stanisława, moja pierwsza zona Józefa, Jadwiga z Waldim (Stachowiakowie) Zdjęcie – 3: od lewej ka, Stachowiakowie, siostry Czesława i Eugenia Z załączonych zdjęć ewentualnie możesz mi zwrócić nr 3, 4, 8, 9</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,14,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+    </page>
+    <page designStyleID="-1" pagenr="55" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="-1" pagenr="56" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+        <area areatype="imagearea" isResizable="1">
+            <position height="2110" left="-30" rotation="0" top="-30" width="1399.847645429363" zposition="100"/>
+            <decoration/>
+            <image filename="safecontainer:/k1199n0f_1_image-1.jpg" useABK="0">
+                <cutout left="0" scale="0.308065" top="-0.276873"/>
+            </image>
+        </area>
+        <area areatype="textarea" isResizable="1">
+            <position height="1948" left="1369.847645429363" rotation="0" top="51" width="1219.152354570637" zposition="7000"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:14pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Zdjęcie – 4 na peronie Stefa żegna Gienię i jej męża Staszka Berezowskiego (zmarł w tamtym roku) Zdjęcie – 5; Ja, Oliw – żona brata Kazika, który siedzi po prawej stronie zdjęcia, a przy nim Izabela – moja druga żonka Zdjęcie – 6 „Disneyland” (USA) Od lewej: Ja z Izabelą i brat Tadeusz Zdjęcie – 7 Los Angeles (USA) od lewej Ela z Elusią – mama z córką. Ela starsza siostra Izabeli. Na końcu Izabela no i ja stoję. Zdjęcie – 8 od lewej stoją: p. Terenia (krewna mojej zony) Rysiek mąż mojej córki Anny i jej syn Ireneusz od lewej siedzą: Joasia, córka mego syna, który robi zdjęcie, Bogusław – brak mojej zony, Izabela i ja Ania – moja córka i Kasia córka Ani Zdjęcie – 9 Syn Leszek z żoną Elą oraz córka Joasia i syn Filipek na koniec posyłam moje zdjęcia. Przyjmij Halinko na pamiątkę wraz z pozdrowieniami ode mnie i mojej rodziny. PS: Dodatkowo posyłam jedno z wcześniejszych zdjęć zrobione w Ojcowie k/Krakowa z okazji przyjazdu brata Kazimierza z Anglii. On przeszedł cały szlak od Syberii, Afryka, Monte Casino o tak aż do Anglii. Od prawej tylny rząd stoją: brat Władek, szwagier Ruczkowski z żoną (siostra Kazimiera przy nim, Oliw żona Kazimierza, szwagier Zatorski mąż siostry Czesławy, brak Kazimierz z córką Marysią, Adam syn Władka, Edward syn Kazimierza, Zdzisław syn Ruczkowskich Drugi rząd klęczą: brat Janusz, Jachowska koleżanka Stefy, syn Władka Wacek, Irena – żona Zdzisława Ruczkowskiego Trzeci rząd od prawej: Małgosia – córka Czesławy, Stefa – siostra Leszek – mój syn, Stefanek – syn Kazimierza, Ziuta – moja pierwsza żona, Ania – nasza córka, leży – niby śpi – Alina córka Kazimiery Ruczkowskiej. Piszę po …… ale może jakoś w tym labiryncie nie zginiesz. Z tego zdjęcia już 8 osób nie żyje. A młodzi już żonaci i dzieciaci Tylko my trwamy w miejscu !!! Zbyszek</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+                <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,14,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+    </page>
+    <page designStyleID="-1" pagenr="57" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="-1" pagenr="58" rotation="0" type="normalpage">
         <bundlesize height="2050" width="5400"/>
         <designElementIDs background="201" layout="125026"/>
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
@@ -1515,6 +1689,12 @@ p, li { white-space: pre-wrap; }
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-029/image-03.jpg">
             <foto id="safecontainer:/image-03.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-052/image-2.jpg">
+            <foto id="safecontainer:/p8lnc7j7_1_image-2.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-051/image-2.jpg">
+            <foto id="safecontainer:/981r3ph2_1_image-2.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-048/image-2.jpg">
             <foto id="safecontainer:/image-2.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
@@ -1541,11 +1721,32 @@ p, li { white-space: pre-wrap; }
             <foto id="safecontainer:/image-019-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="safecontainer:/image-022-01.jpg"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-055/image-1.jpg">
+            <foto id="safecontainer:/23j0cahw_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-051/image-1.jpg">
+            <foto id="safecontainer:/s8paa9bd_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-053/image-1.jpg">
+            <foto id="safecontainer:/w5194o8h_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-050/image-1.jpg">
+            <foto id="safecontainer:/c5g6xgke_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-049/image-1.jpg">
             <foto id="safecontainer:/mgn7o5vl_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-048/image-1.jpg">
             <foto id="safecontainer:/image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-054/image-1.jpg">
+            <foto id="safecontainer:/dh4pdnj2_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-052/image-1.jpg">
+            <foto id="safecontainer:/6pexhqhe_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-056/image-1.jpg">
+            <foto id="safecontainer:/k1199n0f_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-007/photo-007.png">
             <foto id="safecontainer:/photo-007.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY">
@@ -1653,9 +1854,7 @@ p, li { white-space: pre-wrap; }
             <foto id="safecontainer:/image-015-01.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="safecontainer:/Foto48.A.png.jpg"/>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-048/image-11.jpg">
-            <foto id="safecontainer:/image-11.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
+        <foto id="safecontainer:/image-11.jpg"/>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-006/photo-bottom.png">
             <foto id="safecontainer:/photo-bottom.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
@@ -1680,11 +1879,11 @@ p, li { white-space: pre-wrap; }
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-033/image-01.jpg">
             <foto id="safecontainer:/4dtaxft5_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-041/image-01.jpg">
-            <foto id="safecontainer:/71yjyf90_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-032/image-01.jpg">
             <foto id="safecontainer:/1qn5w3xv_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-041/image-01.jpg">
+            <foto id="safecontainer:/71yjyf90_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-037/image-01.jpg">
             <foto id="safecontainer:/5ntebfy3_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
@@ -1723,5 +1922,5 @@ p, li { white-space: pre-wrap; }
             <foto id="safecontainer:/e6mmec14_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
     </fotoRelationships>
-    <statistics assistantUsed="0" countPauses="14" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="45160" fotosAdded="97" fotosRemoved="23" pauseTime="16526" sessionsUsed="25"/>
+    <statistics assistantUsed="0" countPauses="15" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="47411" fotosAdded="108" fotosRemoved="25" pauseTime="17161" sessionsUsed="26"/>
 </fotobook>
