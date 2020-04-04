@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fotobook art_id="9759" externalProjectId="" identifier="605ea703-253f-4c1a-84e5-895d1d0b354c" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
+<fotobook art_id="9759" externalProjectId="" identifier="4f620c19-2350-4b22-9846-e2d6d9f47c05" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
     <project createdWithHPSVersion="6.4.7" createdWithHPSVersionBuild="20191106" projectID="27d8994f-170d-4b1c-b15c-fd22114a5c55" projectIDCreatedEpoch="1581246294"/>
-    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-03-22 19:15"/>
+    <savingVersion compatibilityVersion="6.4.2" programversion="6.4.7" programversionBuild="20191106" savetime="2020-04-04 23:49"/>
     <articleConfig normalpages="58" pagenaming="1" productvariant="pages:58" spotColor="gold_foil" totalpages="63"/>
     <pagenumbering bgcolor="#00000000" fontbold="0" fontfamily="Calibri" fontitalics="0" fontsize="24" format="0" margin="111" position="0" textcolor="#ff000000" textstring="%" verticalMargin="50">
         <outline enabled="0" width="1"/>
     </pagenumbering>
     <extra>
-        <lastTextFormat Alignment="ALIGNHCENTER" IndentMargin="0" VerticalIndentMargin="0" backgroundColor="#00000000" font="Arezzo,26,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+        <lastTextFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
     </extra>
     <page designStyleID="-1" pagenr="0" rotation="0" type="fullcover">
         <bundlesize height="2100" width="5600"/>
@@ -37,7 +37,7 @@
             <position height="116" left="2025" rotation="270" top="767" width="1550" zposition="7000"/>
             <decoration/>
             <text applySpotColor="0" areaTextType="spine"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:12pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:32px; margin-bottom:0px; margin-left:0px; margin-right:0px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Album rodzina Junger z Kołomyi. Oddano do druku marzec 2020</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
-                <textFormat Alignment="ALIGNVCENTER,ALIGNLEFT" IndentMargin="0" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,12,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+                <textFormat Alignment="ALIGNLEFT,ALIGNVCENTER" IndentMargin="0" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,12,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
             </text>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -66,7 +66,7 @@
         <area areatype="textarea" isResizable="1">
             <position height="1018" left="2811" rotation="0" top="100" width="2538" zposition="7000"/>
             <decoration/>
-            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arezzo'; color:#000000;">Album tematycznie obejmuje osoby i wydarzenia związane z rodziną Junger, zamieszkującą Kołomyję w latach międzywojennych.</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Arezzo'; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arezzo'; color:#000000;">Materiały zawarte w niniejszym albumie pochodzą głównie ze zbiorów Edwarda Jungera i są obecnie przechowywane u jego syna Jerzego Jungeraa</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Arezzo'; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Pomysł na stworzenie niniejszego albumu powstał dzięki bliskim kontaktom z moją Rodziną, której głównym ogniwem był Edward Junger.</p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Wybór zdjęć i dobór komentarzy:</p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">- Jerzy Junger, syn Edwarda Jungera</p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">- Sławomir Siudek [SS], wnuk Edwarda Jungera</p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">- Janka Gapińska, młodsza córka Rudolfa Jungera</p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arezzo'; color:#000000;">Album tematycznie obejmuje osoby i wydarzenia związane z rodziną Junger, zamieszkującą Kołomyję w latach międzywojennych.</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Arezzo'; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arezzo'; color:#000000;">Materiały zawarte w niniejszym albumie pochodzą głównie ze zbiorów Edwarda Jungera i są obecnie przechowywane u jego syna Jerzego Jungera</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Arezzo'; color:#000000;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Pomysł na stworzenie niniejszego albumu powstał dzięki bliskim kontaktom z moją Rodziną, której głównym ogniwem był Edward Junger.</p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Wybór zdjęć i dobór komentarzy:</p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">- Jerzy Junger, syn Edwarda Jungera</p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">- Sławomir Siudek [SS], wnuk Edwarda Jungera</p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">- Janka Gapińska, młodsza córka Rudolfa Jungera</p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
                 <textFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
             </text>
         </area>
@@ -100,7 +100,7 @@
             <position height="2110" left="-30" rotation="0" top="-30" width="2730" zposition="1"/>
             <decoration/>
             <imagebackground backgroundPosition="LEFT_OR_TOP" filename="safecontainer:/mapa-kolomea.png" useABK="1">
-                <cutout left="9.08516e-14" scale="0.998902" top="-429.868"/>
+                <cutout left="1.74214e-13" scale="0.998902" top="-429.868"/>
             </imagebackground>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -128,7 +128,7 @@
                 <border applySpotColor="0" color="#ffbbbbbb" enabled="1" position="outside" width="5"/>
             </decoration>
             <image filename="safecontainer:/6bs7u41c_1_anna-junger-cut.jpeg" useABK="0">
-                <cutout left="0" scale="2.02573" top="-0.0256699"/>
+                <cutout left="0" scale="2.02573" top="-0.0278091"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -142,7 +142,7 @@
             <position height="1157.431022490146" left="2893.577556225365" rotation="0" top="775.3303964757711" width="1211.099003014144" zposition="104"/>
             <decoration/>
             <image filename="safecontainer:/photo-down.jpg" useABK="0">
-                <cutout left="0.0951045" scale="0.476248" top="-190.677"/>
+                <cutout left="0.0947655" scale="0.476248" top="-190.677"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -182,7 +182,7 @@
             <position height="1315.811268545255" left="790.9253027732934" rotation="0" top="540.1887314547862" width="1763.074697226726" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/photo-bottom.png" useABK="1">
-                <cutout left="-208.216" scale="1.89053" top="-0.0274688"/>
+                <cutout left="-208.22" scale="1.89053" top="-0.0298574"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -215,14 +215,14 @@
             <position height="1830" left="4090" rotation="0" top="110" width="1200" zposition="102"/>
             <decoration/>
             <image filename="safecontainer:/cjio1xsb_1_image-009-01-optimize.jpeg" useABK="0">
-                <cutout left="-50.0057" scale="0.860771" top="-7.48642e-15"/>
+                <cutout left="-50.0063" scale="0.860771" top="6.35278e-14"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1776.999999999958" left="1187.823484848482" rotation="0" top="129" width="1412.176515151481" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/image-008.png" useABK="1">
-                <cutout left="0" scale="0.961318" top="-4.19861e-11"/>
+                <cutout left="0" scale="0.961318" top="-4.21411e-11"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -309,7 +309,7 @@
             <position height="1860.488059355437" left="51" rotation="0" top="129" width="1159.687597319408" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/image-012-01.png" useABK="1">
-                <cutout left="-0.184672" scale="2.45771" top="0"/>
+                <cutout left="-0.185664" scale="2.45771" top="0"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -363,7 +363,7 @@
             <position height="1860.999999999985" left="51" rotation="0" top="129" width="1188.410326086946" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/image-014-01.jpg" useABK="0">
-                <cutout left="-0.190238" scale="1.17934" top="-1.50322e-11"/>
+                <cutout left="-0.191184" scale="1.17934" top="-1.50638e-11"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -452,7 +452,7 @@
             <position height="1453.338679712515" left="72" rotation="0" top="486.6613202874855" width="2545.885983263616" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/image-016-01.jpg" useABK="1">
-                <cutout left="-0.00242446" scale="0.813382" top="-115.034"/>
+                <cutout left="-0.00274772" scale="0.813382" top="-115.034"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -499,14 +499,14 @@
             <position height="1811" left="51" rotation="0" top="178.9999999999472" width="1184.498624484182" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/7nr1fxc0_1_image-01.jpg" useABK="0">
-                <cutout left="-69.3377" scale="0.630571" top="-3.00843e-14"/>
+                <cutout left="-69.3377" scale="0.630571" top="-4.51265e-14"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1040.552377831964" left="2842.978437282633" rotation="0" top="129" width="811.6621025280855" zposition="104"/>
             <decoration/>
             <image filename="safecontainer:/image-019-01.jpg" useABK="1">
-                <cutout left="-0.0947338" scale="1.33747" top="-0.00430703"/>
+                <cutout left="-0.0952938" scale="1.33747" top="-0.00502487"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -520,7 +520,7 @@
             <position height="820.4476221679834" left="1304.083177633392" rotation="0" top="1169.552377831964" width="1275.86558193072" zposition="106"/>
             <decoration/>
             <image filename="safecontainer:/b63tnj4z_1_image-02.jpg" useABK="0">
-                <cutout left="-0.337611" scale="0.865451" top="0"/>
+                <cutout left="-0.337727" scale="0.865451" top="0"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -703,14 +703,14 @@
             <position height="1848.127285967799" left="1267.682403433476" rotation="0" top="112.8727140322339" width="1323.317596566448" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/azznm25f_1_image-024-01.jpg" useABK="0">
-                <cutout left="-0.119998" scale="0.807042" top="0"/>
+                <cutout left="-0.12079" scale="0.807042" top="0"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1871" left="4013.571428571429" rotation="0" top="128" width="1336.428571428571" zposition="101"/>
             <decoration/>
             <image filename="safecontainer:/image-025-01.jpg" useABK="0">
-                <cutout left="-0.234665" scale="0.814186" top="5.3826e-14"/>
+                <cutout left="-0.235073" scale="0.814186" top="-7.18334e-14"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -764,7 +764,7 @@
             <position height="1823.999999999984" left="4063.99785867239" rotation="0" top="129" width="1285.002141327612" zposition="101"/>
             <decoration/>
             <image filename="safecontainer:/image-027-01.jpg" useABK="0">
-                <cutout left="0.000981347" scale="0.791257" top="-0.32536"/>
+                <cutout left="0.00020802" scale="0.791257" top="-0.326458"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -811,7 +811,7 @@
             <position height="1835.479362780571" left="-30" rotation="0" top="244.5206372194289" width="2730" zposition="102"/>
             <decoration/>
             <image filename="safecontainer:/image-01.jpg" useABK="0">
-                <cutout left="-1.91996e-13" scale="0.676412" top="-72.1933"/>
+                <cutout left="6.85034e-14" scale="0.676412" top="-72.1941"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -839,7 +839,7 @@
             <position height="764.2987012986609" left="4295.357142857149" rotation="0" top="1225.701298701293" width="1044.642857142802" zposition="106"/>
             <decoration/>
             <image filename="safecontainer:/image-04.jpg" useABK="1">
-                <cutout left="-0.00997725" scale="1.59244" top="-0.0370605"/>
+                <cutout left="-0.0121944" scale="1.59244" top="-0.0370605"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -907,14 +907,14 @@
             <position height="1811" left="51.00000000000023" rotation="0" top="129" width="1257.31847133758" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/o2xhggiy_1_image-01.jpg" useABK="0">
-                <cutout left="0" scale="0.899369" top="1.12926e-13"/>
+                <cutout left="0" scale="0.899369" top="1.59289e-14"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1146.884197594903" left="1731.784057891622" rotation="0" top="793.1158024050976" width="857.2159421083779" zposition="104"/>
             <decoration/>
             <image filename="safecontainer:/jm8oay4q_1_image-02.jpg" useABK="0">
-                <cutout left="-0.0516321" scale="1.03416" top="-0.00303039"/>
+                <cutout left="-0.0516321" scale="1.03416" top="-0.00378799"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -1116,14 +1116,14 @@
             <position height="1830.695885659719" left="-30" rotation="0" top="159.3041143402532" width="1250.482361813948" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/5zsyt2ip_1_image-01.jpg" useABK="0">
-                <cutout left="-0.101773" scale="0.974811" top="-0.00206915"/>
+                <cutout left="-0.102339" scale="0.974811" top="-0.00289681"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="977" left="1283" rotation="0" top="1012.999999999973" width="1417" zposition="101"/>
             <decoration/>
             <image filename="safecontainer:/h7q4fmn0_1_image-02.jpg" useABK="0">
-                <cutout left="7.25152e-14" scale="0.770527" top="-8.1456e-15"/>
+                <cutout left="1.05716e-14" scale="0.770527" top="8.6694e-15"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -1184,14 +1184,14 @@
             <position height="1951" left="2719.035532994924" rotation="0" top="128.9999999999999" width="1495.325295914597" zposition="101"/>
             <decoration/>
             <image filename="safecontainer:/71yjyf90_1_image-01.jpg" useABK="0">
-                <cutout left="-0.0109142" scale="1.29548" top="6.04671e-14"/>
+                <cutout left="-0.0163714" scale="1.29548" top="-6.30329e-14"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1787.171020185257" left="4214.360828909521" rotation="0" top="292.8289798147425" width="1215.639171090479" zposition="102"/>
             <decoration/>
             <image filename="safecontainer:/puc75uv9_1_image-02.jpg" useABK="0">
-                <cutout left="-0.00226219" scale="1.05159" top="-0.00332575"/>
+                <cutout left="-0.00339329" scale="1.05159" top="-0.00498863"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -1228,10 +1228,10 @@
         <background alignment="1" designElementId="201" rotation="0" type="1"/>
         <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
         <area areatype="imagearea" isResizable="1">
-            <position height="1548.06167400881" left="2823.092974727568" rotation="0" top="129" width="1200" zposition="101"/>
+            <position height="1618.06167400881" left="2823.092974727568" rotation="0" top="129" width="1200" zposition="101"/>
             <decoration/>
             <image filename="safecontainer:/7gcf1e35_1_image-01.jpg" useABK="0">
-                <cutout left="0" scale="1.00549" top="-237.422"/>
+                <cutout left="-18.5486" scale="1.00549" top="-211.93"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -1252,7 +1252,7 @@
             <position height="1538.343037525799" left="1643.023435574696" rotation="0" top="451.6569624742228" width="932.9765644253694" zposition="104"/>
             <decoration/>
             <image filename="safecontainer:/48k09oc9_1_image-02.jpg" useABK="0">
-                <cutout left="-0.000846639" scale="2.356" top="-0.0629466"/>
+                <cutout left="-0.00141106" scale="2.356" top="-0.0629466"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -1263,7 +1263,7 @@
             </text>
         </area>
         <area areatype="textarea" isResizable="1">
-            <position height="202.2262926037561" left="2823.092974727568" rotation="0" top="51" width="2489.218641316949" zposition="7001"/>
+            <position height="78.00000000000001" left="2823.092974727568" rotation="0" top="50.99999999999999" width="2489.218641316949" zposition="7001"/>
             <decoration/>
             <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Edward Junger</span></p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
                 <textFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
@@ -1284,16 +1284,16 @@
             </text>
         </area>
         <area areatype="textarea" isResizable="1">
-            <position height="70" left="2823.092974727568" rotation="0" top="1677.06167400881" width="1051.905865986551" zposition="7004"/>
+            <position height="70" left="2823.092974727568" rotation="0" top="129" width="1051.905865986551" zposition="7004"/>
             <decoration/>
             <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:14pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Edward drugi od lewej strony</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
                 <textFormat Alignment="ALIGNRIGHT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,14,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
             </text>
         </area>
         <area areatype="textarea" isResizable="1">
-            <position height="70" left="3211.133781590541" rotation="0" top="1870" width="878.8662184094596" zposition="7005"/>
+            <position height="251.9383259911901" left="2823.092974727569" rotation="0" top="1747.06167400881" width="1266.907025272432" zposition="7005"/>
             <decoration/>
-            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:14pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p align="right" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Edward pierwszy od prawej strony</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:14pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p align="right" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Edward pierwszy od prawej strony. W tle budynek koszarów 49 HPS w Kołomyi, patrząc od strony Parku Miejskiego. Zgadując z lokalizacji zdjęcia, za plecami fotografa znajdować się musi pomnik Adama Mickiewicza.</p></td></tr></table></body></html>]]><outline color="#ff000000" enabled="0" width="1"/>
                 <textFormat Alignment="ALIGNRIGHT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,14,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
             </text>
         </area>
@@ -1353,21 +1353,21 @@
             <position height="1793.000000000011" left="-30" rotation="0" top="197.0000000000001" width="2619" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/j00ysu0z_1_image-01.jpg" useABK="0">
-                <cutout left="-2.26712e-14" scale="1.3254" top="-1.18042"/>
+                <cutout left="-4.53422e-14" scale="1.3254" top="-1.187"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1098.999999999989" left="2810.999999999999" rotation="0" top="618.0000000000115" width="854.507382550335" zposition="101"/>
             <decoration/>
             <image filename="safecontainer:/wt2n2f8h_1_image-01.jpg" useABK="0">
-                <cutout left="-0.00034255" scale="0.736644" top="-0.000440562"/>
+                <cutout left="-0.0006851" scale="0.736644" top="-0.000881124"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="1833.861386138613" left="3999" rotation="0" top="156.1386138613979" width="1350" zposition="102"/>
             <decoration/>
             <image filename="safecontainer:/22nltmq3_1_image-02.jpg" useABK="0">
-                <cutout left="-5.74445e-14" scale="1.29327" top="-0.00452615"/>
+                <cutout left="1.61269e-14" scale="1.29327" top="-0.00905233"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -1421,7 +1421,7 @@
             <position height="1861.000000000005" left="1287.372887332458" rotation="0" top="129" width="1233.797923875436" zposition="101"/>
             <decoration/>
             <image filename="safecontainer:/image-5.jpg" useABK="0">
-                <cutout left="-0.00529391" scale="1.03593" top="-0.295087"/>
+                <cutout left="-0.0105879" scale="1.03593" top="-0.303075"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -1435,14 +1435,14 @@
             <position height="861.0127829673517" left="51.00000000000011" rotation="0" top="129" width="640.2402745141846" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/image-1.jpg" useABK="0">
-                <cutout left="-0.105554" scale="0.684974" top="0.0125505"/>
+                <cutout left="-0.1059" scale="0.684974" top="0.0120855"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="861.0127829673515" left="691.2402745141849" rotation="0" top="128.9999999999999" width="596.1326128182727" zposition="104"/>
             <decoration/>
             <image filename="safecontainer:/image-2.jpg" useABK="0">
-                <cutout left="-0.000283409" scale="0.469026" top="0.0123737"/>
+                <cutout left="-0.000850229" scale="0.469026" top="0.0115551"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -1489,7 +1489,7 @@
             <position height="1337.407847800238" left="-30" rotation="0" top="652.592152199768" width="2730" zposition="103"/>
             <decoration/>
             <image filename="safecontainer:/c5g6xgke_1_image-1.jpg" useABK="0">
-                <cutout left="-0.270853" scale="1.63898" top="0"/>
+                <cutout left="-0.271195" scale="1.63898" top="0"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -1543,14 +1543,14 @@
             <position height="1680.582888940368" left="51" rotation="0" top="278.4171110595656" width="1048.530224194494" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/6pexhqhe_1_image-1.jpg" useABK="0">
-                <cutout left="-0.000233597" scale="0.570163" top="-0.129566"/>
+                <cutout left="-0.000700792" scale="0.570163" top="-0.130314"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
             <position height="853" left="1099.530224194494" rotation="0" top="1105.999999999934" width="1623" zposition="101"/>
             <decoration/>
             <image filename="safecontainer:/p8lnc7j7_1_image-2.jpg" useABK="0">
-                <cutout left="6.09235e-14" scale="0.532459" top="2.45541e-14"/>
+                <cutout left="-1.10529e-13" scale="0.532459" top="-4.00245e-14"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -1597,7 +1597,7 @@
             <position height="2110" left="-30" rotation="0" top="-30" width="1560.906432748538" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/dh4pdnj2_1_image-1.jpg" useABK="0">
-                <cutout left="-0.000279374" scale="0.351318" top="-7.89646e-14"/>
+                <cutout left="-0.000838123" scale="0.351318" top="1.46868e-13"/>
             </image>
         </area>
         <area areatype="imagearea" isResizable="1">
@@ -1637,7 +1637,7 @@
             <position height="2110" left="-30" rotation="0" top="-30" width="1399.847645429363" zposition="100"/>
             <decoration/>
             <image filename="safecontainer:/k1199n0f_1_image-1.jpg" useABK="0">
-                <cutout left="-0.000142715" scale="0.308065" top="-0.277088"/>
+                <cutout left="-0.000428145" scale="0.308065" top="-0.277518"/>
             </image>
         </area>
         <area areatype="textarea" isResizable="1">
@@ -1672,11 +1672,58 @@
     </page>
     <userfeedback></userfeedback>
     <fotoRelationships>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-048/image-3.jpg">
-            <foto id="safecontainer:/image-3.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-012/image-012-01.png">
+            <foto id="safecontainer:/image-012-01.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-005/photo-right.jpg">
+            <foto id="safecontainer:/photo-right.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="safecontainer:/Foto48.A.png.jpg"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-004/anna-junger.jpg">
+            <foto id="safecontainer:/anna-junger.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY">
+                <foto id="cewe:effect=cut,timestamp=0/safecontainer:/anna-junger.jpg" nature="RELATIONSHIP_MODIFIED_COPY">
+                    <foto id="safecontainer:/6bs7u41c_1_anna-junger-cut.jpeg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+                </foto>
+            </foto>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-005/photo-down.jpg">
+            <foto id="safecontainer:/photo-down.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-010/image-010-01.jpg">
+            <foto id="safecontainer:/image-010-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-019/image-019-02.jpg">
             <foto id="safecontainer:/image-019-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-029/image-03.jpg">
+            <foto id="safecontainer:/image-03.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-056/image-1.jpg">
+            <foto id="safecontainer:/k1199n0f_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-053/image-1.jpg">
+            <foto id="safecontainer:/w5194o8h_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-051/image-1.jpg">
+            <foto id="safecontainer:/s8paa9bd_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-049/image-1.jpg">
+            <foto id="safecontainer:/mgn7o5vl_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-054/image-1.jpg">
+            <foto id="safecontainer:/dh4pdnj2_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-052/image-1.jpg">
+            <foto id="safecontainer:/6pexhqhe_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-055/image-1.jpg">
+            <foto id="safecontainer:/23j0cahw_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-048/image-1.jpg">
+            <foto id="safecontainer:/image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-050/image-1.jpg">
+            <foto id="safecontainer:/c5g6xgke_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-007/photo-007.png">
             <foto id="safecontainer:/photo-007.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY">
@@ -1687,54 +1734,8 @@
                 </foto>
             </foto>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-005/photo-down.jpg">
-            <foto id="safecontainer:/photo-down.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-020/image-020-02.jpg">
-            <foto id="safecontainer:/image-020-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-031/image-02.jpg">
-            <foto id="safecontainer:/lg2xkt8o_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-042/image-02.jpg">
-            <foto id="safecontainer:/48k09oc9_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-047/image-02.jpg">
-            <foto id="safecontainer:/22nltmq3_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-033/image-02.jpg">
-            <foto id="safecontainer:/6pz1khn3_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-038/image-02.jpg">
-            <foto id="safecontainer:/h7q4fmn0_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-041/image-02.jpg">
-            <foto id="safecontainer:/puc75uv9_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-018/image-02.jpg">
-            <foto id="safecontainer:/b63tnj4z_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-043/image-02.jpg">
-            <foto id="safecontainer:/6fvraefd_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-029/image-02.jpg">
-            <foto id="safecontainer:/image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-030/image-02.jpg">
-            <foto id="safecontainer:/jm8oay4q_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="safecontainer:/Foto48.A.png.jpg"/>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-019/image-019-01.jpg">
-            <foto id="safecontainer:/image-019-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-020/image-020-01.jpg">
-            <foto id="safecontainer:/image-020-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-011/image-011-01.jpg">
-            <foto id="safecontainer:/image-011-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-027/image-027-01.jpg">
-            <foto id="safecontainer:/image-027-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-052/image-2.jpg">
+            <foto id="safecontainer:/p8lnc7j7_1_image-2.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-051/image-2.jpg">
             <foto id="safecontainer:/981r3ph2_1_image-2.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
@@ -1742,33 +1743,94 @@
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-049/image-2.jpg">
             <foto id="safecontainer:/k7auc46x_1_image-2.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-052/image-2.jpg">
-            <foto id="safecontainer:/p8lnc7j7_1_image-2.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-048/image-2.jpg">
             <foto id="safecontainer:/image-2.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-020/image-020-02.jpg">
+            <foto id="safecontainer:/image-020-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-048/image-3.jpg">
+            <foto id="safecontainer:/image-3.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-030/image-02.jpg">
+            <foto id="safecontainer:/jm8oay4q_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-018/image-02.jpg">
+            <foto id="safecontainer:/b63tnj4z_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-041/image-02.jpg">
+            <foto id="safecontainer:/puc75uv9_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-038/image-02.jpg">
+            <foto id="safecontainer:/h7q4fmn0_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-042/image-02.jpg">
+            <foto id="safecontainer:/48k09oc9_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-029/image-02.jpg">
+            <foto id="safecontainer:/image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-043/image-02.jpg">
+            <foto id="safecontainer:/6fvraefd_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-047/image-02.jpg">
+            <foto id="safecontainer:/22nltmq3_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-033/image-02.jpg">
+            <foto id="safecontainer:/6pz1khn3_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-031/image-02.jpg">
+            <foto id="safecontainer:/lg2xkt8o_1_image-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-006/photo-bottom.png">
+            <foto id="safecontainer:/photo-bottom.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="safecontainer:/image-022-01.jpg"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-048/image-5.jpg">
+            <foto id="safecontainer:/image-5.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-024/image-024-01.jpg">
+            <foto id="safecontainer:/azznm25f_1_image-024-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-017/image-017-01.jpg">
+            <foto id="safecontainer:/image-017-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-008/image-008.png">
+            <foto id="safecontainer:/image-008.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-020/image-020-01.jpg">
+            <foto id="safecontainer:/image-020-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-015/image-015-02.png">
             <foto id="safecontainer:/image-015-02.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="safecontainer:/image-11.jpg"/>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-035/image-01.jpg">
-            <foto id="safecontainer:/6xzfgvx7_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-011/image-011-01.jpg">
+            <foto id="safecontainer:/image-011-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-039/image-01.jpg">
-            <foto id="safecontainer:/27gvaici_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-032/image-01.jpg">
-            <foto id="safecontainer:/1qn5w3xv_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-016/image-016-01.jpg">
+            <foto id="safecontainer:/image-016-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-037/image-01.jpg">
             <foto id="safecontainer:/5ntebfy3_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-047/image-01.jpg">
-            <foto id="safecontainer:/wt2n2f8h_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-031/image-01.jpg">
             <foto id="safecontainer:/ccnsudlp_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-040/image-01.jpg">
+            <foto id="safecontainer:/3io7yub2_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-043/image-01.jpg">
+            <foto id="safecontainer:/7gcf1e35_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-035/image-01.jpg">
+            <foto id="safecontainer:/6xzfgvx7_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-041/image-01.jpg">
+            <foto id="safecontainer:/71yjyf90_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-039/image-01.jpg">
+            <foto id="safecontainer:/27gvaici_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-036/image-01.jpg">
             <foto id="safecontainer:/e6mmec14_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
@@ -1776,139 +1838,71 @@
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-029/image-01.jpg">
             <foto id="safecontainer:/p697ijoa_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-043/image-01.jpg">
-            <foto id="safecontainer:/7gcf1e35_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-046/image-01.jpg">
-            <foto id="safecontainer:/j00ysu0z_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-042/image-01.jpg">
-            <foto id="safecontainer:/87ho4bgp_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-018/image-01.jpg">
-            <foto id="safecontainer:/7nr1fxc0_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-028/image-01.jpg">
             <foto id="safecontainer:/image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-030/image-01.jpg">
-            <foto id="safecontainer:/o2xhggiy_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-044/image-01.jpg">
-            <foto id="safecontainer:/du4nwa6i_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-045/image-01.jpg">
-            <foto id="safecontainer:/4qq42u81_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-033/image-01.jpg">
-            <foto id="safecontainer:/4dtaxft5_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-041/image-01.jpg">
-            <foto id="safecontainer:/71yjyf90_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-040/image-01.jpg">
-            <foto id="safecontainer:/3io7yub2_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-034/image-01.jpg">
             <foto id="safecontainer:/a7l8tmft_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-042/image-01.jpg">
+            <foto id="safecontainer:/87ho4bgp_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-044/image-01.jpg">
+            <foto id="safecontainer:/du4nwa6i_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-032/image-01.jpg">
+            <foto id="safecontainer:/1qn5w3xv_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-018/image-01.jpg">
+            <foto id="safecontainer:/7nr1fxc0_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-045/image-01.jpg">
+            <foto id="safecontainer:/4qq42u81_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-047/image-01.jpg">
+            <foto id="safecontainer:/wt2n2f8h_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-038/image-01.jpg">
             <foto id="safecontainer:/5zsyt2ip_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-017/image-017-02.jpg">
-            <foto id="safecontainer:/image-017-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-046/image-01.jpg">
+            <foto id="safecontainer:/j00ysu0z_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-015/image-015-01.png">
-            <foto id="safecontainer:/image-015-01.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-030/image-01.jpg">
+            <foto id="safecontainer:/o2xhggiy_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-008/image-008.png">
-            <foto id="safecontainer:/image-008.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-033/image-01.jpg">
+            <foto id="safecontainer:/4dtaxft5_1_image-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
+        <foto id="safecontainer:/Foto45.A.png.jpg"/>
+        <foto id="safecontainer:/image-022-02.jpg"/>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-002/mapa-kolomea.png">
             <foto id="safecontainer:/mapa-kolomea.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
-        <foto id="safecontainer:/Foto45.A.png.jpg"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-019/image-019-01.jpg">
+            <foto id="safecontainer:/image-019-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-029/image-04.jpg">
             <foto id="safecontainer:/image-04.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-012/image-012-01.png">
-            <foto id="safecontainer:/image-012-01.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-006/photo-bottom.png">
-            <foto id="safecontainer:/photo-bottom.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-054/image-1.jpg">
-            <foto id="safecontainer:/dh4pdnj2_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-055/image-1.jpg">
-            <foto id="safecontainer:/23j0cahw_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-048/image-1.jpg">
-            <foto id="safecontainer:/image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-049/image-1.jpg">
-            <foto id="safecontainer:/mgn7o5vl_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-050/image-1.jpg">
-            <foto id="safecontainer:/c5g6xgke_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-053/image-1.jpg">
-            <foto id="safecontainer:/w5194o8h_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-056/image-1.jpg">
-            <foto id="safecontainer:/k1199n0f_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-051/image-1.jpg">
-            <foto id="safecontainer:/s8paa9bd_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-052/image-1.jpg">
-            <foto id="safecontainer:/6pexhqhe_1_image-1.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="safecontainer:/Foto44.A.png.jpg"/>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-048/image-5.jpg">
-            <foto id="safecontainer:/image-5.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-025/image-025-01.jpg">
-            <foto id="safecontainer:/image-025-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-010/image-010-01.jpg">
-            <foto id="safecontainer:/image-010-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="safecontainer:/image-022-02.jpg"/>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-024/image-024-01.jpg">
-            <foto id="safecontainer:/azznm25f_1_image-024-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-013/image-013-01.png">
-            <foto id="safecontainer:/image-013-01.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-014/image-014-01.jpg">
-            <foto id="safecontainer:/image-014-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-029/image-03.jpg">
-            <foto id="safecontainer:/image-03.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-017/image-017-01.jpg">
-            <foto id="safecontainer:/image-017-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="safecontainer:/image-022-01.jpg"/>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-004/anna-junger.jpg">
-            <foto id="safecontainer:/anna-junger.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY">
-                <foto id="cewe:effect=cut,timestamp=0/safecontainer:/anna-junger.jpg" nature="RELATIONSHIP_MODIFIED_COPY">
-                    <foto id="safecontainer:/6bs7u41c_1_anna-junger-cut.jpeg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-                </foto>
-            </foto>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-016/image-016-01.jpg">
-            <foto id="safecontainer:/image-016-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
-        </foto>
-        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-005/photo-right.jpg">
-            <foto id="safecontainer:/photo-right.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-026/image-026-01.jpg">
             <foto id="safecontainer:/image-026-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
+        <foto id="safecontainer:/Foto44.A.png.jpg"/>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-025/image-025-01.jpg">
+            <foto id="safecontainer:/image-025-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-014/image-014-02.png">
             <foto id="safecontainer:/image-014-02.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-014/image-014-01.jpg">
+            <foto id="safecontainer:/image-014-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-015/image-015-01.png">
+            <foto id="safecontainer:/image-015-01.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-013/image-013-01.png">
+            <foto id="safecontainer:/image-013-01.png" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
         </foto>
         <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-009/image-009-01.jpg">
             <foto id="safecontainer:/image-009-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY">
@@ -1917,6 +1911,12 @@
                 </foto>
             </foto>
         </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-027/image-027-01.jpg">
+            <foto id="safecontainer:/image-027-01.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
+        <foto id="file:///S:/siudeks/OneDrive/Dokumenty/Osobiste/Albumy/Album Junger/album-junger-family/page-017/image-017-02.jpg">
+            <foto id="safecontainer:/image-017-02.jpg" nature="RELATIONSHIP_ONE_TO_ONE_COPY"/>
+        </foto>
     </fotoRelationships>
-    <statistics assistantUsed="0" countPauses="15" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="47690" fotosAdded="110" fotosRemoved="25" pauseTime="17161" sessionsUsed="27"/>
+    <statistics assistantUsed="0" countPauses="16" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="48606" fotosAdded="110" fotosRemoved="25" pauseTime="17846" sessionsUsed="29"/>
 </fotobook>
