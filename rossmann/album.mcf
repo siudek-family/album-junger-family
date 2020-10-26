@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fotobook art_id="9759" article_name="CEWE%20FOTOKSI%C4%84%C5%BBKA%20Du%C5%BCa%20Panorama%20-%20Ok%C5%82adka%20twarda%2C%20Druk%20cyfrowy%20-%20papier%20matowy" externalProjectId="" folderID="c9529dbf-cc83-4075-bed8-7aa641ce6075" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
+<fotobook art_id="9759" article_name="CEWE%20FOTOKSI%C4%84%C5%BBKA%20Du%C5%BCa%20Panorama%20-%20Ok%C5%82adka%20twarda%2C%20Druk%20cyfrowy%20-%20papier%20matowy" externalProjectId="" folderID="4b6d8fa5-bebc-4e35-94dc-71d84252224f" imagedir="album_mcf-Dateien" isDataMcf="0" productname="ALB35" startdatecalendarium="" useSpineLogo="1" version="4.0">
     <project createdWithHPSVersion="6.4.7" createdWithHPSVersionBuild="20191106" projectID="27d8994f-170d-4b1c-b15c-fd22114a5c55" projectIDCreatedEpoch="1581246294"/>
-    <savingVersion compatibilityVersion="6.4.2" programversion="7.0.3" programversionBuild="20200716" savetime="2020-10-26 18:26"/>
+    <savingVersion compatibilityVersion="6.4.2" programversion="7.0.3" programversionBuild="20200716" savetime="2020-10-26 18:33"/>
     <articleConfig normalpages="58" pagenaming="1" spotColor="gold_foil" totalpages="63"/>
     <pagenumbering bgcolor="#00000000" fontbold="0" fontfamily="Calibri" fontitalics="0" fontsize="24" format="0" margin="111" position="0" textcolor="#ff000000" textstring="%" verticalMargin="50">
         <outline width="0"/>
     </pagenumbering>
     <extra>
-        <lastTextFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="5" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+        <lastTextFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="5" backgroundColor="#00000000" font="Calibri,14,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
     </extra>
     <page designStyleID="-1" pagenr="0" rotation="0" type="fullcover">
         <bundlesize height="2100" width="5599"/>
@@ -80,7 +80,7 @@
         <area areatype="textarea">
             <position height="99.4102" left="2874" rotation="0" top="1899.59" width="1324.03" zposition="7002"/>
             <decoration/>
-            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Edycję albumu zakończono styczeń 2020r.</p></td></tr></table></body></html>]]><outline color="#ff000000" width="0"/>
+            <text applySpotColor="0" areaTextType="content"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Edycję albumu zakończono listopad 2020r.</p></td></tr></table></body></html>]]><outline color="#ff000000" width="0"/>
                 <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
             </text>
         </area>
@@ -1918,5 +1918,5 @@
         </foto>
         <foto id="safecontainer:/image-022-01.jpg"/>
     </fotoRelationships>
-    <statistics assistantUsed="0" countPauses="16" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="48707" fotosAdded="110" fotosRemoved="25" pauseTime="17846" sessionsUsed="30"/>
+    <statistics assistantUsed="0" countPauses="16" elapsedTimeGross="2020-02-09T12:04:34" elapsedTimeNet="49172" fotosAdded="110" fotosRemoved="25" pauseTime="17846" sessionsUsed="30"/>
 </fotobook>
