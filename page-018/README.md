@@ -10,7 +10,7 @@ Czy prawdą jest, że zmarła w Dziewiętne przy porodzie?
 
 Gdzie znajduje się jej grób, o ile jeszcze istnieje? Nie wiemy …
 
-Na jej pogrzeb w latach 193X z rodziny pojechała wyłącznie siostra Stefania, przywożąc ze sobą heh rzeczy osobiste, włączając zdjęcia w albumie.
+Na jej pogrzeb w latach 193X z rodziny pojechała wyłącznie siostra Stefania, przywożąc ze sobą heh rzeczy osobiste, włączając zdjęcia które właśnie przeglądasz w albumie.
 
 ![image-01.jpg](image-01.jpg)
 ![image-02.jpg](image-02.jpg)
