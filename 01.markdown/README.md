@@ -48,3 +48,16 @@ Dziadek Wokraczka wychowuje swoją wnuczkę Annę po śmierci jej matki oraz por
 ![Dziadek Wokraczka](dziadek-wokraczka-02.jpg)
 Pierwsza od prawej Anna Junger, w środku – Dziadek Wokraczka.
 
+## Anna i Franciszek Jungerowie
+![Anna i Franciszek](anna-franciszek-junger.png)
+Anna Bowszek wcześnie wydana została za mąż (w wieku 17 lat) za Franciszka Jungera – ślusarza. Franciszek Junger pracował w parowozowni w Kołomyi
+
+Anna z Franciszkiem mieli czwórkę dzieci:
+
+- Stefania Junger
+- Rudolf Junger
+- Joanna Junger
+- Edward Junger
+
+W 1946r. Anna Junger przeprowadziła się ze swoją córką Stefanią oraz wnuczką Halinką do Trzcianki
+Zmarła 3 marca 1965 r, pochowana na starym cmentarzu w Trzciance.
