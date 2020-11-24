@@ -61,3 +61,21 @@ Anna z Franciszkiem mieli czwórkę dzieci:
 
 W 1946r. Anna Junger przeprowadziła się ze swoją córką Stefanią oraz wnuczką Halinką do Trzcianki
 Zmarła 3 marca 1965 r, pochowana na starym cmentarzu w Trzciance.
+
+## Franciszek Junger
+
+![Franciszek Junger](franciszek-junger.png)
+Franciszek Junger pracował jako ślusarz kolejowy (taki zawód ojca wpisano w dokumencie chrztu Edwarda Jungera) PKP w Kołomyi. Zginął śmiercią tragiczną 10 października 1930. Został potrącony przez pociąg - wracał do domu z pracy torami kolejowymi, po czym trafił do szpitala ciężko ranny – jedna z nóg została amputowana. Po paru dniach pobytu w szpitalu zmarł. Małżonka Anna, która go odwiedzała w szpitalu w ostatnich dniach wspominała że narzekał na ból nogi której już nie miał.
+
+Zimą 1956 roku Edward Junger pojechał do rodzinnej Kołomyi odwiedzić rodzinne strony. W tym czasie trwały walki na Węgrzech co czyniło podróż niebezpieczną ze względu na potencjalny udział ZSRR w tych walkach (Kołomyja w tym czasie należała do ZSRR). W Kołomyi nie znalazł już grobu ojca Franciszka, znalazł natomiast grób swojego szwagra Romana Hamaluka, męża jego siostry Stefani.
+
+## Stefania Junger
+
+![Stefania Junger](stefania-junger.jpg)
+Stefania Junger, najstarsza z rodzeństwa Junger, córka Anny i Franiciszka Jungerów, wyszła za mąż za Romana Hamaluka w Kołomyi.
+Na zdjęciu Stefania Hamaluk z jedyną córką Haliną (Halina, później po mężu Ciećkowska) na tle nieistniejącego dzisiaj Mauzoleum Żołnierzy Radzieckich w Trzciance przy Placu Pocztowym. Na dalszym tle rozebrany w 1964r. kościół ewagelicki.
+
+Po przybyciu z rodzinnej Kołomyi do Trzcianki nie miała dłuższy czas pracy i mieszkała z bratem Edwardem i jego rodziną w Trzciance Konarskiego 3. Po paru latach dostała pracę w trzcianeckim domu opieki społecznej dla dorosłych przy ul. Daszyńskiego (dziś 27 Stycznia).
+
+W latach 50-tych Stefania przenosi się ze swoją mamą Anną i córką Halinką do mieszkania przy ul. Pilskiej 13 w Trzciance, należącego do jej brata Rudolfa Junger. Rudolf miał duże mieszkanie gdzie mieszkał w tym czasie ze swoją żona Honoratą. Mieszkała tam do 1965r.
+
