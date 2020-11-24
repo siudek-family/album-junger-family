@@ -79,9 +79,6 @@ Po przybyciu z rodzinnej Kołomyi do Trzcianki nie miała dłuższy czas pracy i
 
 W latach 50-tych Stefania przenosi się ze swoją mamą Anną i córką Halinką do mieszkania przy ul. Pilskiej 13 w Trzciance, należącego do jej brata Rudolfa Junger. Rudolf miał duże mieszkanie gdzie mieszkał w tym czasie ze swoją żona Honoratą. Mieszkała tam do 1965r.
 
-
-
-
 ![Stefania Junger](stefania-junger-02.jpg)
 W 1960r. córka Stefani – Halinka – wychodzi za mąż za Ryszarda Ciećkowskiego z Piły i mieszkają początkowo wciąż pod adresem Pilska 13.
 
@@ -92,3 +89,7 @@ Halinka i Ryszard Ciećkowscy pracowali w Trzcianeckiej Fabryce Mebli. W związk
 2 września 1978r. Stefania umiera w Obornikach i tam zostaje pochowana. Córka jej Halina wraz z mężem Ryszardem wracają później do Trzcianki (ponieważ siedziba firmy zostaje ponownie przeniesiona do Trzcianki), czego efektem jest że grób Stefanii w Obornikach jest jedymy grobem rodzinnym w tej miejscowości mimo że nie ma tam obecnie żadnego członka rodziny.
 
 Tuż przed wyjazdem rodziny Jungerów z Kołomyi na ziemie odzyskane został zastrzelony Roman Hamaluk, mąż Stefani. W roku 1956 jego Edward Junger odnalazł grób Romana na cmentarzu w Kołomyi.
+
+---
+![Stefania Junger](stefania-junger-03.jpg)
+Stefania Hamaluk (z domu Junger) oraz jej mąż Roman Hamaluk
