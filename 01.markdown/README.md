@@ -16,7 +16,7 @@ Wybór zdjęć i dobór komentarzy:
 
 Edycję albumu zakończono grudzień 2020r.
 
-# RODZINA JUNGER
+## Rodzina Junger
 
 Rodzina Junger pochodzi z Kołomyi na terenie dzisiejszej Ukrainy.
 
@@ -25,4 +25,26 @@ Dom pod adresem Konarskiego 3 w Trzciance był jednym z wielu domów opuszczonyc
 
 ![mapa kolomea](mapa-kolomea-01.png)
 ![mapa kolomea](mapa-kolomea-02.jpg)
+
+## Anna Junger, z domu Bowszek
+
+---
+![Anna Junger](anna-junger.jpg)
+
+Urodzona 17 października 1882r niedaleko Kołomyi. Wcześnie straciła matkę która przeziębiła się piorąc bieliznę w rzece. Po śmierci matki jej ojciec Aleksander Bowszek wyjeżdża do Rumunii gdzie prawdopodobnie założył nową rodzinę.
+
+Anna zostaje pod opieką dziadków którzy nazywali się Wokraczka (lub Okraczka). Dziadkowie prowadzili gospodarstwo. Anna kochała dziadków i ciepło o nich opowiadała.
+
+Jedną z jej opowieści z czasów młodości było, jak poszła paść krowy w nowych butach co nie zostało przez dziadka pochwalone. Buty były wtedy cennym dobrem, do noszenia odświętnie.
+
+
+## Dziadek Wokraczka
+
+---
+![Dziadek Wokraczka](dziadek-wokraczka-01.jpg)
+Dziadek Wokraczka wychowuje swoją wnuczkę Annę po śmierci jej matki oraz porzuceniu rodziny przez ojca.
+
+---
+![Dziadek Wokraczka](dziadek-wokraczka-02.jpg)
+Pierwsza od prawej Anna Junger, w środku – Dziadek Wokraczka.
 
