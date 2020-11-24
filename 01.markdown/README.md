@@ -116,3 +116,12 @@ W szpitalu przebywa od 02.03.1952, po czym umiera 16 marca 1952 w Instytucie Onk
 Zmarł w Gliwicach w Instytucie Onkologii 16.03.1952.
 
 Pochowany na starym cmentarzu w Trzciance
+
+---
+![Rudolf z żoną Honoratą](rudolf-junger-03.jpg)
+Rudolf Junger z małżonką Honoratą (z domu Biesiadecka)
+
+---
+![Rudolf](rudolf-junger-04.png)
+Rudolf Junger
+
