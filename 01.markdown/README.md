@@ -182,3 +182,17 @@ Hasia Junger, prawdopodobnie w pracy, w szkole - Kołomyi lub Dziewiętnie.
 
 ![Joanna Junger w szkole](joanna-junger-05-B.jpg)  
 Hasia Junger, prawdopodobnie w pracy, w szkole - Kołomyi lub Dziewiętnie.
+
+![Joanna Junger w szkole](joanna-junger-05-C.jpg)  
+Hasia Junger, prawdopodobnie w pracy, w szkole - Kołomyi lub Dziewiętnie.
+
+## Edward Junger
+
+![Edward Junger](edward-junger-01.jpg)  
+Edward Stanisław Junger, najmłodsze czwarte dziecko Anny Junger (z domu Bowszek) oraz Franciszka Jungera.
+
+![Rudolf i Stefania Junger](rudolf-stefania-junger-01.jpg)  
+Starsze rodzeństwo:
+Rudolf Junger
+Stefania Junger
+
