@@ -176,3 +176,9 @@ Hasia z uczniami w Dziewiętniach.
 
 ![Dziewiętnia szkoła](dziewiętnia-szkola-02.jpg)  
 Hasia mieszkała w Dziewiętniach co najmniej do 20 IV 1933, gdyż jedno ze zdjęć (nie umieszczone w albumie ze względu na niską jakość) jest podpisane ‘Dziewiętnia’ i tak datowane.
+
+![Joanna Junger w szkole](joanna-junger-05-A.jpg)  
+Hasia Junger, prawdopodobnie w pracy, w szkole - Kołomyi lub Dziewiętnie.
+
+![Joanna Junger w szkole](joanna-junger-05-B.jpg)  
+Hasia Junger, prawdopodobnie w pracy, w szkole - Kołomyi lub Dziewiętnie.
