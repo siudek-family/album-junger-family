@@ -171,3 +171,8 @@ Karta z życzeniami dla Joanny Jungerówny od jej ucznia Koscia i "Ceść" od Zb
 ![Kartka z pozdrowieniami strona B](joanna-junger-04-B.jpg)  
 Karta wysłana z Kołomyi powala przypuścić że Hasia wczesniej uczyła przez jakiś czas w Kołomyi zanim przeniosła się do Dziewiętni. Jej uczniowie i ich rodzice pamiętali o niej.
 
+![Dziewiętnia szkoła](dziewiętnia-szkola-01.jpg)  
+Hasia z uczniami w Dziewiętniach.
+
+![Dziewiętnia szkoła](dziewiętnia-szkola-02.jpg)  
+Hasia mieszkała w Dziewiętniach co najmniej do 20 IV 1933, gdyż jedno ze zdjęć (nie umieszczone w albumie ze względu na niską jakość) jest podpisane ‘Dziewiętnia’ i tak datowane.
