@@ -165,3 +165,9 @@ Gdzie znajduje się jej grób, o ile jeszcze istnieje? Nie wiemy …
 
 Na jej pogrzeb w latach 193X z rodziny pojechała wyłącznie siostra Stefania, przywożąc ze sobą heh rzeczy osobiste, włączając zdjęcia które właśnie przeglądasz w albumie.
 
+![Kartka z pozdrowieniami strona A](joanna-junger-04-A.jpg)  
+Karta z życzeniami dla Joanny Jungerówny od jej ucznia Koscia i "Ceść" od Zbyszka (zapewne ojca tegoż ucznia), datowana 12/V/1931r.
+
+![Kartka z pozdrowieniami strona B](joanna-junger-04-B.jpg)  
+Karta wysłana z Kołomyi powala przypuścić że Hasia wczesniej uczyła przez jakiś czas w Kołomyi zanim przeniosła się do Dziewiętni. Jej uczniowie i ich rodzice pamiętali o niej.
+
