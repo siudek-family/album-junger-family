@@ -136,3 +136,6 @@ Rudolf Junger
 Druga córka Rudolfa i Honoraty, Janina.
 Wiele lat później Jako Janina Gapińska, małżonka Czesława Gapińskiego, zamieszkała w Koszalinie. Zdjęcie datowane 7 września 1937r.
 
+---
+![Rudolf Junger](rudolf-junger-05.jpg)  
+Rudolf zmarł 16 III 1952 r. Na zdjęciu pochód pogrzebowy Rudolfa Jungera w Trzciance. Z białą laską w pochodzie Anna Junger (matka Rudolfa) wspierająca się na ramieniu jego brata Edwarda.
