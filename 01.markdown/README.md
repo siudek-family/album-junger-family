@@ -196,3 +196,27 @@ Starsze rodzeństwo:
 Rudolf Junger
 Stefania Junger
 
+![Edward Junger życiorys](edward-junger-zyciorys-01-A.jpg)  
+Życiorys
+
+Urodziłem się 11 lutego 1919 roku w Kołomyi województwo Stanisławowskie. Ojciec Franciszek pracował jako funkcjonariusz PKP w Kołomyi. Zginął śmiercią tragiczną 10 października 1930 roku. Matka Anna (Bowszek) po śmierci ojca żyła z emerytury. Zmarła w Trzciance 3 marca 1965 roku. Do szkoły powszechnej zacząłem uczęszczać w 1927 roku w Kołomyi. Naukę w gimnazjum zacząłem w 1933 roku. Liceum fizyczno – matematyczne ukończyłem w 1939 roku w kołomyi.
+
+Po zajęciu terenów wschodnich przez Związek Radziecki zacząłem pracować jako księgowy (buchalter) w Powiatowym Związku Cegielni w Kołomyi gdzie pracowałem do chwili wybuchu wojny niemiecko – rosyjskiej w 1941 roku. (1.1.1940 – 30.6.1941)
+
+Podczas okupacji niemieckiej zostałem aresztowany i wywieziony do Wernigerode gdzie pracowałem w odlewni. Z Niemiec uciekłem w 1942 roku i przebywałem u krewnych w Krakowie.
+
+W 1943 roku powróciłem do Kołomyi gdzie ukrywałem się aż do przyjścia Armii Czerwonej. Po zajęciu tych terenów przez Armię Czerwoną brałem udział w walkach z bandami ukraińskimi w „Lotnym Batalionie” przy NKWD w Kołomyi. W maju 1944 roku zgłosiłem się na ochotnika do Wojska Polskiego i wyjechałem do Żytomierza, gdzie zostałem przyjęty 1.6.1944 roku.
+
+![Edward Junger życiorys](edward-junger-zyciorys-01-B.jpg)  
+W wojsku brałem udział w walkach o Wał Pomorski, nad Odrą w rejonie Szczecina i później w rejonie Drezna. Po zakończeniu wojny i powrocie naszej dywizji do Ostrowa Wielkopolskiego zostałem zdemobilizowany w styczniu 1946 roku. Po zdemobilizowaniu przyjechałem do Trzcianki gdzie zamieszkiwała moja rodzina repatriowana z Kołomyi.
+
+Pracować zacząłem już 1.2.1946 roku w Powiatowym Komitecie Opieki Społecznej w Trzciance jako księgowy. Placówkę powyższą zlikwidowano w maju 1949 roku. Od tego czasu podjąłem pracę jako księgowy a później jako kierownik sekcji księgowości Powiatowego Związku Gminnych Spółdzielni w Trzciance gdzie pracowałem do 1go kwietnia 1956 roku.
+
+1go kwietnia 1956 roku objąłem stanowisko głównego księgowego Powszechnej Spółdzielni Spożywców w Trzciance gdzie pracuję do chwili obecnej.
+
+W 1946 roku zawarłem związek małżeński z Haliną Zawieja. W chwili obecnej rodzina moja składa się z żony i trojga dzieci
+
+Junger Edward  
+Trzcianka Lub.  
+Konarskiego 3
+
