@@ -234,3 +234,14 @@ Po zajęciu Kołomyji pracowałem nadal w tej samej fabryce aż do chwili areszt
 W 1942 roku uciekłem z Wernigerode do Krakowa i w okolicach Krakowa-Miechowa przebywałem do czerwca 1943 roku.
 W czerwcu 1943 roku wróciłem do Kołomyji, gdzie wstąpiłem do organizacji AK, i zostałem przydzielony do oddziału tej organizacji. Będąc członkiem tej organizacji, Oddziału brałem udział w różnych akcjach przeciwko niemcom i banderowcom (wykonanie wyroku na burmistrzu miasta Kołomyji itp.) Z chwilą wejścia do Kołomyji wojska radzieckich Oddział nasz został wcielony do NKWD w Kołomyji i przybrał nazwę „lotnego batalionu”.
 W Lotnym Batalionie brałem udział w dalszym ciągu w walkach z bandami ukraińskimi do końca kwietnia 1944 roku. Od 6 maja 1944 roku służyłem w Ludowym ….
+
+---
+![Edward Junger życiorys](edward-junger-zyciorys-02-B.jpg)  
+Wojsku Polskim do chwili demobilizacji tj. 5 stycznia 1946 roku.  
+Służąc w wojsku brałem w walkach o Wał Pomorski w rejonie Szczecina a później Drezna. W okrążenie wpadliśmy pod Budziszynem gdzie też zastał nas koniec wojny.  
+Do końca lipca przebywaliśmy na terenie Niemiec a później stacjonowaliśmy w Ostrowie Wlkp.  
+Zostałem zdemobilizowany 5 stycznia 1946 roku a od 1 lutego 1946 roku rozpocząłem pracę jako księgowy w Pow. Komitecie Opieki Społecznej w Trzciance.  
+W 1946 roku ożeniłem się i w chwili obecnej mam troje dzieci.
+30.5.1949 została zlikwidowana w/w instytucja i od 1.4.1949 roku zacząłem pracować w Powiatowym Związku Gminnych Spółdzielni w Trzciance jako kierownik księgowości.  
+1.4.1956 roku przeszedłem z PZGS-u do Powszechnej Spółdzielni Spożywców w Trzciance na stanowisko gł. Księgowego.  
+Z chwilą reorganizacji zostałem przeniesiony do WSS-u w Pile na stanowisko kierownika biura księgowości i finansów gdzie pracuję dotychczas.
