@@ -1,3 +1,0 @@
-# Edward Junger
-
-
