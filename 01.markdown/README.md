@@ -316,10 +316,14 @@ To zdjęcie, jak i następne 4 zdjęcia pochodzą zapewne z tego samego okresu /
 Edward Junger pierwszy z lewej strony, opierający się o maskę samochodu.
 
 ---
-![Edward](edward-praca-03.jpg)  
+![Edward praca](edward-praca-03.jpg)  
 Edward Junger drugi od prawej strony.
 
 ---
-![image-01.jpg](edward-praca-04.jpg)  
+![Edward praca](edward-praca-04.jpg)  
 Edward Junger trzeci od lewej strony.
+
+---
+![Edward praca](edward-praca-04.jpg)  
+Na zdjęciu kadra (kierownicza? nauczycielska?) związana z poprzednimi czterema zdjęciami
 
