@@ -245,3 +245,12 @@ W 1946 roku ożeniłem się i w chwili obecnej mam troje dzieci.
 30.5.1949 została zlikwidowana w/w instytucja i od 1.4.1949 roku zacząłem pracować w Powiatowym Związku Gminnych Spółdzielni w Trzciance jako kierownik księgowości.  
 1.4.1956 roku przeszedłem z PZGS-u do Powszechnej Spółdzielni Spożywców w Trzciance na stanowisko gł. Księgowego.  
 Z chwilą reorganizacji zostałem przeniesiony do WSS-u w Pile na stanowisko kierownika biura księgowości i finansów gdzie pracuję dotychczas.
+
+---
+![Zdjęcie komunijne dziewczęta](edward-junger-komunia-01.jpg)  
+Powyższe zdjęcie opublikował na grupie internetowej Kołomyja Info jeden grupowicz *Mieczysław Lewandowski* z informacją *"Kołomyja. 7 czerwca 1931 r. Uroczystość Komunii Św.  Dom parafialny (zniszczony w czasie wojny). U góry Bogusława Budzianowska i Halina Sosnowska"*. Z innej informacji, na forum tej samej grupy, dowiedziałem się, że duchowny w środku to *"ks.Gwardian Eugeniusz Węgrzyn"*.  
+Zdjęcie publikuję jako - w mojej ocenie - wykonane w czasie tej samej uroczystości co znajdujące się w naszych rodzinnych zbiorach, umieszczone poniżej.
+
+---
+![Edward Junger grupowe zdjęcie komunijne chłopcy](edward-junger-komunia-02.jpg)  
+Edward Junger: środkowy rząd, czwarty od prawej.
