@@ -298,8 +298,8 @@ List z obozu od Edwarda do jego siostry Stefani Hamaluk, Kołomyja ul. Zygmuntow
 Zdjęcie zapewne z Kołomyi. Z tyłu na tyle charakterystyczny budynek że być może możliwy do zidentyfikowania. Edward Junger z lewej strony.
 
 ---
-![Edward z samochodem A](edward-z-samochodem-A.jpg)  
-![Edward z samochodem B](edward-z-samochodem-B.jpg)  
+![Edward z samochodem A](edward-praca-01-A.jpg)  
+![Edward z samochodem B](edward-praca-01-B.jpg)  
 Na zdjęciu powyżej – Edward Junger z lewej stron, poniżej podpis z drugiej strony zdjęcia.
 PS: Edward na mechanice samochodowej się nie znał, więc zdjęcie zapewnie pozowane :)
 
@@ -311,3 +311,6 @@ Zagadkowe zdjęcie, ponieważ:
 Wniosek: Zakładam, że data i opis nie odpowiadają treści zdjęcia.
 To zdjęcie, jak i następne 4 zdjęcia pochodzą zapewne z tego samego okresu / miejsca - prawdopodobnie Kołomyja 1941r, po wkroczeniu Niemców, zaś przed aresztowaniem i wywózką Edwarda do Wernigerode
 
+---
+![Edward praca](edward-praca-02.jpg)  
+Edward Junger pierwszy z lewej strony, opierający się o maskę samochodu.
