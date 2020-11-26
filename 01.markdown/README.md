@@ -254,3 +254,21 @@ Zdjęcie publikuję jako - w mojej ocenie - wykonane w czasie tej samej uroczyst
 ---
 ![Edward Junger grupowe zdjęcie komunijne chłopcy](edward-junger-komunia-02.jpg)  
 Edward Junger: środkowy rząd, czwarty od prawej.
+
+---
+![Edward Junger zdjęcie nr 1 strona A](edward-junger-02-A.jpg)  
+Zdjęcie nr 1 strona A - prawdopodobnie z legitymacji szkolnej.
+
+---
+![Edward Junger zdjęcie nr 1 strona B](edward-junger-02-B.jpg)  
+Widzimy na drugiej stronie prawdziwą datę urodzenia: 11.II.1922. Edward Junger zataił swój młody wiek aby zostać przyjęty do wojska, zmienił zatem konsekwentnie swoją datę urodzenia na 1919 rok aby się postarzeć o 3 lata. Zatem we wszystkich pozostałych dokumentach znajdziecie oficjalną datę urodzenia podaną jako 11.II.1919.
+Widzimy jego drugie imię – Stanisław
+Widzimy przekreślony wyraz „syn” i zapisane obok „sierota”
+
+---
+![Edward Junger zdjęcie nr 2 strona A](edward-junger-03-A.jpg)  
+Zdjęcie nr 2
+
+---
+![Edward Junger zdjęcie nr 2 strona B](edward-junger-03-B.jpg)  
+Na drugiej stronie zdjęcia prawdopodobnie napis „ … wdowy po em. kowalu” co. Włącznie z innymi informacjami pozwala domniemać że ojciec Franciszek, pracując na kolei, zajmował się pracami ślusarskimi.
