@@ -318,3 +318,8 @@ Edward Junger pierwszy z lewej strony, opierający się o maskę samochodu.
 ---
 ![Edward](edward-praca-03.jpg)  
 Edward Junger drugi od prawej strony.
+
+---
+![image-01.jpg](edward-praca-04.jpg)  
+Edward Junger trzeci od lewej strony.
+
