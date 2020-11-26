@@ -291,8 +291,23 @@ List z obozu od Edwarda do jego siostry Stefani Hamaluk, Kołomyja ul. Zygmuntow
 
 ---
 ![Widokówka z obozu B](widokowka-z-obozu-B.jpg)  
-Kochana Stefciu! Piszę kartkę tylko, bo chcę byście ją prędko otrzymali i dali mi szybką odpowiedź. Napiszcie mi wszystko jak najdokładniej o wszystkiem o wszystkich i o Was i w ogóle jak tam jest, napisz dużo bym mógł zorientować jak tam się Wam powodzi. Co do mnie to wiecie, nie polepsza się lecz na odwrót, choć źle nie jest. Kazikowi od razu daj mój adres (stary W. Harz Ilsenburger Straße 44) i powiedz mu żeby tego samego dnia odpisał w co nie wątpię że i wy zrobicie. Dziś dostałem list od Bolka, on jeden rozumie moje położenie i on na moje pytania dał odpowiedź. Zaraz mu odpiszę i tez będę oczekiwał odpowiedzi zarówno od niego, od Was jak i Rudka i Kazika  (żeby on prędko napisał). Mama się niech nie martwi, bo wszystko w ręku Boga i On pokieruje moim dalszym losem o co i Wy go proście. Pozdrawiam znajomych i całuję Was Edzio.
+*"Kochana Stefciu! Piszę kartkę tylko, bo chcę byście ją prędko otrzymali i dali mi szybką odpowiedź. Napiszcie mi wszystko jak najdokładniej o wszystkiem o wszystkich i o Was i w ogóle jak tam jest, napisz dużo bym mógł zorientować jak tam się Wam powodzi. Co do mnie to wiecie, nie polepsza się lecz na odwrót, choć źle nie jest. Kazikowi od razu daj mój adres (stary W. Harz Ilsenburger Straße 44) i powiedz mu żeby tego samego dnia odpisał w co nie wątpię że i wy zrobicie. Dziś dostałem list od Bolka, on jeden rozumie moje położenie i on na moje pytania dał odpowiedź. Zaraz mu odpiszę i tez będę oczekiwał odpowiedzi zarówno od niego, od Was jak i Rudka i Kazika  (żeby on prędko napisał). Mama się niech nie martwi, bo wszystko w ręku Boga i On pokieruje moim dalszym losem o co i Wy go proście. Pozdrawiam znajomych i całuję Was Edzio."*
 
 ---
 ![Edward Junger z kolegami](edward-junger-05.jpg)  
 Zdjęcie zapewne z Kołomyi. Z tyłu na tyle charakterystyczny budynek że być może możliwy do zidentyfikowania. Edward Junger z lewej strony.
+
+---
+![Edward z samochodem A](edward-z-samochodem-A.jpg)  
+![Edward z samochodem B](edward-z-samochodem-B.jpg)  
+Na zdjęciu powyżej – Edward Junger z lewej stron, poniżej podpis z drugiej strony zdjęcia.
+PS: Edward na mechanice samochodowej się nie znał, więc zdjęcie zapewnie pozowane :)
+
+Zagadkowe zdjęcie, ponieważ:
+
+1) Rejestracja wskazuje na samochód Dystryktu Lubelskiego Generalnego Gubernatora, który nie obejmował Kołomyi
+2) Zdjęcie datowane po drugiej stronie na 15.V.42, kiedy w tym czasie Edward był ścigany jako uciekinier po ucieczce z Wernigerode.
+
+Wniosek: Zakładam, że data i opis nie odpowiadają treści zdjęcia.
+To zdjęcie, jak i następne 4 zdjęcia pochodzą zapewne z tego samego okresu / miejsca - prawdopodobnie Kołomyja 1941r, po wkroczeniu Niemców, zaś przed aresztowaniem i wywózką Edwarda do Wernigerode
+
