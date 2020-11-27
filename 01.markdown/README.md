@@ -327,3 +327,11 @@ Edward Junger trzeci od lewej strony.
 ![Edward praca](edward-praca-04.jpg)  
 Na zdjęciu kadra (kierownicza? nauczycielska?) związana z poprzednimi czterema zdjęciami
 
+---
+![Edward Junger i pomnik Adama Mickiewicza](edward-junger-pomnik-mickiewicza-1.jpg)  
+Na zdjęciu widoczny pomnik Adama Mickiewicza w Kołomyi, istniejący do dzisiaj.
+
+---
+![Edward Junger i pomnik Adama Mickiewicza](edward-junger-pomnik-mickiewicza-2.jpg)  
+Pomnik został właśnie zdobyty przez Edwarda Jungera (rozpostarty na szczycie pomnika), wraz z jego towarzyszami.
+
