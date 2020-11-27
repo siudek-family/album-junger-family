@@ -339,3 +339,7 @@ Pomnik został właśnie zdobyty przez Edwarda Jungera (rozpostarty na szczycie 
 ![Edward Junger narty](edward-junger-narty.jpg)  
 Edward Junger (pierwszy z prawej strony) przywiózł z Kołomyi swoje narty do Trzcianki mając nadzieję że będzie mógł z nich w przyszłości korzystać. Niestety w rejonie Trzcianki nie miał z nich pożytku ze względu na uwarunkowania terenowe – dużo wody, mało pagórków.
 
+---
+![Edward Junger sanki](edward-junger-sanki.jpg)  
+Piękna zima, zapewne Kołomyja. Edward Junger na sankach z przodu.
+
