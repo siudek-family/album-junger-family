@@ -335,3 +335,7 @@ Na zdjęciu widoczny pomnik Adama Mickiewicza w Kołomyi, istniejący do dzisiaj
 ![Edward Junger i pomnik Adama Mickiewicza](edward-junger-pomnik-mickiewicza-2.jpg)  
 Pomnik został właśnie zdobyty przez Edwarda Jungera (rozpostarty na szczycie pomnika), wraz z jego towarzyszami.
 
+---
+![Edward Junger narty](edward-junger-narty.jpg)  
+Edward Junger (pierwszy z prawej strony) przywiózł z Kołomyi swoje narty do Trzcianki mając nadzieję że będzie mógł z nich w przyszłości korzystać. Niestety w rejonie Trzcianki nie miał z nich pożytku ze względu na uwarunkowania terenowe – dużo wody, mało pagórków.
+
