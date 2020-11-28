@@ -343,3 +343,8 @@ Edward Junger (pierwszy z prawej strony) przywiózł z Kołomyi swoje narty do T
 ![Edward Junger sanki](edward-junger-sanki.jpg)  
 Piękna zima, zapewne Kołomyja. Edward Junger na sankach z przodu.
 
+---
+![image-01.jpg](edward-junger-zima-1.jpg)  
+![image-02.jpg](edward-junger-zima-2.jpg)
+Zima ciąg dalszy
+
