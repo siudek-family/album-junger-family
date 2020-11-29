@@ -416,3 +416,86 @@ Edward Junger ginie w wypadku samochodowym 6 sierpnia 1992, kiedy kierowane prze
 
 Na dalszych stronach zamieszczam list, jaki przesłał krewny Edwarda – Zbyszek – do jego żony Haliny już po śmierci Edwarda. List obszernie opisuje dalszą rodzinę i, pomimo braku szczegółów, może pozwolić zainteresowanym na dalsze badania powiązań rodzinnych.
 
+---
+![Zbigniew Junger list](zbigniew-junger-list-1.jpg)  
+Droga Halinko!
+Dziękuję serdecznie za przysłane zdjęcia. Również za tak obszerny list, który musiał Ci zabrać wiele czasu. Jednak nie poszło to na marne bo teraz wiem coś niecoś o Waszej bliższej i dalszej Rodzinie. Wiem że masz 2 córki syna, że są już dorośli i na swoim gospodarstwie. Takie jest życie i z tym musimy się pogodzić. Zapytujesz o moją rodzinę. Nie wiem co Edek i jego siostra Ci opowiedzieli o nas. Stefa, Edzia siostra zapewne już dawno nie żyje. Domyślam się z tego faktu, że jak piszesz jej córka Halinka ma 3 córki zamężne. Ojca młodego Mariana Jungera znałem i przypominam go sobie. Bardzo często przyjeżdżał do nas w Kołomyi. Jego los tragiczny do dzisiaj tkwi mi w pamięci. Bardzo chętnie spotkałbym się z jego synami: Marianem i Ryszardem.Gdyby kiedyś byli w Krakowie mogli by do nas zaglądnąć i chociaż na chwilę. Oczywiście z każdym z Rodziny chętnie bym się spotkał, porozmawiał i powspominał jak to było jeszcze nie tak dawno a jednocześnie jednak tyle już lat minęło! Nasza rodzina duża i liczna chociaż nazwisko Junger rzadko spotykane. Opiszę o każdym chociaż kilka słów dla orientacji. Otóż było nas z świętej pamięci Matką i Ojcem 16 osób, 7 córek i siedmiu synów. Mieczysław, Julian, Władysław i Janusz już nie żyją. Kazimierz, Joanna i Stefania już nie żyją. Mieczysław zmarł mając kilka miesięcy. Julian zostawił syna Janusza – pracuje na zachodzie.
+
+---
+![Zbigniew Junger list](zbigniew-junger-list-2.jpg)  
+Władysław: żona żyje + dwóch synów i córka. Wacław w USA, Adam i Marysia w Krakowie – pracują. Janusz bezdzietny – żona nie żyje.
+
+Kazimiera: mąż nie żyje. Dwie córki i syn. Danka mieszka w Pieszycach (wdowa), Alina w Krakowie, Zdzisław mieszka w Dąb. Górnicznej. Joanna: mąż tej nie żyje (bezdzietni).
+
+Stefania niezamężna.
+
+Pozostałe siostry: Stanisława (wdowa) + 2 córki zamężne. Zamieszkały w Krakowie.
+
+Jadwiga (wdowa - USA) córka i syn. Ania i Andrzej. Mieszkają w USA.
+
+Eugenia (wdowa) bezdzietna.
+
+Czesława (wdowa) córka, syn. Małgorzata i Marek pracują w Krakowie.
+
+Pozostali bracia: Tadeusz, żona, córka, 2 synów, Joasia Julian, Bronek. Mieszkają w USA.
+
+Kazimierz, żona, córka dwóch synów, Marysia, Stefan, Edek. Mieszkają w Anglii.
+
+I na koniec ja – Zbigniew: żona Józefa zmarła, córka i syn. Anna, Leszek. Mieszkają w Krakowie, pracują.
+Ożeniłme się ponownie z wdową, bezdzietną, ma na imię Izabela. Mieszkam w Nowej Hucie. Tak to wygląda w bardzo wielkim skrócie. Dziękuję za nadesłane zdjęcia. Teraz orientuję się trochę o Rodzinie stryjka ś.p. Franka. Prawie że nie pamiętam jego twarzy. Natomiast stryjenkę dość dobrze pamiętam i na zdjęciu poznałbym jak również jej córkę Stefę. Na zdjęciu 1-2, Edka z miejsca odnalazłem jak i niektórych chłopaków poznałem, ze zdjęcia gimnazjalnego.
+
+---
+![Zbigniew Junger list](zbigniew-junger-list-3.jpg)
+
+Na zdjęciu 3 stoi Edek i mój brat Janusz. Siedzi kolega. Na zdjęciu 4 (chłopaki w mundurach PRD) Edek stoi, trzciński siedzi a tego trzeciego nie przypominam sobie. Razem szliśmy na ochotnika do woja i na front. To nie to co dzisiejsza młodzież ma w głowie. T. Trzcińskiego bardzo dobrze znałem. Z Edkiem łączyły go bardzo zażyłe stosunki nie do przelania na papier. Może Edek coś Ci mówił?
+
+Na zdjęciach 5-6-7-8 znam tylko Ciebie, pozostałe osoby znam teraz z Twojego opisu. Może kiedyś będzie sposobność poznać kogoś osobiście.
+
+Jedno zdjęcie bez numeru – stoi trzech facetów, nie znam żadnego (nie przypominam ich sobie)
+
+Drugie zdjęcie to mój brat Janusz (ten który stoi z Edkiem na 3 zdjęciu.
+
+Zdjęcia Edka, brata Janusza i 1, 3, 4 oraz 6 też zatrzymuję jeżeli można. Zdjęcie Nr 1 gimnazjalne chcę pokazać starszemu bratu. Może kogoś pozna i później o ile zechcesz to przy okazji …..
+
+Posyłam niektóre zdjęcia do obejrzenia, oczywiście bardzo wyrywkowo. Mamy kilka albumów, do wglądu raczej na miejscu.
+
+Zdjęcie – 1 rodzina ale częściowa. Stoją od góry z lewej Stanisława, Zygmunt – mąż Kazimiery, Jadwiga, Czesława, Janusz, Kazimierz – siedzą: 
+Stefa, Kazimiera, Teofila i Józef (sp. Rodzice) Joasia i jej mąż. Siedzą u Józefa na kolanach Alina – na podłodze Zdzisław, Danuta (dzieci Kazimiery) i na końcu ja. (z tego zdjęcia 8 osób już nie żyje)
+
+Zdjęcie – 2 – od lewej siostra – Stanisława, moja pierwsza zona Józefa, Jadwiga z Waldim (Stachowiakowie)
+
+Zdjęcie – 3: od lewej ka, Stachowiakowie, siostry Czesława i Eugenia
+
+Z załączonych zdjęć ewentualnie możesz mi zwrócić nr 3, 4, 8, 9
+
+---
+![Zbigniew Junger list](zbigniew-junger-list-4.jpg)
+
+Zdjęcie – 4 na peronie Stefa żegna Gienię i jej męża Staszka Berezowskiego (zmarł w tamtym roku)
+
+Zdjęcie – 5; Ja, Oliw – żona brata Kazika, który siedzi po prawej stronie zdjęcia, a przy nim Izabela – moja druga żonka
+
+Zdjęcie – 6 „Disneyland” (USA) Od lewej: Ja z Izabelą i brat Tadeusz
+
+Zdjęcie – 7 Los Angeles (USA) od lewej Ela z Elusią – mama z córką. Ela starsza siostra Izabeli. Na końcu Izabela no i ja stoję.
+
+Zdjęcie – 8 od lewej stoją: p. Terenia (krewna mojej zony) Rysiek mąż mojej córki Anny i jej syn Ireneusz
+
+od lewej siedzą: Joasia, córka mego syna, który robi zdjęcie, Bogusław – brak mojej zony, Izabela i ja
+
+Ania – moja córka i Kasia córka Ani
+
+Zdjęcie – 9 Syn Leszek z żoną Elą oraz córka Joasia i syn Filipek
+
+na koniec posyłam moje zdjęcia. Przyjmij Halinko na pamiątkę wraz z pozdrowieniami ode mnie i mojej rodziny.
+
+PS: Dodatkowo posyłam jedno z wcześniejszych zdjęć zrobione w Ojcowie k/Krakowa z okazji przyjazdu brata Kazimierza z Anglii. On przeszedł cały szlak od Syberii, Afryka, Monte Casino o tak aż do Anglii.
+
+Od prawej tylny rząd stoją:
+
+brat Władek, szwagier Ruczkowski z żoną (siostra Kazimiera przy nim, Oliw żona Kazimierza, szwagier Zatorski mąż siostry Czesławy, brak Kazimierz z córką Marysią, Adam syn Władka, Edward syn Kazimierza, Zdzisław syn Ruczkowskich
+
+Drugi rząd klęczą: brat Janusz, Jachowska koleżanka Stefy, syn Władka Wacek, Irena – żona Zdzisława Ruczkowskiego
+
+Trzeci rząd od prawej: Małgosia – córka Czesławy, Stefa – siostra Leszek – mój syn, Stefanek – syn Kazimierza, Ziuta – moja pierwsza żona, Ania – nasza córka, leży – niby śpi – Alina córka Kazimiery Ruczkowskiej. Piszę po …… ale może jakoś w tym labiryncie nie zginiesz. Z tego zdjęcia już 8 osób nie żyje. A młodzi już żonaci i dzieciaci Tylko my trwamy w miejscu !!! Zbyszek
+
