@@ -393,3 +393,6 @@ W nowo odbudowywanej Polsce poświadczenia notarialne pozwalały uzupełniać br
 ![Edward Junger](edward-junger-13.jpg)
 ![Edward Junger](edward-junger-14.jpg)
 
+---
+![Edward Junger świadectwo](edward-junger-swiadectwo-1.jpg)
+![Edward Junger odpis](edward-junger-swiadectwo-2.jpg)
