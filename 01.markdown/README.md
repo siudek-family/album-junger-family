@@ -363,3 +363,8 @@ Edward drugi od lewej strony
 ---
 ![Edward Junger i koszary](edward-junger-koszary.jpg)  
 Edward pierwszy od prawej strony. W tle budynek koszarów 49 HPS w Kołomyi, patrząc od strony Parku Miejskiego. Zgadując z lokalizacji zdjęcia, za plecami fotografa znajdować się musi pomnik Adama Mickiewicza.
+
+---
+![Edward Junger i towarzystwo na łące](edward-junger-07.jpg)  
+Edward (czwarty od lewej). Kozy nie liczymy.
+
