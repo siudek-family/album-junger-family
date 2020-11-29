@@ -499,3 +499,6 @@ Drugi rząd klęczą: brat Janusz, Jachowska koleżanka Stefy, syn Władka Wacek
 
 Trzeci rząd od prawej: Małgosia – córka Czesławy, Stefa – siostra Leszek – mój syn, Stefanek – syn Kazimierza, Ziuta – moja pierwsza żona, Ania – nasza córka, leży – niby śpi – Alina córka Kazimiery Ruczkowskiej. Piszę po …… ale może jakoś w tym labiryncie nie zginiesz. Z tego zdjęcia już 8 osób nie żyje. A młodzi już żonaci i dzieciaci Tylko my trwamy w miejscu !!! Zbyszek
 
+## Dokumenty różne
+
+![Swiadectwo zgonu Anna Junger](anna-junger-akt-zgonu.png)
