@@ -368,3 +368,8 @@ Edward pierwszy od prawej strony. W tle budynek koszarów 49 HPS w Kołomyi, pat
 ![Edward Junger i towarzystwo na łące](edward-junger-07.jpg)  
 Edward (czwarty od lewej). Kozy nie liczymy.
 
+---
+![Edward Junger po żołniersku](edward-junger-08.jpg)  
+Edward po żołniersku. A albumie jest kilka zdjęć tego miejsca, więc musiał tam stacjonować / przebywać nieco dłużej.
+Na zdjęciu jako jedyny leżący.
+
