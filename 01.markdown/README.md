@@ -348,3 +348,11 @@ Piękna zima, zapewne Kołomyja. Edward Junger na sankach z przodu.
 ![image-02.jpg](edward-junger-zima-2.jpg)
 Zima ciąg dalszy
 
+---
+Edward Junger pierwszy z lewej wygląda jak końcówka szkoły średniej. Może zdjęcie przed maturą, z kolegami?  
+![Edward Junger z kolegami](edward-junger-koledzy.jpg)
+
+---
+![Edward Junger harcerz](edward-junger-06.jpg)  
+Młody Edward Junger jako harcerz
+
