@@ -356,3 +356,10 @@ Edward Junger pierwszy z lewej wygląda jak końcówka szkoły średniej. Może 
 ![Edward Junger harcerz](edward-junger-06.jpg)  
 Młody Edward Junger jako harcerz
 
+---
+![Edward Junger i pomnik](edward-junger-pomnik.jpg)  
+Edward drugi od lewej strony
+
+---
+![Edward Junger i koszary](edward-junger-koszary.jpg)  
+Edward pierwszy od prawej strony. W tle budynek koszarów 49 HPS w Kołomyi, patrząc od strony Parku Miejskiego. Zgadując z lokalizacji zdjęcia, za plecami fotografa znajdować się musi pomnik Adama Mickiewicza.
