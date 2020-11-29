@@ -373,3 +373,15 @@ Edward (czwarty od lewej). Kozy nie liczymy.
 Edward po żołniersku. A albumie jest kilka zdjęć tego miejsca, więc musiał tam stacjonować / przebywać nieco dłużej.
 Na zdjęciu jako jedyny leżący.
 
+---
+![Edward Junger](edward-junger-09.jpg)  
+Zapewne park w Kołomyi. Z lewej strony Edward Junger
+
+---
+![Tadeusz Trzciński](tadeusz-trzcinski-01.jpg)  
+Tadeusz Trzciński, kolega Edwarda Jungera z czasów szkolnych i partyzanckich oraz wieloletni przyjaciel po czasie wojny. Ojciec chrzestny córki Edwarda – Marii.
+Tadeusz oraz Edward poślubili siostry Zawiejanki z Ostrowa Wielkopolskiego – odpowiednio Henrykę oraz Halinę.
+
+---
+![Potwierdzenie matury Edwarda Jungera przez Tadeusza Trzcińskiego](tadeusz-trzcinski-02.jpg)  
+W nowo odbudowywanej Polsce poświadczenia notarialne pozwalały uzupełniać braki w dokumentach – Tadeusz Trzciński poświadcza fakt zdania przez Edwarda Jungera egzaminu dojrzałości.
