@@ -385,3 +385,11 @@ Tadeusz oraz Edward poślubili siostry Zawiejanki z Ostrowa Wielkopolskiego – 
 ---
 ![Potwierdzenie matury Edwarda Jungera przez Tadeusza Trzcińskiego](tadeusz-trzcinski-02.jpg)  
 W nowo odbudowywanej Polsce poświadczenia notarialne pozwalały uzupełniać braki w dokumentach – Tadeusz Trzciński poświadcza fakt zdania przez Edwarda Jungera egzaminu dojrzałości.
+
+---
+![Edward Junger](edward-junger-10.jpg)
+![Edward Junger](edward-junger-11.jpg)
+![Edward Junger](edward-junger-12.jpg)
+![Edward Junger](edward-junger-13.jpg)
+![Edward Junger](edward-junger-14.jpg)
+
