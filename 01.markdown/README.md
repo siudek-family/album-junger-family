@@ -401,3 +401,18 @@ W nowo odbudowywanej Polsce poświadczenia notarialne pozwalały uzupełniać br
 ![Edward Junger niemiecki dokument tożsamości](edward-junger-dokument-niemiecki.jpg)  
 Edward nosił przy sobie kilka dowodów tożsamości – powyżej jeden z nich, oprócz którego w zachowanych dokumentach jest jeszcze jeden, nie wypełniony danymi.
 W czasie wojny kontrolujący Niemiec wyrwał Edwardowi fałszywy dokument do kontroli zanim zdołał on się przyjrzeć, który ze swoich dokumentów przedstawił. Ponieważ na każdym z nich miał nieco inne zdjęcie więc, patrząc na dokument po zdjęciu poznał jakie nazwisko ma w dokument wpisane tak, aby się przedstawić do kontroli.
+
+---
+![Głos Trzcianki, wspomnienie Edwarda Jungera](edward-junger-glos-trzcianki-1.jpg)
+![Głos Trzcianki, wspomnienie Edwarda Jungera](edward-junger-glos-trzcianki-2.jpg)  
+Edward Junger ginie w wypadku samochodowym 6 sierpnia 1992, kiedy kierowane przez niego auto uderza w drzewo. Pochowany w Trzciance, spoczywa obecnie w jednej kwaterze wraz ze swoją żoną Haliną.
+
+
+## Zbigniew Junger
+
+---
+![Zbigniew Junger A](zbigniew-junger-A.jpg)
+![Zbigniew Junger B](zbigniew-junger-B.jpg)  
+
+Na dalszych stronach zamieszczam list, jaki przesłał krewny Edwarda – Zbyszek – do jego żony Haliny już po śmierci Edwarda. List obszernie opisuje dalszą rodzinę i, pomimo braku szczegółów, może pozwolić zainteresowanym na dalsze badania powiązań rodzinnych.
+
