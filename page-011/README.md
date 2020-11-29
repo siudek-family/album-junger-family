@@ -1,1 +1,0 @@
-Stefania Hamaluk (z domu Junger) oraz jej mąż Roman Hamaluk
