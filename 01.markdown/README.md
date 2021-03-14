@@ -516,7 +516,7 @@ Zdjęcie rodzinne
 ![Belenyes.B.jpg](Belenyes.B.jpg)  
 Rewers zdjęcia rodzinnego. Wg mojego odczytu opisuje ono fotografa Gere Sandor w miejscowości Belényes.
 
-![Belenyes.C.jpg](Belenyes.B.png)  
+![Belenyes.C.jpg](Belenyes.C.png)  
 Położenie Beiuş na mapie Rumumii.
 
 ## Dokumenty różne
