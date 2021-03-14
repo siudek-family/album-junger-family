@@ -508,7 +508,7 @@ Powiedzenie 'Anglik z Kołomyi' było b. popularne na dawnych Kresach przed II w
 
 ## Miejscowość w Rumunii Beiuş (Węgierskie: Belényes)
 
-W albumach rodzinnych mamy zdjęcie rodzinne odziedziczone po zbiorach babci Anny Junger. Awers tego zdjęcia przedstawia nieznane mi osoby które mogą być związane z naszą rodziną. Bardziej interesujący rewers informuje, że wykonał je fotograf Gere Sandor w miejscowości Belényes. Biorąc pod uwagę że Anna Bowszek urodziła się w Pașcani (Rumunia), zakładam że nasz rodzina ma jakiś związek również z miejscowością Beiuş (Belényes)
+W albumach rodzinnych mamy zdjęcie rodzinne odziedziczone po zbiorach babci Anny Junger. Awers tego zdjęcia przedstawia nieznane mi osoby które mogą być związane z naszą rodziną. Bardziej interesujący rewers informuje, że wykonał je fotograf Gere Sandor w miejscowości Belényes. Biorąc pod uwagę że Anna Bowszek urodziła się w Pașcani (Rumunia), zakładam że nasz rodzina ma jakiś związek również z rumuńską miejscowością Beiuş (Belényes)
 
 ![Belenyes.A.jpg](Belenyes.A.jpg)  
 Zdjęcie rodzinne
