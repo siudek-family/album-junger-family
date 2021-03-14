@@ -506,7 +506,7 @@ Trzeci rząd od prawej: Małgosia – córka Czesławy, Stefa – siostra Leszek
 Jedno ze zdjęć pozostałych po Rudolfie Jungerze przedstawia jego kolegę z dedykacją 'Anglikowi z Kołomyi'.  
 Powiedzenie 'Anglik z Kołomyi' było b. popularne na dawnych Kresach przed II wojną światową. Powstało w XIX wieku, i miało charakteryzować prowincjusza udającego człowieka z wielkiego świata, który zna języki, choć w żadnym nie umie poprawnie coś powiedzieć. A dlaczego z Kołomyi? Bo w 1879 roku w pobliskiej Słobodzie Rungurskiej odkryto bogate złoża ropy naftowej, powstało tam setki szybów, a właśnie w Kołomyi wybudowano rafinerię. Ściągnęło to do miasta kapitał angielski i rzeczywiście na ulicach coraz częściej słychać było mowę Szekspira, która co niektórzy naśladowali jak papugi. A samo powiedzenie było po prostu zawistne. Ponieważ wielu mieszkańców na ropie się dorobiło, to 'Anglicy' z grubym portfelem stali się marzeniem sklepikarzy, restauratorów i innych rzemieślników. Miasto było bogate, z oświetleniem gazowym, pięknym dworcem. [Znalezione w internecie SS]
 
-## Miejscowość w Rumunii Beiuş (Węgierskie: Belényes)
+## Miejscowość w Rumunii Beiuş (węgierskie: Belényes)
 
 W albumach rodzinnych mamy zdjęcie rodzinne odziedziczone po zbiorach babci Anny Junger. Awers tego zdjęcia przedstawia nieznane mi osoby które mogą być związane z naszą rodziną. Bardziej interesujący rewers informuje, że wykonał je fotograf Gere Sandor w miejscowości Belényes. Biorąc pod uwagę że Anna Bowszek urodziła się w Pașcani (Rumunia), zakładam że nasz rodzina ma jakiś związek również z rumuńską miejscowością Beiuş (Belényes) [SS]
 
