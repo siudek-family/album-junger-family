@@ -522,3 +522,31 @@ Położenie Beiuş na mapie Rumumii.
 ## Dokumenty różne
 
 ![Swiadectwo zgonu Anna Junger](anna-junger-akt-zgonu.png)
+
+## Materiał od Janki Gapińskiej
+
+Stefania Junger, najstarsza z rodzeństwa Junger, córka Anny i Franciszka wyszła za mąż za Romana Hamaluka z Kołomyi który został zamordowany w marcu 1945 roku przed naszym wyjazdem z Kołomyi. Po przybyciu z moimi rodzicami do Trzcianki w sierpniu 1945 roku ciocia Stefa, babcia i Halinka. Po przybyciu do Trzcianki w sierpniu 1945 szukalismy domu, w końcu zamieszkaliśmy przy ulicy Pilskiej my: tatuś, mamusia, Lidzia i ja na prterze (3 pokoje), babcia, ciocia Stefa i Halinka na pierwszym piętrze (1 pokój) Rudolf Junger urodzony 12.04.1904 rok w Kołomyi chodził do gimnazjum Żołnierza Polskiego w Kołomyi, zatrudniony w PKP w Kołomyi od 1-go października 1923 roku z przerwą na dwuletnią służbę wojskową pracował w PKP w Załucze Śniatyń jako asystent oddziału celnego
+Po wkroczenia Rosjan we wrześniu 1939 r.,  zwolniony z pracy na stacji kolejowej, pracował ze swoim teściem Józefowi Biesiadeckiemu w pracach polowych oraz pracował z Hucułami przy wyrębie lasu w górach. Na początku lat 40-tych zatrudnił się na PKP w Kołomyi. Mieszkał ze swoją mamą Anną. Najbliższa rodzina - żona Honorata, córki Lidia i Janina pozostały w czasie okupacji w Rudnikach u dziadków Biesiadeckich. Rudolf w gimnazjum przyjaźnił sięz braćmi Antonim i Henrykiem Biesiadeckimi. Ożenił się z ich siostrą Honoratą.
+Edward Junger, najmłodszy syn babci Anny z domu Bowszek, przyjechał do Trzcianki w roku 1946. babcia z córką Stefanią i wnuczką Halinką przyjechałą do Trzcianki w 1945 roku ze swoim najstarszym synem Rudolfem z nami w wagonie towarowym, 14 osób oprócz bagażu (cały dobytek zabieramy do Polski). Babcia Anna Junger, ciocia Stefa Hamaluk i Halinka Hamaluk w marciu 1945 roku w Kołomyi przed naszą repatriacją został zamordowany mąż cioci Stefy Roma Hamaluk. Był listonoszem. Pamiętam, ciocia Stefa szukała go cały dzień z milicją gdy nie wrócił wieczorem do domu w końcu ktoś zawiadomił milicję, że ktoś leży w rowie zastrzelony. Pamiętam dokładnie pogrzeb wujka Romana Hamaluka. Babcia Anna Junger - mama cioci Stefy, mego taty Rudolfa Junger, Joanny (zwanej Hasią) Junger i najmłodszego Edwarda Jungera, przyjechała do Trzcianki ze swoim starszym synem Rudolfem z nami w jednym wagonie towarowym i z naszym dobytkiem, 14 osób. Babcia Anna Junger, ciocia Stefa Hamaluk i córka Halinka Hamaluk w marciu 1945 przed naszą repatriacją do Trzcianki z Kołomyi został zabity mąż cioci Stefy Roman Hamaluk.
+Edward Junger z Tadeuszem Trzcińskim stacjonowali z wojskiem w Ostrowiu Wielkopolkim, poznali siostry Halinę i Henię które zostały ich żonami. Ciocia Halina - żona Edka, Henia - zona Tadeusza. Do Trzcianki Edek przyjechał po zdemobilizownaiu, ślub wzięli w 1946 roku w Ostrowie. Moi rodzice byli na ślubie. W 1946 roku zamieszkali w Trzciance na ul. Pilskiej nr 9, na krótko. Następnie na Konarskiego 3.
+W latach 50-tych ciocia Stefa przenosi sięz babcią i Halinką na konarskiego 3 gdzie mieszka u syna Edwarda. W 1960 roku córka Stefani - Halinka - wychodzi za mąż za Ryszarda Ciećkowskiego z Piły i mieszkają pod adresem Pilska 13. Potem Halinka z mężem prenoszą się na ul. Daszyńskiego (aktualnie: ul. 27 stycznia) gdzie otrzymali mieszkanie w bloku (pokój, kuchnia, łazienka). Gdy zmarła babcia Anna w marcu 1965 roku ciocia Stefa prezprowadziła się do córki, mieszkała w bloku przy ul. Grunwaldzkiej. Halinka i Ryszard pracowali w Fabryce Mebli w Trzciance. W związku z reorganizacją Fabryki Mebli zostali przeniesieni do Obornik Wielkopolkich. JJ: Chwilowo Ciocia Stefa z najmłodszą córką Halinki - Magdą - zamieszkała w Trzciance na Konarskiego 3 u swego brata Edwarda tak aby Magda dokończyła rok szkolny i potem przeniosły sięrównież do Obornik i zamieszkały przy ul. Kopernika.
+2 września 1978 ciocia Stefa zmarła w Obornikach i tam jest pochowana. Córka Halinka z mężem ponownie wrócili do Trzcianki gdzie dalej pracowali w Fabryce Mebli. Grób cioci Stefy pozostał w Obornikach samotnie.
+
+Rutkowscy - Kazimiera Rutkowska z Kołomyi, byliśmy u nich z rodzicami i babcią. Alicja - córka Kazimiery Rutkowskiej, byłą u nas w Trzciance, kontaktowała się z Lidzią.
+
+Władysław Junger (kuzyn Edwarda) - był u nas w Koszalinie w 1970 roku przy okazji pogrzebu swojego znajomego który mieszkał w Koszalinie. Odnalazł nas w mieszkaniu przy ul. Zwycięstwa 85/5, potem urwał się kontakt.
+
+W Krakowie byłam w czerwcu 1952 roku, oprowadzał mnie po Krakowie i Nowej Hucie jeden z Jungerów (nie pamiętam imienia). Chyba był studentem.
+
+Edward Junger był najmłodszym synem babci Anny Junger i Franciszka Junger. Do Rudnik przyjeżdżał przed wojną na wakacje w mundurze harcerskim, jak na zdjęciu. Ja z Lidzią mówiłyśmy mu po imieniu bo nie zezwalał inaczej i tak już zostało do końca z całym szacunkiem, bardzo lubiany Edek. Do Trzcianki przyjechał po zwolnieniu z wojska w 1946 roku.
+
+W wagonie jechał również Henryk Biesiadecki z żoną Kazimierą i dziećmi Andrzejem i Jagodą. Również z nimi jechali państwo Tokarczykowie (ich przyjaciele) z synem Ryszardem.
+
+Do Trzcianki przyjechał również Tadeusz Trzciński, który zamieszkał z matką i z bratem Mieczysławem u pani Siekierskiej na ulicy Pilskiej 14 na pierwszym piętrze (był to dom bliżniak adresu Pilska 13-cie)
+
+Rundolf Junger (kolejarz z zamiłowania) zatrudnił się w PKP w Trzciance, następnie został przeniesiony do Gubina z uwagi na jego uprawnienia celne. TAm zachorował, umarł 16 marca 1952 roku w Instytucie Onkologii w Gliwicach. Na pogrzebie Rudolfa była delegacja ze sztandarem z Gubina.
+
+
+
+
+Z uwagami Jerzego Jungera
