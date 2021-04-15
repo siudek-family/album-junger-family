@@ -525,7 +525,7 @@ Położenie Beiuş na mapie Rumumii.
 
 ![Swiadectwo zgonu Anna Junger](anna-junger-akt-zgonu.png)
 
-## Materiał od Janki Gapińskiej
+## Materiał od Janki Gapińskiej (w trakcie opracowywania)
 
 Edward Junger, najmłodszy syn babci Anny z domu Bowszek, przyjechał do Trzcianki w roku 1946. babcia z córką Stefanią i wnuczką Halinką przyjechałą do Trzcianki w 1945 roku ze swoim najstarszym synem Rudolfem z nami w wagonie towarowym, 14 osób oprócz bagażu (cały dobytek zabieramy do Polski). Babcia Anna Junger, ciocia Stefa Hamaluk i Halinka Hamaluk w marciu 1945 roku w Kołomyi przed naszą repatriacją został zamordowany mąż cioci Stefy Roma Hamaluk. Był listonoszem. Pamiętam, ciocia Stefa szukała go cały dzień z milicją gdy nie wrócił wieczorem do domu w końcu ktoś zawiadomił milicję, że ktoś leży w rowie zastrzelony. Pamiętam dokładnie pogrzeb wujka Romana Hamaluka. Babcia Anna Junger - mama cioci Stefy, mego taty Rudolfa Junger, Joanny (zwanej Hasią) Junger i najmłodszego Edwarda Jungera, przyjechała do Trzcianki ze swoim starszym synem Rudolfem z nami w jednym wagonie towarowym i z naszym dobytkiem, 14 osób. Babcia Anna Junger, ciocia Stefa Hamaluk i córka Halinka Hamaluk w marciu 1945 przed naszą repatriacją do Trzcianki z Kołomyi został zabity mąż cioci Stefy Roman Hamaluk.
 Edward Junger z Tadeuszem Trzcińskim stacjonowali z wojskiem w Ostrowiu Wielkopolkim, poznali siostry Halinę i Henię które zostały ich żonami. Ciocia Halina - żona Edka, Henia - zona Tadeusza. Do Trzcianki Edek przyjechał po zdemobilizownaiu, ślub wzięli w 1946 roku w Ostrowie. Moi rodzice byli na ślubie. W 1946 roku zamieszkali w Trzciance na ul. Pilskiej nr 9, na krótko. Następnie na Konarskiego 3.
