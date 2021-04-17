@@ -9,8 +9,8 @@ Pomysł na stworzenie niniejszego albumu powstał dzięki bliskim kontaktom z mo
 Wybór zdjęć i dobór komentarzy:
 
 - Jerzy Junger, syn Edwarda Jungera: komentarze oraz wszystkie zdjęcia rodzinne.
-- Sławomir Siudek [SS], wnuk Edwarda Jungera: kompilacja materiału, dodatkowe źródła archiwalne
-- Janka Gapińska [JG], młodsza córka Rudolfa Jungera: komentarze
+- Sławomir Siudek [SS], wnuk Edwarda Jungera: kompilacja materiału, dodatkowe źródła archiwalne lub internetowe
+- Janka Gapińska [JG], młodsza córka Rudolfa Jungera: część komentarzy
 
 "Człowiek żyje tak długo, aż nie zginie po nim pamięć."
 
@@ -19,6 +19,8 @@ Edycję albumu zakończono grudzień 2020r.
 ## Rodzina Junger
 
 Rodzina Junger pochodzi z Kołomyi na terenie dzisiejszej Ukrainy.
+
+W 1945 roku w wagonem towarowym przyjeżdża na stałe z Kołomyi do Trzcianki rodzina Jungerów, Wagonem tym w którym jedzie do Polski 14 osób wraz z ich całym dobytkiem zabranym do Polski. W grupie znajdują się: Anna Junger, córka Anny Stefania Hanaluk (z domu Junger), córka Stefani Halinka Hamaluk, najstarszy syn Anny Rudolf Junger oraz rodzina Rudolfa: żona Honorata Junger (z domu Biesiadecka) oraz córki Lidka i Janina. Stefania wyjeżdża do Polski bez swojego męża ponieważ w marcu 1945 roku w Kołomyi przed repatriacją został zamordowany jej mąż Roman Hamaluk. Był listonoszem. [JG:] *Pamiętam, ciocia Stefa szukała go cały dzień z milicją gdy nie wrócił wieczorem do domu w końcu ktoś zawiadomił milicję, że ktoś leży w rowie zastrzelony. Pamiętam dokładnie pogrzeb wujka Romana Hamaluka*.
 
 W roku 1946 Anna Junger z córką Stefanią Hamaluk oraz wnuczką Halinką przenoszą się na tzw. ziemie odzyskane, czyli zamieszkują w Trzciance, gdzie dołącza do nich Edward Junger.
 Dom pod adresem Konarskiego 3 w Trzciance był jednym z wielu domów opuszczonych przez Niemców zmuszonych do wyjazdu z nowych terenów polskich, i stał się docelowo nowym rodzinnym domem Jungerów.
@@ -527,7 +529,7 @@ Położenie Beiuş na mapie Rumumii.
 
 ## Materiał od Janki Gapińskiej (w trakcie opracowywania)
 
-Edward Junger, najmłodszy syn babci Anny z domu Bowszek, przyjechał do Trzcianki w roku 1946. babcia z córką Stefanią i wnuczką Halinką przyjechałą do Trzcianki w 1945 roku ze swoim najstarszym synem Rudolfem z nami w wagonie towarowym, 14 osób oprócz bagażu (cały dobytek zabieramy do Polski). Babcia Anna Junger, ciocia Stefa Hamaluk i Halinka Hamaluk w marciu 1945 roku w Kołomyi przed naszą repatriacją został zamordowany mąż cioci Stefy Roma Hamaluk. Był listonoszem. Pamiętam, ciocia Stefa szukała go cały dzień z milicją gdy nie wrócił wieczorem do domu w końcu ktoś zawiadomił milicję, że ktoś leży w rowie zastrzelony. Pamiętam dokładnie pogrzeb wujka Romana Hamaluka. Babcia Anna Junger - mama cioci Stefy, mego taty Rudolfa Junger, Joanny (zwanej Hasią) Junger i najmłodszego Edwarda Jungera, przyjechała do Trzcianki ze swoim starszym synem Rudolfem z nami w jednym wagonie towarowym i z naszym dobytkiem, 14 osób. Babcia Anna Junger, ciocia Stefa Hamaluk i córka Halinka Hamaluk w marciu 1945 przed naszą repatriacją do Trzcianki z Kołomyi został zabity mąż cioci Stefy Roman Hamaluk.
+Edward Junger, najmłodszy syn babci Anny z domu Bowszek, przyjechał do Trzcianki w roku 1946. 
 Edward Junger z Tadeuszem Trzcińskim stacjonowali z wojskiem w Ostrowiu Wielkopolkim, poznali siostry Halinę i Henię które zostały ich żonami. Ciocia Halina - żona Edka, Henia - zona Tadeusza. Do Trzcianki Edek przyjechał po zdemobilizownaiu, ślub wzięli w 1946 roku w Ostrowie. Moi rodzice byli na ślubie. W 1946 roku zamieszkali w Trzciance na ul. Pilskiej nr 9, na krótko. Następnie na Konarskiego 3.
 W latach 50-tych ciocia Stefa przenosi sięz babcią i Halinką na konarskiego 3 gdzie mieszka u syna Edwarda. W 1960 roku córka Stefani - Halinka - wychodzi za mąż za Ryszarda Ciećkowskiego z Piły i mieszkają pod adresem Pilska 13. Potem Halinka z mężem prenoszą się na ul. Daszyńskiego (aktualnie: ul. 27 stycznia) gdzie otrzymali mieszkanie w bloku (pokój, kuchnia, łazienka). Gdy zmarła babcia Anna w marcu 1965 roku ciocia Stefa prezprowadziła się do córki, mieszkała w bloku przy ul. Grunwaldzkiej. Halinka i Ryszard pracowali w Fabryce Mebli w Trzciance. W związku z reorganizacją Fabryki Mebli zostali przeniesieni do Obornik Wielkopolkich. JJ: Chwilowo Ciocia Stefa z najmłodszą córką Halinki - Magdą - zamieszkała w Trzciance na Konarskiego 3 u swego brata Edwarda tak aby Magda dokończyła rok szkolny i potem przeniosły sięrównież do Obornik i zamieszkały przy ul. Kopernika.
 2 września 1978 ciocia Stefa zmarła w Obornikach i tam jest pochowana. Córka Halinka z mężem ponownie wrócili do Trzcianki gdzie dalej pracowali w Fabryce Mebli. Grób cioci Stefy pozostał w Obornikach samotnie.
