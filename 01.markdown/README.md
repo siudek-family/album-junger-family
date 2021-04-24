@@ -526,6 +526,14 @@ Rewers zdjęcia rodzinnego. Wg mojego odczytu opisuje ono fotografa Gere Sandor 
 ![Belenyes.C.jpg](Belenyes.C.png)  
 Położenie Beiuş na mapie Rumumii.
 
+Zapytałem na rumuńskim forum genealogicznym jakie może być oryginalne brzemienie nazwiska pisanego z niemiecka Bauschek, i spolszczonego jako Bowszek. Oczywiście chodzi tutaj o panieńskie nazwisko Anny Junger z domu Bowszek, urodzonej w Pașcani okręg Jassy w Rumuni i mieszkającej potem wiele lat w Kołomyi, zaś później w Trzciance.
+
+Podpowiedź z forum jest że na Węgrzech to nazwisko to Bozsek, i być może brzmieć Bojec w Rumunii.
+Węgierski ślad nazwiska jest prawdopodobny gdyż wspomniane Beiuş, jest przy dzisiejszej granicy węgiersko-rumuńskiej, a w czasach przed 1 wojną światową (czyli kiedy Anna Bowszek się urodziła) miejscowość ta była na terenie Austro-Węgier na terenach o ludności z przewagą węgierskiej i rumuńskiej. Sprawdziłem to dość pobieżnie przy korzystaniu z dostęnych w internecie informacji i map sprzed 1 wojny światowej
+
+Jakie jest znaczenie nazwiska Bozsek? Nie mogę ustalić z pewnością, jedyna wersja jaką dzisiaj znalazłem to odpowiednik polskiego słowa Bożek.
+Więc, być może, Anna junger z domu nazywała się - korzystając z tej wersji spolszczenia - Bożek.
+
 ## Dokumenty różne
 
 ![Swiadectwo zgonu Anna Junger](anna-junger-akt-zgonu.png)
