@@ -537,8 +537,8 @@ Położenie Beiuş na mapie Rumumii.
 
 Zapytałem na rumuńskim forum genealogicznym jakie może być oryginalne brzemienie nazwiska pisanego z niemiecka Bauschek, i spolszczonego jako Bowszek. Oczywiście chodzi tutaj o panieńskie nazwisko Anny Junger z domu Bowszek, urodzonej w Pașcani okręg Jassy w Rumuni i mieszkającej potem wiele lat w Kołomyi, zaś później w Trzciance.
 
-Podpowiedź z forum jest że na Węgrzech to nazwisko to Bozsek, i być może brzmieć Bojec w Rumunii.
-Węgierski ślad nazwiska jest prawdopodobny gdyż wspomniane Beiuş, jest przy dzisiejszej granicy węgiersko-rumuńskiej, a w czasach przed 1 wojną światową (czyli kiedy Anna Bowszek się urodziła) miejscowość ta była na terenie Austro-Węgier na terenach o ludności z przewagą węgierskiej i rumuńskiej. Sprawdziłem to dość pobieżnie przy korzystaniu z dostęnych w internecie informacji i map sprzed 1 wojny światowej
+Podpowiedź z forum jest że na Węgrzech to nazwisko może być to Bozsek, i być może brzmieć Bojec w Rumunii.
+Węgierski ślad nazwiska jest prawdopodobny gdyż wspomniane wcześniej Beiuş jest przy dzisiejszej granicy węgiersko-rumuńskiej, a w czasach przed 1 wojną światową (czyli kiedy Anna Bowszek się urodziła) miejscowość ta była na terenie Austro-Węgier na terenach o ludności z przewagą węgierskiej i rumuńskiej. Sprawdziłem to dość pobieżnie przy korzystaniu z dostępnych w internecie informacji i map sprzed 1 wojny światowej
 
 Jakie jest znaczenie nazwiska Bozsek? Nie mogę ustalić z pewnością, jedyna wersja jaką dzisiaj znalazłem to odpowiednik polskiego słowa Bożek.
 Więc, być może, Anna junger z domu nazywała się - korzystając z tej wersji spolszczenia - Bożek.
@@ -550,7 +550,7 @@ Więc, być może, Anna junger z domu nazywała się - korzystając z tej wersji
 ## Materiał od Janki Gapińskiej (w trakcie opracowywania)
 
 
-W latach 50-tych ciocia Stefa przenosi sięz babcią i Halinką na konarskiego 3 gdzie mieszka u syna Edwarda. W 1960 roku córka Stefani - Halinka - wychodzi za mąż za Ryszarda Ciećkowskiego z Piły i mieszkają pod adresem Pilska 13. Potem Halinka z mężem prenoszą się na ul. Daszyńskiego (aktualnie: ul. 27 stycznia) gdzie otrzymali mieszkanie w bloku (pokój, kuchnia, łazienka). Gdy zmarła babcia Anna w marcu 1965 roku ciocia Stefa prezprowadziła się do córki, mieszkała w bloku przy ul. Grunwaldzkiej. Halinka i Ryszard pracowali w Fabryce Mebli w Trzciance. W związku z reorganizacją Fabryki Mebli zostali przeniesieni do Obornik Wielkopolkich. JJ: Chwilowo Ciocia Stefa z najmłodszą córką Halinki - Magdą - zamieszkała w Trzciance na Konarskiego 3 u swego brata Edwarda tak aby Magda dokończyła rok szkolny i potem przeniosły sięrównież do Obornik i zamieszkały przy ul. Kopernika.
+W latach 50-tych ciocia Stefa przenosi się z babcią i Halinką na konarskiego 3 gdzie mieszka u syna Edwarda. W 1960 roku córka Stefani - Halinka - wychodzi za mąż za Ryszarda Ciećkowskiego z Piły i mieszkają pod adresem Pilska 13. Potem Halinka z mężem prenoszą się na ul. Daszyńskiego (aktualnie: ul. 27 stycznia) gdzie otrzymali mieszkanie w bloku (pokój, kuchnia, łazienka). Gdy zmarła babcia Anna w marcu 1965 roku ciocia Stefa prezprowadziła się do córki, mieszkała w bloku przy ul. Grunwaldzkiej. Halinka i Ryszard pracowali w Fabryce Mebli w Trzciance. W związku z reorganizacją Fabryki Mebli zostali przeniesieni do Obornik Wielkopolkich. JJ: Chwilowo Ciocia Stefa z najmłodszą córką Halinki - Magdą - zamieszkała w Trzciance na Konarskiego 3 u swego brata Edwarda tak aby Magda dokończyła rok szkolny i potem przeniosły sięrównież do Obornik i zamieszkały przy ul. Kopernika.
 2 września 1978 ciocia Stefa zmarła w Obornikach i tam jest pochowana. Córka Halinka z mężem ponownie wrócili do Trzcianki gdzie dalej pracowali w Fabryce Mebli. Grób cioci Stefy pozostał w Obornikach samotnie.
 
 Rutkowscy - Kazimiera Rutkowska z Kołomyi, byliśmy u nich z rodzicami i babcią. Alicja - córka Kazimiery Rutkowskiej, byłą u nas w Trzciance, kontaktowała się z Lidzią.
