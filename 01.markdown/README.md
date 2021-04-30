@@ -145,7 +145,7 @@ Wiele lat później jako Janina Gapińska, małżonka Czesława Gapińskiego, za
 ![Rudolf Junger](rudolf-junger-05.jpg)  
 Rudolf zmarł 16 III 1952 r. Na zdjęciu pochód pogrzebowy Rudolfa Jungera w Trzciance. Z białą laską w pochodzie Anna Junger (matka Rudolfa) wspierająca się na ramieniu jego brata Edwarda.
 
-# Joanna Junger
+## Joanna Junger
 
 ![Joanna Junger](joanna-junger-01.jpg)  
 Joanna, zwana w rodzinie Hasią, była trzecim dzieckiem Anny i Franciszka Jungerów.
@@ -164,7 +164,7 @@ Skąd Hasia wiedziała że jest tam praca?
 
 Co skłoniło ją do wyjazdu z w miarę nowoczesnego miasta Kołomyi do wsi „na końcu świata”?
 
-Czy prawdą jest, że zmarła w Dziewiętne przy porodzie? 
+Czy prawdą jest, że zmarła w Dziewiętne przy porodzie?
 
 Gdzie znajduje się jej grób, o ile jeszcze istnieje? Nie wiemy …
 
@@ -411,7 +411,6 @@ W czasie wojny kontrolujący Niemiec wyrwał Edwardowi fałszywy dokument do kon
 ![Głos Trzcianki, wspomnienie Edwarda Jungera](edward-junger-glos-trzcianki-1.jpg)
 ![Głos Trzcianki, wspomnienie Edwarda Jungera](edward-junger-glos-trzcianki-2.jpg)  
 Edward Junger ginie w wypadku samochodowym 6 sierpnia 1992, kiedy kierowane przez niego auto uderza w drzewo. Pochowany w Trzciance, spoczywa obecnie w jednej kwaterze wraz ze swoją żoną Haliną.
-
 
 ## Zbigniew Junger
 
