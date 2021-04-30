@@ -308,7 +308,7 @@ Fragment mapy miasta Kołomyja z okresu międzywojennego z ulicą Zygmuntowską.
 - 84 Cegielnia
 - 85 Rafineria
 
-Jeżeli Jungerowie mieszkali na Zygmuntowskiej, a Edward (wg jego życiorysu) pracował w Cegielni jako księgowy, to do pracy nie miał chyba daleko.
+Jeżeli rodzina Jungerów mieszkała na Zygmuntowskiej (z widokówki wynika że na Zygmuntowskiej mieszkała przynajmniej siotra Edwarda - Stefania), a Edward (wg jego życiorysu) pracował w Cegielni jako księgowy, to do pracy nie miał chyba daleko.
 
 ---
 ![Edward Junger z kolegami](edward-junger-05.jpg)  
