@@ -2,7 +2,7 @@
 
 Album tematycznie obejmuje osoby i wydarzenia związane z rodziną Junger, zamieszkującą Kołomyję w latach międzywojennych.
 
-Materiały zawarte w niniejszym albumie pochodzą głównie ze zbiorów Edwarda Jungera i są obecnie przechowywane u jego syna Jerzego Jungera
+Materiały zdjęciowe zawarte w niniejszym albumie pochodzą głównie ze zbiorów Edwarda Jungera i są obecnie przechowywane obecnie u jego syna Jerzego Jungera.
 
 Pomysł na stworzenie niniejszego albumu powstał dzięki bliskim kontaktom z moją Rodziną, której głównym ogniwem był Edward Junger.
 
@@ -12,19 +12,17 @@ Wybór zdjęć i dobór komentarzy:
 - Sławomir Siudek [SS], wnuk Edwarda Jungera: kompilacja materiału, dodatkowe źródła archiwalne lub internetowe
 - Janka Gapińska [JG], młodsza córka Rudolfa Jungera: część komentarzy
 
-"Człowiek żyje tak długo, aż nie zginie po nim pamięć."
+***"Człowiek żyje tak długo, aż nie zginie po nim pamięć."***
 
-Edycję albumu zakończono grudzień 2020r.
+Edycję albumu zakończono w maju 2021 roku.
 
 ## Rodzina Junger
 
 Rodzina Junger pochodzi z Kołomyi na terenie dzisiejszej Ukrainy.
 
-W 1945 roku wagonem towarowym przyjeżdża na stałe z Kołomyi na tak zwane Ziemie Odzyskane - do Trzcianki - rodzina Jungerów. Wagonem tym jedzie 14 osób wraz z ich całym dobytkiem zabranym do Polski. Między innymi jadą: seniorka rodu Anna Junger, jej córka Stefania Hanaluk (z domu Junger), córka Stefani Halinka Hamaluk, najstarszy syn Anny - Rudolf Junger oraz rodzina Rudolfa: żona Honorata Junger (z domu Biesiadecka) oraz córki Lidka i Janina. Stefania wyjeżdża do Polski bez swojego męża Romana Hamaluka ponieważ w marcu 1945 roku w Kołomyi przed repatriacją został on zamordowany. Roman Hamaluk był listonoszem. [JG:] *Pamiętam, ciocia Stefa szukała go cały dzień z milicją gdy nie wrócił wieczorem do domu w końcu ktoś zawiadomił milicję, że ktoś leży w rowie zastrzelony. Pamiętam dokładnie pogrzeb wujka Romana Hamaluka*.
+W 1945 roku, wagonem towarowym, przyjeżdża na stałe z Kołomyi do Trzcianki (na tak zwane Ziemie Odzyskane) rodzina Jungerów. Wagonem tym jedzie 14 osób wraz z ich całym dobytkiem zabranym do Polski. Między innymi jadą: seniorka rodu Anna Junger, jej córka Stefania Hanaluk (z domu Junger), córka Stefani Halinka Hamaluk, najstarszy syn Anny - Rudolf Junger oraz rodzina Rudolfa: żona Honorata Junger (z domu Biesiadecka) oraz córki Lidka i Janina. Stefania wyjeżdża do Polski bez swojego męża Romana Hamaluka ponieważ w marcu 1945 roku w Kołomyi przed repatriacją został on zamordowany. Roman Hamaluk był listonoszem. *[JG:] Pamiętam, ciocia Stefa szukała go cały dzień z milicją gdy nie wrócił wieczorem do domu w końcu ktoś zawiadomił milicję, że ktoś leży w rowie zastrzelony. Pamiętam dokładnie pogrzeb wujka Romana Hamaluka*.
 
-W roku 1946 Anna Junger z córką Stefanią Hamaluk oraz wnuczką Halinką przenoszą się na tzw. ziemie odzyskane, czyli zamieszkują w Trzciance, gdzie dołącza do nich Edward Junger.
-
-Edward Junger ze swoim przyjacielem Tadeuszem Trzcińskim pod koniec wojny stacjonowali z wojskiem w Ostrowiu Wielkopolskim, gdzie poznali siostry Halinę i Henię Zawiejanki które zostały potem ich żonami. Halina żoną Edwarda Jungera, Henryka zaś zoną Tadeusza Trzcińskiego. Do Trzcianki Edward przyjechał po zdemobilizownaiu, zaś ślub wzięli w 1946 roku w Ostrowie. *Moi rodzice byli na ślubie [JG]* . W 1946 roku zamieszkali w Trzciance na ul. Pilskiej nr 9, na krótko. Następnie na Konarskiego 3.
+Edward Junger ze swoim przyjacielem Tadeuszem Trzcińskim pod koniec wojny stacjonowali z wojskiem polskim w Ostrowiu Wielkopolskim, gdzie poznali siostry Halinę i Henrykę Zawiejanki które zostały potem ich żonami. Halina żoną Edwarda Jungera, Henryka zaś żoną Tadeusza Trzcińskiego. Edward i Halina ślub wzięli w 1946 roku w Ostrowie Wielkopolskim *[JG:] Moi rodzice byli na ślubie*. Do Trzcianki Edward przyjechał po zdemobilizownaiu. W 1946 roku zamieszkali w Trzciance na ul. Pilskiej nr 9, na krótko. Następnie na Konarskiego 3.
 
 Dom pod adresem Konarskiego 3 w Trzciance był jednym z wielu domów opuszczonych przez Niemców zmuszonych do wyjazdu z nowych terenów polskich, i stał się docelowo nowym rodzinnym domem Jungerów.
 
