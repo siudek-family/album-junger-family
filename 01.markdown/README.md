@@ -24,10 +24,9 @@ W 1945 roku, wagonem towarowym, przyjeżdża na stałe z Kołomyi do Trzcianki (
 
 Edward Junger ze swoim przyjacielem Tadeuszem Trzcińskim pod koniec wojny stacjonowali z wojskiem polskim w Ostrowiu Wielkopolskim, gdzie poznali siostry Halinę i Henrykę Zawiejanki które zostały potem ich żonami. Halina żoną Edwarda Jungera, Henryka zaś żoną Tadeusza Trzcińskiego. Edward i Halina ślub wzięli w 1946 roku w Ostrowie Wielkopolskim *[JG:] Moi rodzice byli na ślubie*. Do Trzcianki Edward przyjechał po zdemobilizownaiu. W 1946 roku zamieszkali w Trzciance na ul. Pilskiej nr 9, na krótko. Następnie na Konarskiego 3.
 
-Dom pod adresem Konarskiego 3 w Trzciance był jednym z wielu domów opuszczonych przez Niemców zmuszonych do wyjazdu z nowych terenów polskich, i stał się docelowo nowym rodzinnym domem Jungerów.
+Dom pod adresem Konarskiego 3 w Trzciance był jednym z wielu domów opuszczonych przez Niemców zmuszonych do wyjazdu z nowych ziem polskich, i stał się na wiele lat nowym rodzinnym domem Jungerów.
 
 ![mapa kolomea](mapa-kolomea-01.png)
-![mapa kolomea](mapa-kolomea-02.jpg)
 
 ## Anna Junger, z domu Bowszek
 
@@ -297,6 +296,16 @@ List z obozu od Edwarda do jego siostry Stefani Hamaluk, Kołomyja ul. Zygmuntow
 ---
 ![Widokówka z obozu B](widokowka-z-obozu-B.jpg)  
 *"Kochana Stefciu! Piszę kartkę tylko, bo chcę byście ją prędko otrzymali i dali mi szybką odpowiedź. Napiszcie mi wszystko jak najdokładniej o wszystkiem o wszystkich i o Was i w ogóle jak tam jest, napisz dużo bym mógł zorientować jak tam się Wam powodzi. Co do mnie to wiecie, nie polepsza się lecz na odwrót, choć źle nie jest. Kazikowi od razu daj mój adres (stary W. Harz Ilsenburger Straße 44) i powiedz mu żeby tego samego dnia odpisał w co nie wątpię że i wy zrobicie. Dziś dostałem list od Bolka, on jeden rozumie moje położenie i on na moje pytania dał odpowiedź. Zaraz mu odpiszę i tez będę oczekiwał odpowiedzi zarówno od niego, od Was jak i Rudka i Kazika  (żeby on prędko napisał). Mama się niech nie martwi, bo wszystko w ręku Boga i On pokieruje moim dalszym losem o co i Wy go proście. Pozdrawiam znajomych i całuję Was Edzio."*
+
+![mapa kolomea](mapa-kolomea-02.jpg)
+
+Fragment mapy miasta Kołomyja z okresu międzywojennego z ulicą Zygmuntowską. Zaznaczone na niej numerowane element oznaczają kolejno (wg opis mapy):
+
+  - 10 Dworzec Kolejowy PKP
+  - 11 Parowozownia
+  - 12 Stacja Autobusów PKP
+  - 84 Cegielnia
+  - 85 Rafineria
 
 ---
 ![Edward Junger z kolegami](edward-junger-05.jpg)  
