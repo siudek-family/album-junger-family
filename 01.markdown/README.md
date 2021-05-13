@@ -24,9 +24,13 @@ W 1945 roku, wagonem towarowym, przyjeżdża na stałe z Kołomyi do Trzcianki (
 
 Edward Junger ze swoim przyjacielem Tadeuszem Trzcińskim pod koniec wojny stacjonowali z wojskiem polskim w Ostrowiu Wielkopolskim, gdzie poznali siostry Halinę i Henrykę Zawiejanki które zostały potem ich żonami. Halina żoną Edwarda Jungera, Henryka zaś żoną Tadeusza Trzcińskiego. Edward i Halina ślub wzięli w 1946 roku w Ostrowie Wielkopolskim *[JG:] Moi rodzice byli na ślubie*. Do Trzcianki Edward przyjechał po zdemobilizownaiu. W 1946 roku zamieszkali w Trzciance na ul. Pilskiej nr 9, na krótko. Następnie na Konarskiego 3.
 
+[MS:] Edward Junger wraz ze swoją żoną Haliną zamieszkali po ślubie w początkowo w wynajętym mieszkaiu w Trzciance na ulicy Pilskiej u państwa Nene. Halina dowiedziała się, że Edwardowi, jako repatriantowi i żołnierzowi przysługuje kupno domu. Edward otrzymał dom pod adresem Konarskiego 3 ok 1953 roku oraz kawałek ziemi oddanej w uprawę. Do nowego domu wprowadził się Edward z żoną i dziećmi, oraz swoją mamą Anną oraz siostrą Stefanią wraz z jej córką - Halinką. Było to chyba już po śmierci Rudolfa (zmarł w 1952 roku) u którego do tej pory mieszkały Anna, Stefania i Halinka, i być może Anna Junger wolała chyba przeprowadzić się i być blisko swojego drugiego syna - Edwarda.
+
 Dom pod adresem Konarskiego 3 w Trzciance był jednym z wielu domów opuszczonych przez Niemców zmuszonych do wyjazdu z nowych ziem polskich, i stał się na wiele lat nowym rodzinnym domem Jungerów.
 
 ![mapa kolomea](mapa-kolomea-01.png)
+
+Mapa Kołomyi z czasów międzywojennych
 
 ## Anna Junger, z domu Bowszek
 
@@ -51,6 +55,7 @@ Dziadek Wokraczka wychowuje swoją wnuczkę Annę po śmierci jej matki oraz por
 Pierwsza od prawej Anna Junger, w środku – Dziadek Wokraczka.
 
 ## Anna i Franciszek Jungerowie
+
 ![Anna i Franciszek](anna-franciszek-junger.png)  
 Anna Bowszek wcześnie wydana została za mąż (w wieku 17 lat) za Franciszka Jungera – ślusarza. Franciszek Junger pracował w parowozowni w Kołomyi
 
@@ -75,12 +80,12 @@ Zimą 1956 roku Edward Junger pojechał do rodzinnej Kołomyi odwiedzić rodzinn
 
 ![Stefania Junger](stefania-junger-01.jpg)
 
-Stefania Junger, najstarsza z rodzeństwa Junger, córka Anny i Franiciszka Jungerów, wyszła za mąż za Romana Hamaluka w Kołomyiktóry został zamordowany w marcu 1945 roku przed wyjazdem Jungerów z Kołomyi
+Stefania Junger, najstarsza z rodzeństwa Junger, córka Anny i Franiciszka Jungerów, wyszła za mąż za Romana Hamaluka w Kołomyi który został zamordowany w marcu 1945 roku przed wyjazdem Jungerów z Kołomyi.
 Na zdjęciu Stefania Hamaluk z jedyną córką Haliną (Halina, później po mężu Ciećkowska) na tle nieistniejącego dzisiaj Mauzoleum Żołnierzy Radzieckich w Trzciance przy Placu Pocztowym. Na dalszym tle rozebrany w 1964r. kościół ewagelicki.
 
 Po przybyciu z rodzinnej Kołomyi do Trzcianki nie miała dłuższy czas pracy i mieszkała z bratem Edwardem i jego rodziną w Trzciance Konarskiego 3. Po paru latach dostała pracę w trzcianeckim domu opieki społecznej dla dorosłych przy ul. Daszyńskiego (dziś 27 Stycznia).
 
-W latach 50-tych Stefania przenosi się ze swoją mamą Anną i córką Halinką do mieszkania przy ul. Pilskiej 13 w Trzciance, należącego do jej brata Rudolfa Junger. Rudolf miał duże mieszkanie gdzie mieszkał w tym czasie ze swoją żona Honoratą. Mieszkała tam do 1965r.
+Na początku lat 50-tych Stefania przenosi się ze swoją mamą Anną i córką Halinką do brata Edwarda na Konarskiego 3. Po kilku latach mieszkania u Edwarda ponownie wracają do mieszkania przy ulicy Pilskiej 13 w Trzciance gdzie mieszkała sama jej synowa Honorata (żona zmarłego Rudolfa). Byo to duże mieszkanie i Stefania, Anna i Halinka zamieszkały na pierwszym piętrze.
 
 ![Stefania Junger](stefania-junger-02.jpg)  
 W 1960r. córka Stefani – Halinka – wychodzi za mąż za Ryszarda Ciećkowskiego z Piły i mieszkają początkowo wciąż pod adresem Pilska 13.
@@ -550,7 +555,7 @@ Więc, być może, Anna junger z domu nazywała się - korzystając z tej wersji
 ## Materiał od Janki Gapińskiej (w trakcie opracowywania)
 
 
-W latach 50-tych ciocia Stefa przenosi się z babcią i Halinką na konarskiego 3 gdzie mieszka u syna Edwarda. W 1960 roku córka Stefani - Halinka - wychodzi za mąż za Ryszarda Ciećkowskiego z Piły i mieszkają pod adresem Pilska 13. Potem Halinka z mężem prenoszą się na ul. Daszyńskiego (aktualnie: ul. 27 stycznia) gdzie otrzymali mieszkanie w bloku (pokój, kuchnia, łazienka). Gdy zmarła babcia Anna w marcu 1965 roku ciocia Stefa prezprowadziła się do córki, mieszkała w bloku przy ul. Grunwaldzkiej. Halinka i Ryszard pracowali w Fabryce Mebli w Trzciance. W związku z reorganizacją Fabryki Mebli zostali przeniesieni do Obornik Wielkopolkich. JJ: Chwilowo Ciocia Stefa z najmłodszą córką Halinki - Magdą - zamieszkała w Trzciance na Konarskiego 3 u swego brata Edwarda tak aby Magda dokończyła rok szkolny i potem przeniosły sięrównież do Obornik i zamieszkały przy ul. Kopernika.
+ W 1960 roku córka Stefani - Halinka - wychodzi za mąż za Ryszarda Ciećkowskiego z Piły i mieszkają pod adresem Pilska 13. Potem Halinka z mężem prenoszą się na ul. Daszyńskiego (aktualnie: ul. 27 stycznia) gdzie otrzymali mieszkanie w bloku (pokój, kuchnia, łazienka). Gdy zmarła babcia Anna w marcu 1965 roku ciocia Stefa prezprowadziła się do córki, mieszkała w bloku przy ul. Grunwaldzkiej. Halinka i Ryszard pracowali w Fabryce Mebli w Trzciance. W związku z reorganizacją Fabryki Mebli zostali przeniesieni do Obornik Wielkopolkich. JJ: Chwilowo Ciocia Stefa z najmłodszą córką Halinki - Magdą - zamieszkała w Trzciance na Konarskiego 3 u swego brata Edwarda tak aby Magda dokończyła rok szkolny i potem przeniosły sięrównież do Obornik i zamieszkały przy ul. Kopernika.
 2 września 1978 ciocia Stefa zmarła w Obornikach i tam jest pochowana. Córka Halinka z mężem ponownie wrócili do Trzcianki gdzie dalej pracowali w Fabryce Mebli. Grób cioci Stefy pozostał w Obornikach samotnie.
 
 Rutkowscy - Kazimiera Rutkowska z Kołomyi, byliśmy u nich z rodzicami i babcią. Alicja - córka Kazimiery Rutkowskiej, byłą u nas w Trzciance, kontaktowała się z Lidzią.
