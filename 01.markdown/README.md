@@ -83,20 +83,20 @@ Zimą 1956 roku Edward Junger pojechał do rodzinnej Kołomyi odwiedzić rodzinn
 Stefania Junger, najstarsza z rodzeństwa Junger, córka Anny i Franiciszka Jungerów, wyszła za mąż za Romana Hamaluka w Kołomyi który został zamordowany w marcu 1945 roku przed wyjazdem Jungerów z Kołomyi.
 Na zdjęciu Stefania Hamaluk z jedyną córką Haliną (Halina, później po mężu Ciećkowska) na tle nieistniejącego dzisiaj Mauzoleum Żołnierzy Radzieckich w Trzciance przy Placu Pocztowym. Na dalszym tle rozebrany w 1964r. kościół ewagelicki.
 
+Tuż przed wyjazdem rodziny Jungerów z Kołomyi na ziemie odzyskane został zastrzelony Roman Hamaluk, mąż Stefani. JJ: *W roku 1956 jego Edward Junger odnalazł grób Romana na cmentarzu w Kołomyi.*
+
 Po przybyciu z rodzinnej Kołomyi do Trzcianki nie miała dłuższy czas pracy i mieszkała z bratem Edwardem i jego rodziną w Trzciance Konarskiego 3. Po paru latach dostała pracę w trzcianeckim domu opieki społecznej dla dorosłych przy ul. Daszyńskiego (dziś 27 Stycznia).
 
 Na początku lat 50-tych Stefania przenosi się ze swoją mamą Anną i córką Halinką do brata Edwarda na Konarskiego 3. Po kilku latach mieszkania u Edwarda ponownie wracają do mieszkania przy ulicy Pilskiej 13 w Trzciance gdzie mieszkała sama jej synowa Honorata (żona zmarłego Rudolfa). Byo to duże mieszkanie i Stefania, Anna i Halinka zamieszkały na pierwszym piętrze.
 
 ![Stefania Junger](stefania-junger-02.jpg)  
-W 1960r. córka Stefani – Halinka – wychodzi za mąż za Ryszarda Ciećkowskiego z Piły i mieszkają początkowo wciąż pod adresem Pilska 13.
+W 1960r. córka Stefani – Halinka – wychodzi za mąż za Ryszarda Ciećkowskiego z Piły i mieszkają początkowo wciąż pod adresem Pilska 13. Potem Halinka z mężem przenoszą się na ul. Daszyńskiego (aktualnie: ul. 27 stycznia) gdzie otrzymali mieszkanie w bloku (pokój, kuchnia, łazienka)
 
-Gdy umiera Anna Junger w marcu 1965 r., Stefania przeprowadza się do córki Halinki która wcześniej z mężem wyprowadziła się na ul Grunwaldzką.
+Gdy umiera Anna Junger w marcu 1965 r., Stefania przeprowadza się do córki Halinki która w tym czasie z mężem mieszkała już na ulicy Grunwaldzkiej.
 
-Halinka i Ryszard Ciećkowscy pracowali w Trzcianeckiej Fabryce Mebli. W związku ze zmianą siedziby zakładu – przeniesienie do Obornik Wielkopolskich - rodzina Ciećkowskich wraz ze Stefanią Hamaluk przenoszą się razem do Obornik Wielkopolskich.
+Halinka i Ryszard pracowali w Fabryce Mebli w Trzciance. W związku z reorganizacją Fabryki Mebli - przeniesienie do Obornik Wielkopolskich - rodzina Ciećkowskich wraz ze Stefanią Hamaluk przenoszą się razem do Obornik Wielkopolskich. JJ: *Chwilowo Ciocia Stefa z najmłodszą córką Halinki - Magdą - zamieszkała w Trzciance na Konarskiego 3 u swego brata Edwarda tak aby Magda dokończyła rok szkolny i potem przeniosły się również do Obornik i zamieszkały przy ul. Kopernika.*
 
-2 września 1978r. Stefania umiera w Obornikach i tam zostaje pochowana. Córka jej Halina wraz z mężem Ryszardem wracają później do Trzcianki (ponieważ siedziba firmy zostaje ponownie przeniesiona do Trzcianki), czego efektem jest że grób Stefanii w Obornikach jest jedynym grobem rodzinnym w tej miejscowości mimo że nie ma tam obecnie żadnego członka rodziny.
-
-Tuż przed wyjazdem rodziny Jungerów z Kołomyi na ziemie odzyskane został zastrzelony Roman Hamaluk, mąż Stefani. W roku 1956 jego Edward Junger odnalazł grób Romana na cmentarzu w Kołomyi.
+2 września 1978 ciocia Stefa zmarła w Obornikach i tam jest pochowana. Córka Halinka wraz z mężem Ryszardem ponownie wracają do Trzcianki (ponieważ siedziba firmy zostaje ponownie przeniesiona do Trzcianki) gdzie dalej pracowali w Fabryce Mebli. Grób cioci Stefy pozostał w Obornikach samotnie i obecnie nie mieszka tam nikt z jej rodziny.
 
 ---
 ![Stefania Junger](stefania-junger-03.jpg)  
@@ -554,9 +554,6 @@ Więc, być może, Anna junger z domu nazywała się - korzystając z tej wersji
 
 ## Materiał od Janki Gapińskiej (w trakcie opracowywania)
 
-
- W 1960 roku córka Stefani - Halinka - wychodzi za mąż za Ryszarda Ciećkowskiego z Piły i mieszkają pod adresem Pilska 13. Potem Halinka z mężem prenoszą się na ul. Daszyńskiego (aktualnie: ul. 27 stycznia) gdzie otrzymali mieszkanie w bloku (pokój, kuchnia, łazienka). Gdy zmarła babcia Anna w marcu 1965 roku ciocia Stefa prezprowadziła się do córki, mieszkała w bloku przy ul. Grunwaldzkiej. Halinka i Ryszard pracowali w Fabryce Mebli w Trzciance. W związku z reorganizacją Fabryki Mebli zostali przeniesieni do Obornik Wielkopolkich. JJ: Chwilowo Ciocia Stefa z najmłodszą córką Halinki - Magdą - zamieszkała w Trzciance na Konarskiego 3 u swego brata Edwarda tak aby Magda dokończyła rok szkolny i potem przeniosły sięrównież do Obornik i zamieszkały przy ul. Kopernika.
-2 września 1978 ciocia Stefa zmarła w Obornikach i tam jest pochowana. Córka Halinka z mężem ponownie wrócili do Trzcianki gdzie dalej pracowali w Fabryce Mebli. Grób cioci Stefy pozostał w Obornikach samotnie.
 
 Rutkowscy - Kazimiera Rutkowska z Kołomyi, byliśmy u nich z rodzicami i babcią. Alicja - córka Kazimiery Rutkowskiej, byłą u nas w Trzciance, kontaktowała się z Lidzią.
 
