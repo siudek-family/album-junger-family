@@ -1,5 +1,35 @@
 # Wstęp
 
+***"Człowiek żyje tak długo, aż nie zginie po nim pamięć."***
+
+Dziękuję wszystkim którzy przyczynili się do powstania niniejszego albumu:
+
+- Jerzy Junger [JJ]
+- Krystyna Muszalska [KM]
+- Iza Kapała [IK]
+- Janka Gapińska [JG]
+- Maria Siudek [MS]
+
+Edycję albumu zakończono w maju 2021 roku.
+
+## Rodzina Zawieja
+
+Album tematycznie obejmuje osoby i wydarzenia związane z rodziną Zawiejów zamieszkującą Ostrów Wielkopolski od lat międzywojennych.
+
+Materiały zawarte w niniejszym albumie pochodzą głównie ze zbiorów Haliny Junger (z domu Zawieja) i są obecnie przechowywane u jej syna Jerzego Jungera. Kilka zdjęć dostarczyła Iza Kapała
+
+Wybór zdjęć i dobór komentarzy
+
+- Jerzy Junger [JJ] (syn Haliny Junger)
+- Krystyna Muszalska [KM]
+- Iza Kapała [IK] (wnuczka Mirosławy Cegły)
+- Maria Siudek [MS] (córka Haliny Junger)
+- Sławomir Siudek [SS] (wnuk Haliny Junger)
+
+Dodać: Krystyna Muszalska, zmarła 29 maja 2021r., pochowana kwatera 36b/3/6 Cmentarz Centralny w Szczecinie dnia 01 czerwca 2021 roku.
+
+## Rodzina Junger
+
 Album tematycznie obejmuje osoby i wydarzenia związane z rodziną Junger, zamieszkującą Kołomyję w latach międzywojennych.
 
 Materiały zdjęciowe zawarte w niniejszym albumie pochodzą głównie ze zbiorów Edwarda Jungera i są obecnie przechowywane obecnie u jego syna Jerzego Jungera.
@@ -10,14 +40,9 @@ Wybór zdjęć i dobór komentarzy:
 
 - Jerzy Junger, syn Edwarda Jungera: komentarze oraz wszystkie zdjęcia rodzinne.
 - Sławomir Siudek [SS], wnuk Edwarda Jungera: kompilacja materiału, dodatkowe źródła archiwalne lub internetowe
-- Janka Gapińska [JG], młodsza córka Rudolfa Jungera: część komentarzy
+- Janka Gapińska [JG], młodsza córka Rudolfa Jungera: część komentarzy dotycząca rodzinu Junger
 
-***"Człowiek żyje tak długo, aż nie zginie po nim pamięć."***
-
-Edycję albumu zakończono w maju 2021 roku.
-
-## Rodzina Junger
-
+---
 Rodzina Junger pochodzi z Kołomyi na terenie dzisiejszej Ukrainy.
 
 W 1945 roku, wagonem towarowym, przyjeżdża na stałe z Kołomyi do Trzcianki (na tak zwane Ziemie Odzyskane) rodzina Jungerów. Wagonem tym jedzie 14 osób wraz z ich całym dobytkiem zabranym do Polski. Między innymi jadą: seniorka rodu Anna Junger, jej córka Stefania Hanaluk (z domu Junger), córka Stefani Halinka Hamaluk, najstarszy syn Anny - Rudolf Junger oraz rodzina Rudolfa: żona Honorata Junger (z domu Biesiadecka) oraz córki Lidka i Janina. Stefania wyjeżdża do Polski bez swojego męża Romana Hamaluka ponieważ w marcu 1945 roku w Kołomyi przed repatriacją został on zamordowany. Roman Hamaluk był listonoszem. *[JG:] Pamiętam, ciocia Stefa szukała go cały dzień z milicją gdy nie wrócił wieczorem do domu w końcu ktoś zawiadomił milicję, że ktoś leży w rowie zastrzelony. Pamiętam dokładnie pogrzeb wujka Romana Hamaluka*.
@@ -32,7 +57,7 @@ Dom pod adresem Konarskiego 3 w Trzciance był jednym z wielu domów opuszczonyc
 
 Mapa Kołomyi z czasów międzywojennych
 
-## Anna Junger, z domu Bowszek
+### Anna Junger, z domu Bowszek
 
 ---
 ![Anna Junger](anna-junger.jpg)
