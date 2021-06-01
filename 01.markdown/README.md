@@ -571,7 +571,7 @@ Podpowiedź z forum jest że na Węgrzech to nazwisko może być to Bozsek, i by
 Węgierski ślad nazwiska jest prawdopodobny gdyż wspomniane wcześniej Beiuş jest przy dzisiejszej granicy węgiersko-rumuńskiej, a w czasach przed 1 wojną światową (czyli kiedy Anna Bowszek się urodziła) miejscowość ta była na terenie Austro-Węgier na terenach o ludności z przewagą węgierskiej i rumuńskiej. Sprawdziłem to dość pobieżnie przy korzystaniu z dostępnych w internecie informacji i map sprzed 1 wojny światowej
 
 Jakie jest znaczenie nazwiska Bozsek? Nie mogę ustalić z pewnością, jedyna wersja jaką dzisiaj znalazłem to odpowiednik polskiego słowa Bożek.
-Więc, być może, Anna junger z domu nazywała się - korzystając z tej wersji spolszczenia - Bożek.
+Więc, być może, Anna Junger z domu nazywała się - korzystając z tej wersji spolszczenia - Bożek.
 
 ## Dokumenty różne
 
