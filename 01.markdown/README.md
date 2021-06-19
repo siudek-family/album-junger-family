@@ -554,7 +554,6 @@ Więc, być może, Anna Junger z domu nazywała się - korzystając z tej wersji
 ## Materiał od Janki Gapińskiej (w trakcie opracowywania)
 
 
-Rutkowscy - Kazimiera Rutkowska z Kołomyi, byliśmy u nich z rodzicami i babcią. Alicja - córka Kazimiery Rutkowskiej, byłą u nas w Trzciance, kontaktowała się z Lidzią.
 
 Władysław Junger (kuzyn Edwarda) - był u nas w Koszalinie w 1970 roku przy okazji pogrzebu swojego znajomego który mieszkał w Koszalinie. Odnalazł nas w mieszkaniu przy ul. Zwycięstwa 85/5, potem urwał się kontakt.
 
