@@ -19,11 +19,11 @@ Wybór zdjęć i dobór komentarzy:
 ---
 Rodzina Junger pochodzi z Kołomyi na terenie dzisiejszej Ukrainy.
 
-W 1945 roku, wagonem towarowym, przyjeżdża na stałe z Kołomyi do Trzcianki (na tak zwane Ziemie Odzyskane) rodzina Jungerów. Wagonem tym jedzie 14 osób wraz z ich całym dobytkiem zabranym do Polski. Między innymi jadą: seniorka rodu Anna Junger, jej córka Stefania Hanaluk (z domu Junger), córka Stefani Halinka Hamaluk, najstarszy syn Anny - Rudolf Junger oraz rodzina Rudolfa: żona Honorata Junger (z domu Biesiadecka) oraz córki Lidka i Janina. Stefania wyjeżdża do Polski bez swojego męża Romana Hamaluka ponieważ w marcu 1945 roku w Kołomyi przed repatriacją został on zamordowany. Roman Hamaluk był listonoszem. *[JG:] Pamiętam, ciocia Stefa szukała go cały dzień z milicją gdy nie wrócił wieczorem do domu w końcu ktoś zawiadomił milicję, że ktoś leży w rowie zastrzelony. Pamiętam dokładnie pogrzeb wujka Romana Hamaluka*.
+W 1945 roku, wagonem towarowym, przyjeżdża na stałe z Kołomyi do Trzcianki (na tak zwane Ziemie Odzyskane) rodzina Jungerów. Wagonem tym jedzie 14 osób wraz z ich całym dobytkiem zabranym do Polski. Między innymi jadą: seniorka rodu Anna Junger, jej córka Stefania Hanaluk (z domu Junger), córka Stefani Halinka Hamaluk, najstarszy syn Anny - Rudolf Junger oraz rodzina Rudolfa: żona Honorata Junger (z domu Biesiadecka) oraz córki Lidka i Janina. Stefania wyjeżdża do Polski bez swojego męża Romana Hamaluka ponieważ w marcu 1945 roku w Kołomyi przed repatriacją został on zamordowany. Roman Hamaluk był listonoszem. *[JG] Pamiętam, ciocia Stefa szukała go cały dzień z milicją gdy nie wrócił wieczorem do domu w końcu ktoś zawiadomił milicję, że ktoś leży w rowie zastrzelony. Pamiętam dokładnie pogrzeb wujka Romana Hamaluka*.
 
-Edward Junger ze swoim przyjacielem Tadeuszem Trzcińskim pod koniec wojny stacjonowali z wojskiem polskim w Ostrowiu Wielkopolskim, gdzie poznali siostry Halinę i Henrykę Zawiejanki które zostały potem ich żonami. Halina żoną Edwarda Jungera, Henryka zaś żoną Tadeusza Trzcińskiego. Edward i Halina ślub wzięli w 1946 roku w Ostrowie Wielkopolskim *[JG:] Moi rodzice byli na ślubie*. Do Trzcianki Edward przyjechał po zdemobilizownaiu. W 1946 roku zamieszkali w Trzciance na ul. Pilskiej nr 9, na krótko. Następnie na Konarskiego 3.
+Edward Junger ze swoim przyjacielem Tadeuszem Trzcińskim pod koniec wojny stacjonowali z wojskiem polskim w Ostrowiu Wielkopolskim, gdzie poznali siostry Halinę i Henrykę Zawiejanki które zostały potem ich żonami. Halina żoną Edwarda Jungera, Henryka zaś żoną Tadeusza Trzcińskiego. Edward i Halina ślub wzięli w 1946 roku w Ostrowie Wielkopolskim *[JG] Moi rodzice byli na ślubie*. Do Trzcianki Edward przyjechał po zdemobilizownaiu. W 1946 roku zamieszkali w Trzciance na ul. Pilskiej nr 9, na krótko. Następnie na Konarskiego 3.
 
-[MS:] Edward Junger wraz ze swoją żoną Haliną zamieszkali po ślubie w początkowo w wynajętym mieszkaniu w Trzciance na ulicy Pilskiej 10 jako sublokator  u państwa Nene na parterze (przydział dnia 8/10/1946r). Halina dowiedziała się, że Edwardowi, jako repatriantowi i żołnierzowi przysługuje kupno domu. Edward otrzymał dom pod adresem Konarskiego 3 ok 1953 roku oraz kawałek ziemi oddanej w uprawę. Do nowego domu wprowadził się Edward z żoną i dziećmi, oraz swoją mamą Anną oraz siostrą Stefanią wraz z jej córką - Halinką. Było to chyba już po śmierci Rudolfa (zmarł w 1952 roku) u którego do tej pory mieszkały Anna, Stefania i Halinka, i być może Anna Junger wolała chyba przeprowadzić się i być blisko swojego drugiego syna - Edwarda.
+[MS] Edward Junger wraz ze swoją żoną Haliną zamieszkali po ślubie w początkowo w wynajętym mieszkaniu w Trzciance na ulicy Pilskiej 10 jako sublokator  u państwa Nene na parterze (przydział dnia 8/10/1946r). Halina dowiedziała się, że Edwardowi, jako repatriantowi i żołnierzowi przysługuje kupno domu. Edward otrzymał dom pod adresem Konarskiego 3 ok 1953 roku oraz kawałek ziemi oddanej w uprawę. Do nowego domu wprowadził się Edward z żoną i dziećmi, oraz swoją mamą Anną oraz siostrą Stefanią wraz z jej córką - Halinką. Było to chyba już po śmierci Rudolfa (zmarł w 1952 roku) u którego do tej pory mieszkały Anna, Stefania i Halinka, i być może Anna Junger wolała chyba przeprowadzić się i być blisko swojego drugiego syna - Edwarda.
 
 Dom pod adresem Konarskiego 3 w Trzciance był jednym z wielu domów opuszczonych przez Niemców zmuszonych do wyjazdu z nowych ziem polskich, i stał się na wiele lat nowym rodzinnym domem Jungerów.
 
@@ -519,6 +519,9 @@ Drugi rząd klęczą: brat Janusz, Jachowska koleżanka Stefy, syn Władka Wacek
 
 Trzeci rząd od prawej: Małgosia – córka Czesławy, Stefa – siostra Leszek – mój syn, Stefanek – syn Kazimierza, Ziuta – moja pierwsza żona, Ania – nasza córka, leży – niby śpi – Alina córka Kazimiery Ruczkowskiej. Piszę po …… ale może jakoś w tym labiryncie nie zginiesz. Z tego zdjęcia już 8 osób nie żyje. A młodzi już żonaci i dzieciaci Tylko my trwamy w miejscu !!! Zbyszek
 
+---
+[JG]: *Władysław Junger (kuzyn Edwarda) - był u nas w Koszalinie w 1970 roku przy okazji pogrzebu swojego znajomego który mieszkał w Koszalinie. Odnalazł nas w mieszkaniu przy ul. Zwycięstwa 85/5, potem urwał się kontakt.*
+
 ## Informacje różne
 
 ### Anglik z Kołomyi
@@ -555,7 +558,6 @@ Więc, być może, Anna Junger z domu nazywała się - korzystając z tej wersji
 
 
 
-Władysław Junger (kuzyn Edwarda) - był u nas w Koszalinie w 1970 roku przy okazji pogrzebu swojego znajomego który mieszkał w Koszalinie. Odnalazł nas w mieszkaniu przy ul. Zwycięstwa 85/5, potem urwał się kontakt.
 
 W Krakowie byłam w czerwcu 1952 roku, oprowadzał mnie po Krakowie i Nowej Hucie jeden z Jungerów (nie pamiętam imienia). Chyba był studentem.
 
