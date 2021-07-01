@@ -559,7 +559,6 @@ Więc, być może, Anna Junger z domu nazywała się - korzystając z tej wersji
 
 
 
-W Krakowie byłam w czerwcu 1952 roku, oprowadzał mnie po Krakowie i Nowej Hucie jeden z Jungerów (nie pamiętam imienia). Chyba był studentem.
 
 Edward Junger był najmłodszym synem babci Anny Junger i Franciszka Junger. Do Rudnik przyjeżdżał przed wojną na wakacje w mundurze harcerskim, jak na zdjęciu. Ja z Lidzią mówiłyśmy mu po imieniu bo nie zezwalał inaczej i tak już zostało do końca z całym szacunkiem, bardzo lubiany Edek. Do Trzcianki przyjechał po zwolnieniu z wojska w 1946 roku.
 
