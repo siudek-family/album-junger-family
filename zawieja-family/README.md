@@ -30,7 +30,7 @@ Na zdjęciu:  W oknach od lewej Kazimiera Zawieja i Babcia M. Gucz. Z lewej stro
 “W domu tym prężyła firany Kazimiera Zawieja z córką Mirą, a trafiali się i zamożniejsi klienci, jak np. producent wędlin. Wtedy najmłodsza Krysia zanosiła firany takiemu odbiorcy, za co często była nagradzana - i tak trafiało się Krysi wrócić z wędlinami. Można więc powiedzieć, że rodzinny interes prosperował w kilku płaszczyznach” Krystyna Muszalska o swojej mamie, siostrze i sobie samej oraz o rodzinnym biznesie
 
 ---
-![1925-11-20 02 Orędownik Ostrowski-fix-dark.jpeg](1925-11-20 02 Orędownik Ostrowski-fix-dark.jpeg)
+![1925-11-20-oredownik-ostrowski.jpeg](1925-11-20-oredownik-ostrowski.jpeg)
 
 "Orędownik Ostrowski" z dnia 20 listopada 1925r. z reklamą usług M. Gucz. Adres jest prawdopodobnie innym adresem niż widniejący na zdjęciu obok dom. [SS]
 
