@@ -377,6 +377,8 @@ Edward Junger pierwszy z lewej wygląda jak końcówka szkoły średniej. Może 
 ![Edward Junger harcerz](edward-junger-06.jpg)  
 Młody Edward Junger jako harcerz
 
+[JG]: *Edward Junger był najmłodszym synem babci Anny Junger i Franciszka Junger. Do Rudnik przyjeżdżał przed wojną na wakacje w mundurze harcerskim, jak na zdjęciu. Ja z Lidzią ([SS] Lidzia -> córka Rudolfa Jungera, a siostra Janki) mówiłyśmy mu po imieniu bo nie zezwalał inaczej i tak już zostało do końca z całym szacunkiem, bardzo lubiany Edek. Do Trzcianki przyjechał po zwolnieniu z wojska w 1946 roku.*
+
 ---
 ![Edward Junger i pomnik](edward-junger-pomnik.jpg)  
 Edward drugi od lewej strony
@@ -526,7 +528,7 @@ Trzeci rząd od prawej: Małgosia – córka Czesławy, Stefa – siostra Leszek
 
 ### Anglik z Kołomyi
 
-Jedno ze zdjęć pozostałych po Rudolfie Jungerze przedstawia jego kolegę z dedykacją 'Anglikowi z Kołomyi'.  
+Jedno ze zdjęć pozostałych po Rudolfie Jungerze przedstawia jego kolegę z dedykacją dla Rudolfa 'Anglikowi z Kołomyi'.  
 Powiedzenie 'Anglik z Kołomyi' było b. popularne na dawnych Kresach przed II wojną światową. Powstało w XIX wieku, i miało charakteryzować prowincjusza udającego człowieka z wielkiego świata, który zna języki, choć w żadnym nie umie poprawnie coś powiedzieć. A dlaczego z Kołomyi? Bo w 1879 roku w pobliskiej Słobodzie Rungurskiej odkryto bogate złoża ropy naftowej, powstało tam setki szybów, a właśnie w Kołomyi wybudowano rafinerię. Ściągnęło to do miasta kapitał angielski i rzeczywiście na ulicach coraz częściej słychać było mowę Szekspira, która co niektórzy naśladowali jak papugi. A samo powiedzenie było po prostu zawistne. Ponieważ wielu mieszkańców na ropie się dorobiło, to 'Anglicy' z grubym portfelem stali się marzeniem sklepikarzy, restauratorów i innych rzemieślników. Miasto było bogate, z oświetleniem gazowym, pięknym dworcem. [Znalezione w internecie SS]
 
 ## Miejscowość w Rumunii Beiuş (węgierskie: Belényes)
@@ -560,7 +562,6 @@ Więc, być może, Anna Junger z domu nazywała się - korzystając z tej wersji
 
 
 
-Edward Junger był najmłodszym synem babci Anny Junger i Franciszka Junger. Do Rudnik przyjeżdżał przed wojną na wakacje w mundurze harcerskim, jak na zdjęciu. Ja z Lidzią mówiłyśmy mu po imieniu bo nie zezwalał inaczej i tak już zostało do końca z całym szacunkiem, bardzo lubiany Edek. Do Trzcianki przyjechał po zwolnieniu z wojska w 1946 roku.
 
 W wagonie jechał również Henryk Biesiadecki z żoną Kazimierą i dziećmi Andrzejem i Jagodą. Również z nimi jechali państwo Tokarczykowie (ich przyjaciele) z synem Ryszardem.
 
