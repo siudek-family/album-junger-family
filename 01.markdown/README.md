@@ -377,7 +377,7 @@ Edward Junger pierwszy z lewej wygląda jak końcówka szkoły średniej. Może 
 ![Edward Junger harcerz](edward-junger-06.jpg)  
 Młody Edward Junger jako harcerz
 
-[JG]: *Edward Junger był najmłodszym synem babci Anny Junger i Franciszka Junger. Do Rudnik przyjeżdżał przed wojną na wakacje w mundurze harcerskim, jak na zdjęciu. Ja z Lidzią ([SS] Lidzia -> córka Rudolfa Jungera, a siostra Janki) mówiłyśmy mu po imieniu bo nie zezwalał inaczej i tak już zostało do końca z całym szacunkiem, bardzo lubiany Edek. Do Trzcianki przyjechał po zwolnieniu z wojska w 1946 roku.*
+[JG]: *Edward Junger był najmłodszym synem babci Anny Junger i Franciszka Junger. Do Rudnik przyjeżdżał przed wojną na wakacje w mundurze harcerskim, jak na zdjęciu. Ja z Lidzią ([SS]: Lidzia -> córka Rudolfa Jungera, a siostra Janki) mówiłyśmy mu po imieniu bo nie zezwalał inaczej i tak już zostało do końca z całym szacunkiem, bardzo lubiany Edek. Do Trzcianki przyjechał po zwolnieniu z wojska w 1946 roku.*
 
 ---
 ![Edward Junger i pomnik](edward-junger-pomnik.jpg)  
