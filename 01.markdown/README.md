@@ -1,4 +1,4 @@
-## Rodzina Junger
+# Rodzina Junger
 
 ***"Człowiek żyje tak długo, aż nie zginie po nim pamięć."***
 
@@ -14,20 +14,25 @@ Wybór zdjęć i dobór komentarzy:
 
 - Jerzy Junger, syn Edwarda Jungera: komentarze oraz wszystkie zdjęcia rodzinne.
 - Sławomir Siudek [SS], wnuk Edwarda Jungera: kompilacja materiału, dodatkowe źródła archiwalne lub internetowe
+- Maria Siudek [MS], najstarsza córka Edwarda Jungera, komentarze
 - Janka Gapińska [JG], młodsza córka Rudolfa Jungera: część komentarzy dotycząca rodzinu Junger
 
 ---
 Rodzina Junger pochodzi z Kołomyi na terenie dzisiejszej Ukrainy.
 
-We wspomnieniach Eugeniusza Dmytrów "Ocalić od Zapomnienia Kosaczów - dzielnica Kołomyi" w bogatym opisie dzielnicy międzywojennej Kołomyi - Kosaczowa - znajdujemy, wśród opisu mieszkańców tej dzielnicy, zapis: "*Ulica boczna Zygmuntowskiej. Junger – syn Edward. Edzio Junger (1923) ukończył przed wojną trzecią klasę gimnazjalną KKJ. Postać znana w kręgach gimnazjalnych, harcerskich i środowiskowych. Osiadł w Trzciance.*" Podana w opisie data - 1923 - datą urodzenia (dość dokładną, faktycznie powinno być 1922), zaś KKJ to skrót of kołomyjskiego liceum i gimnazjum im. Króla Kazimierza Jagiellończyka.
+[SS] We wspomnieniach Eugeniusza Dmytrów "Ocalić od Zapomnienia Kosaczów - dzielnica Kołomyi" w bogatym opisie dzielnicy międzywojennej Kołomyi - Kosaczowa - znajdujemy, wśród opisu mieszkańców tej dzielnicy, zapis: "*Ulica boczna Zygmuntowskiej. Junger – syn Edward. Edzio Junger (1923) ukończył przed wojną trzecią klasę gimnazjalną KKJ. Postać znana w kręgach gimnazjalnych, harcerskich i środowiskowych. Osiadł w Trzciance.*" Podana w opisie data - 1923 - datą urodzenia (dość dokładną, faktycznie powinno być 1922), zaś KKJ to skrót of kołomyjskiego liceum i gimnazjum im. Króla Kazimierza Jagiellończyka.
 
-W 1945 roku, wagonem towarowym, przyjeżdża na stałe z Kołomyi do Trzcianki (na tak zwane Ziemie Odzyskane) rodzina Jungerów. Wagonem tym jedzie 14 osób wraz z ich całym dobytkiem zabranym do Polski. Między innymi jadą: seniorka rodu Anna Junger, jej córka Stefania Hanaluk (z domu Junger), córka Stefani Halinka Hamaluk, najstarszy syn Anny - Rudolf Junger oraz rodzina Rudolfa: żona Honorata Junger (z domu Biesiadecka) oraz córki Lidka i Janina. Stefania wyjeżdża do Polski bez swojego męża Romana Hamaluka ponieważ w marcu 1945 roku w Kołomyi przed repatriacją został on zamordowany. Roman Hamaluk był listonoszem. *[JG] Pamiętam, ciocia Stefa szukała go cały dzień z milicją gdy nie wrócił wieczorem do domu w końcu ktoś zawiadomił milicję, że ktoś leży w rowie zastrzelony. Pamiętam dokładnie pogrzeb wujka Romana Hamaluka*.
+[JG] W sierpniu 1945 roku, wagonem towarowym, przyjeżdża na stałe z Kołomyi do Trzcianki (na tak zwane Ziemie Odzyskane) rodzina Jungerów. Wagonem tym jedzie 14 osób wraz z ich całym dobytkiem zabranym do Polski. Między innymi jadą: seniorka rodu Anna Junger, jej córka Stefania Hanaluk (z domu Junger), córka Stefani Halinka Hamaluk, najstarszy syn Anny - Rudolf Junger oraz rodzina Rudolfa: żona Honorata Junger (z domu Biesiadecka) oraz córki Lidka i Janina. W wagonie jechał również Henryk Biesiadecki z żoną Kazimierą i dziećmi Andrzejem i Jagodą. Również z nimi jechali państwo Tokarczykowie (ich przyjaciele) z synem Ryszardem.
+
+Stefania wyjeżdża do Polski bez swojego męża Romana Hamaluka ponieważ w marcu 1945 roku w Kołomyi przed repatriacją został on zamordowany. Roman Hamaluk był listonoszem. *[JG] Pamiętam, ciocia Stefa szukała go cały dzień z milicją gdy nie wrócił wieczorem do domu w końcu ktoś zawiadomił milicję, że ktoś leży w rowie zastrzelony. Pamiętam dokładnie pogrzeb wujka Romana Hamaluka*.
+
+Po przybyciu do Trzcianki szukają domu, w końcu zamieszkują przy ulicy Pilskiej: Rudolf i Honorata z córkami na parterze (3 pokoje), zaś mama Anna Junger, siostra Stefa Hamaluk (Junger) i jej córka Halinka na pierwszym piętrze (1 pokój).
 
 Edward Junger ze swoim przyjacielem Tadeuszem Trzcińskim pod koniec wojny stacjonowali z wojskiem polskim w Ostrowiu Wielkopolskim, gdzie poznali siostry Halinę i Henrykę Zawiejanki które zostały potem ich żonami. Halina żoną Edwarda Jungera, Henryka zaś żoną Tadeusza Trzcińskiego. Edward i Halina ślub wzięli w 1946 roku w Ostrowie Wielkopolskim *[JG] Moi rodzice byli na ślubie*. Do Trzcianki Edward przyjechał po zdemobilizownaiu. W 1946 roku zamieszkali w Trzciance na ul. Pilskiej nr 9, na krótko. Następnie na Konarskiego 3.
 
 [MS] Edward Junger wraz ze swoją żoną Haliną zamieszkali po ślubie w początkowo w wynajętym mieszkaniu w Trzciance na ulicy Pilskiej 10 jako sublokator  u państwa Nene na parterze (przydział dnia 8/10/1946r). Halina dowiedziała się, że Edwardowi, jako repatriantowi i żołnierzowi przysługuje kupno domu. Edward otrzymał dom pod adresem Konarskiego 3 ok 1953 roku oraz kawałek ziemi oddanej w uprawę. Do nowego domu wprowadził się Edward z żoną i dziećmi, oraz swoją mamą Anną oraz siostrą Stefanią wraz z jej córką - Halinką. Było to chyba już po śmierci Rudolfa (zmarł w 1952 roku) u którego do tej pory mieszkały Anna, Stefania i Halinka, i być może Anna Junger wolała chyba przeprowadzić się i być blisko swojego drugiego syna - Edwarda.
 
-Dom pod adresem Konarskiego 3 w Trzciance był jednym z wielu domów opuszczonych przez Niemców zmuszonych do wyjazdu z nowych ziem polskich, i stał się na wiele lat nowym rodzinnym domem Jungerów.
+[SS] Dom pod adresem Konarskiego 3 w Trzciance był jednym z wielu domów opuszczonych przez Niemców zmuszonych do wyjazdu z nowych ziem polskich, i stał się na wiele lat nowym rodzinnym domem Jungerów.
 
 ![mapa kolomea](mapa-kolomea-01.png)
 
@@ -114,7 +119,6 @@ Zatrudniony w PKP w Kołomyi od 1-go października 1923 roku z przerwą na dwule
 
 Po wkroczenia Rosjan we wrześniu 1939 r., zwolniony z pracy na stacji kolejowej, pracował z Hucułami przy wyrębie lasu w górach. Pomagał też swojemu teściowi Józefowi Biesiadeckiemu w pracy na polu. W tym czasie, od początku wakacji w 1939, najbliższa rodzina Rudolfa (żona, dzieci) przebywali u jego teściów - Anny i wspomnianego wcześniej Józefa Biesiadeckich
 Na początku lat 40 zatrudnił się na PKP w Kołomyi, gdzie mieszkał ze swoją mamą Anną. Najbliższa rodzina: córki – Lidia, Janka oraz żona Honorata – pozostały w  czasie okupacji w Rudnikach u dziadków Biesiadeckich. Przeniosły się do Rudolfa do Kołomyi od września 1944, i tam obie córki uczęszczały do polskiej szkoły.  
-W sierpniu 1945 roku Rudolf Junger przyjeżdża z rodziną wagonem towarowym z Kołomyi do Trzcianki wraz ze swoim dobytkiem. Wraz z nim do Trzcianki wyjeżdżają na stałe jego żona Honorata, ich córki Lidzia i Janka, jego mama Anna Junger, siostra Stefania Hamaluk (Junger) oraz jej córka Halinką. Po przybyciu do Trzcianki szukają domu, w końcu zamieszkują przy ulicy Pilskiej: Rudolf i Honorata z córkami na parterze (3 pokoje), zaś mama Anna Junger, siostra Stefa Hamaluk (Junger) i jej córka Halinka na pierwszym piętrze (1 pokój).
 
 ![Rudolf Junger](rudolf-junger-02.png)  
 W ramach repatriacji w lipcu 1945 Rudolf z żoną i córkami wyjeżdża do Polski, gdzie zamieszkują w Trzciance od 15 sierpnia 1945.
@@ -559,13 +563,6 @@ Więc, być może, Anna Junger z domu nazywała się - korzystając z tej wersji
 ![Swiadectwo zgonu Anna Junger](anna-junger-akt-zgonu.png)
 
 ## Materiał od Janki Gapińskiej (w trakcie opracowywania)
-
-
-
-
-
-
-W wagonie jechał również Henryk Biesiadecki z żoną Kazimierą i dziećmi Andrzejem i Jagodą. Również z nimi jechali państwo Tokarczykowie (ich przyjaciele) z synem Ryszardem.
 
 Do Trzcianki przyjechał również Tadeusz Trzciński, który zamieszkał z matką i z bratem Mieczysławem u pani Siekierskiej na ulicy Pilskiej 14 na pierwszym piętrze (był to dom bliżniak adresu Pilska 13-cie)
 
