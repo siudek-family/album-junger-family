@@ -15,7 +15,7 @@ Wybór zdjęć i dobór komentarzy:
 - Jerzy Junger, syn Edwarda Jungera: komentarze oraz wszystkie zdjęcia rodzinne.
 - Sławomir Siudek [SS], wnuk Edwarda Jungera: kompilacja materiału, dodatkowe źródła archiwalne lub internetowe
 - Maria Siudek [MS], najstarsza córka Edwarda Jungera, komentarze
-- Janka Gapińska [JG], młodsza córka Rudolfa Jungera: część komentarzy dotycząca rodzinu Junger
+- Janka Gapińska [JG], młodsza córka Rudolfa Jungera: część komentarzy dotycząca rodziny Junger
 
 ---
 Rodzina Junger pochodzi z Kołomyi na terenie dzisiejszej Ukrainy.
@@ -29,6 +29,8 @@ Stefania wyjeżdża do Polski bez swojego męża Romana Hamaluka ponieważ w mar
 Po przybyciu do Trzcianki szukają domu, w końcu zamieszkują przy ulicy Pilskiej: Rudolf i Honorata z córkami na parterze (3 pokoje), zaś mama Anna Junger, siostra Stefa Hamaluk (Junger) i jej córka Halinka na pierwszym piętrze (1 pokój).
 
 Edward Junger ze swoim przyjacielem Tadeuszem Trzcińskim pod koniec wojny stacjonowali z wojskiem polskim w Ostrowiu Wielkopolskim, gdzie poznali siostry Halinę i Henrykę Zawiejanki które zostały potem ich żonami. Halina żoną Edwarda Jungera, Henryka zaś żoną Tadeusza Trzcińskiego. Edward i Halina ślub wzięli w 1946 roku w Ostrowie Wielkopolskim *[JG] Moi rodzice byli na ślubie*. Do Trzcianki Edward przyjechał po zdemobilizownaiu. W 1946 roku zamieszkali w Trzciance na ul. Pilskiej nr 9, na krótko. Następnie na Konarskiego 3.
+
+Potem do Trzcianki przyjechał również Tadeusz Trzciński, który zamieszkał z matką i z bratem Mieczysławem u pani Siekierskiej na ulicy Pilskiej 14 na pierwszym piętrze (był to dom bliżniak adresu Pilska 13-cie)
 
 [MS] Edward Junger wraz ze swoją żoną Haliną zamieszkali po ślubie w początkowo w wynajętym mieszkaniu w Trzciance na ulicy Pilskiej 10 jako sublokator  u państwa Nene na parterze (przydział dnia 8/10/1946r). Halina dowiedziała się, że Edwardowi, jako repatriantowi i żołnierzowi przysługuje kupno domu. Edward otrzymał dom pod adresem Konarskiego 3 ok 1953 roku oraz kawałek ziemi oddanej w uprawę. Do nowego domu wprowadził się Edward z żoną i dziećmi, oraz swoją mamą Anną oraz siostrą Stefanią wraz z jej córką - Halinką. Było to chyba już po śmierci Rudolfa (zmarł w 1952 roku) u którego do tej pory mieszkały Anna, Stefania i Halinka, i być może Anna Junger wolała chyba przeprowadzić się i być blisko swojego drugiego syna - Edwarda.
 
@@ -123,11 +125,7 @@ Na początku lat 40 zatrudnił się na PKP w Kołomyi, gdzie mieszkał ze swoją
 ![Rudolf Junger](rudolf-junger-02.png)  
 W ramach repatriacji w lipcu 1945 Rudolf z żoną i córkami wyjeżdża do Polski, gdzie zamieszkują w Trzciance od 15 sierpnia 1945.
 
-Rudolf Junger zatrudniony zostaje w połowie 1945 w PKP w Trzciance, a następnie przeniesiony do Gubina z uwagi na jego uprawnienia celne. Tam zachorował.
-
-W szpitalu przebywa od 02.03.1952, po czym umiera 16 marca 1952 w Instytucie Onkologii w Gliwicach.
-
-Zmarł w Gliwicach w Instytucie Onkologii 16.03.1952.
+Rundolf Junger (kolejarz z zamiłowania) zatrudniony zostaje w połowie 1945 r. w PKP w Trzciance, następnie został przeniesiony do Gubina z uwagi na jego uprawnienia celne. Mieszkał służbowo w Gubinie, żona Honorata z córkami w Trzciance. W czasie pracy w Gubinie zachorował. W szpitalu przebywa od 02.03.1952, po czym umiera 16 marca 1952 w Instytucie Onkologii w Gliwicach. Na pogrzebie Rudolfa była delegacja ze sztandarem z Gubina.
 
 Pochowany na starym cmentarzu w Trzciance
 
@@ -560,11 +558,6 @@ Więc, być może, Anna Junger z domu nazywała się - korzystając z tej wersji
 
 ## Dokumenty różne
 
-![Swiadectwo zgonu Anna Junger](anna-junger-akt-zgonu.png)
-
-## Materiał od Janki Gapińskiej (w trakcie opracowywania)
-
-Do Trzcianki przyjechał również Tadeusz Trzciński, który zamieszkał z matką i z bratem Mieczysławem u pani Siekierskiej na ulicy Pilskiej 14 na pierwszym piętrze (był to dom bliżniak adresu Pilska 13-cie)
-
-Rundolf Junger (kolejarz z zamiłowania) zatrudnił się w PKP w Trzciance, następnie został przeniesiony do Gubina z uwagi na jego uprawnienia celne. Tam zachorował, umarł 16 marca 1952 roku w Instytucie Onkologii w Gliwicach. Na pogrzebie Rudolfa była delegacja ze sztandarem z Gubina.
+![Swiadectwo zgonu Anna Junger](anna-junger-akt-zgonu.png)  
+[SS] Dużo czasu mnie kosztowało ustalenie co za miejscowość jest wynieniona jako miejsce urodzenia Anny Junger ... dzięki niemieckim archiwalnym materiałom dzisiaj wiem że to opisane wcześniej *Pașcani*
 
